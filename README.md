@@ -13,6 +13,7 @@ To ensure a consistent and quality experience for all users, please adhere to th
 - **No New Files**: Do not create new files. Only edit existing files.
 - **No External Links**: Avoid linking to external websites. All content should be self-contained within the Wiki.
 - **Appropriate Content**: Any content must adhere to IdleMMO's [Terms of Service](https://web.idle-mmo.com/legal/terms) and [Code of Conduct](https://web.idle-mmo.com/legal/code-of-conduct).
+- **List All Changes**: Each PR must include a detailed list of all changes made. This should be clearly outlined in the pull request description.
 
 ## Additional Contribution Notes
 
