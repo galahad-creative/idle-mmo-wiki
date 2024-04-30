@@ -30,12 +30,10 @@ Please note the following additional requirements to maintain the integrity and 
 
 To contribute to the IdleMMO Wiki, follow these simplified steps:
 
-1. **Clone the repository** to your local machine.
-2. **Create a new branch** for your changes.
-3. **Edit the files** in Markdown based on the contribution guidelines.
-4. **Commit your changes** with a brief message.
-5. **Push the branch** to GitHub.
-6. **Submit a pull request** (PR) for review.
+1. **Fork** the repository to create your own copy.
+2. **Make changes** in your forked repository. Ensure you adhere to the contribution guidelines outlined.
+3. **Commit** your changes with a clear description.
+4. **Submit a pull request (PR)** from your fork to our main repository for review.
 
 That's it! Once submitted, your PR will be reviewed by the maintainers.
 
