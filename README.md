@@ -2,10 +2,9 @@
 Welcome to the official Wiki for IdleMMO, a comprehensive resource designed to assist players and contributors in understanding and engaging with the game. This Wiki provides detailed documentation and insights into the gameplay mechanics, characters, quests, and much more. 
 
 # Status: Closed
-While we are not currently accepting pull requests, please use this guide to prepare your contributions for when the wiki becomes open to submissions. 
+While we are not currently accepting pull requests, please use this guide to prepare your contributions for when the wiki becomes open to submissions. Join our [Discord Server](https://discord.gg/nDGbr7AKkk) to be notified when we will accept PR's.
 
 ## Requirements
-
 To ensure a consistent and quality experience for all users, please adhere to the following guidelines when contributing to the Wiki:
 
 - **Markdown Only**: All contributions must be in Markdown format. HTML code is not supported and will be rejected.
@@ -16,11 +15,10 @@ To ensure a consistent and quality experience for all users, please adhere to th
 - **List All Changes**: Each PR must include a detailed list of all changes made. This should be clearly outlined in the pull request description.
 
 ## Additional Contribution Notes
-
 Please note the following additional requirements to maintain the integrity and usefulness of the Wiki:
 
 - **Language Support**: Currently, we only support content in English. Contributions in other languages will not be accepted.
-- **Separate Pull Requests**: Keep your pull requests (PRs) small. If a PR contains hundreds of changes, it risks rejection if even a single line violates our guidelines. Separate your changes into multiple PRs to facilitate easier review and prevent wholesale rejection.
+- **Separate Pull Requests**: Keep your pull requests (PRs) small. If a PR contains hundreds of changes, it risks rejection if even a single line violates our guidelines. Split large updates into multiple PRs for simpler reviews and better approval chances.
 - **Image Usage**: Only images hosted on the IdleMMO CDN are allowed. Obtain these by copying an image URL directly from the game.
 - **Factual Content**: Ensure that all contributions are factual and unbiased. Avoid opinions or subjective statements.
 - **Appropriate Language**: Use clear, straightforward, and appropriate language that is easy to understand.
@@ -28,7 +26,6 @@ Please note the following additional requirements to maintain the integrity and 
 - **Verification**: Contributors are required to provide sources or methodologies for any statistical data or gameplay mechanics they include in their contributions. This information should be detailed in the description of the pull request and does not need to be part of the wiki content itself. This will help ensure the accuracy and reliability of the information added to the wiki.
 
 ## How to Contribute
-
 To contribute to the IdleMMO Wiki, follow these simplified steps:
 
 1. **Fork** the repository to create your own copy.
@@ -37,6 +34,5 @@ To contribute to the IdleMMO Wiki, follow these simplified steps:
 4. **Submit a pull request (PR)** from your fork to our main repository for review.
 
 That's it! Once submitted, your PR will be reviewed by the maintainers.
-
 
 Thank you for your contributions and support in making the IdleMMO community thrive.
