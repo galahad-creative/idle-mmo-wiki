@@ -7,23 +7,24 @@ While we are not currently accepting pull requests, please use this guide to pre
 ## Requirements
 To ensure a consistent and quality experience for all users, please adhere to the following guidelines when contributing to the Wiki:
 
-- **Markdown Only**: All contributions must be in Markdown format. HTML code is not supported and will be rejected.
-- **Maintain File Structure**: Do not alter the existing file structure of the Wiki. Contributions should fit seamlessly into the current structure.
-- **No New Files**: Do not create new files. Only edit existing files.
-- **No External Links**: Avoid linking to external websites. All content should be self-contained within the Wiki.
-- **Appropriate Content**: Any content must adhere to IdleMMO's [Terms of Service](https://web.idle-mmo.com/legal/terms) and [Code of Conduct](https://web.idle-mmo.com/legal/code-of-conduct).
-- **List All Changes**: Each PR must include a detailed list of all changes made. This should be clearly outlined in the pull request description.
+- **Markdown Only** - All contributions must be in Markdown format. HTML code is not supported and will be rejected.
+- **Maintain File Structure** - Do not alter the existing file structure of the Wiki. Contributions should fit seamlessly into the current structure.
+- **No New Files** - Do not create new files. Only edit existing files.
+- **Don't Edit index.md** - Any changes to index.md will be denied.
+- **No External Links** - Avoid linking to external websites. All content should be self-contained within the Wiki.
+- **Appropriate Content** - Any content must adhere to IdleMMO's [Terms of Service](https://web.idle-mmo.com/legal/terms) and [Code of Conduct](https://web.idle-mmo.com/legal/code-of-conduct).
+- **List All Changes** - Each PR must include a detailed list of all changes made. This should be clearly outlined in the pull request description.
 
 ## Additional Contribution Notes
 Please note the following additional requirements to maintain the integrity and usefulness of the Wiki:
 
-- **Language Support**: Currently, we only support content in English. Contributions in other languages will not be accepted.
-- **Separate Pull Requests**: Keep your pull requests (PRs) small. If a PR contains hundreds of changes, it risks rejection if even a single line violates our guidelines. Split large updates into multiple PRs for simpler reviews and better approval chances.
-- **Image Usage**: Only images hosted on the IdleMMO CDN are allowed. Obtain these by copying an image URL directly from the game.
-- **Factual Content**: Ensure that all contributions are factual and unbiased. Avoid opinions or subjective statements.
-- **Appropriate Language**: Use clear, straightforward, and appropriate language that is easy to understand.
-- **AI Content**: Contributions must be primarily human-generated. While AI tools can be used to check grammar or refine language, fully AI-generated content is not permitted.
-- **Verification**: Contributors are required to provide sources or methodologies for any statistical data or gameplay mechanics they include in their contributions. This information should be detailed in the description of the pull request and does not need to be part of the wiki content itself. This will help ensure the accuracy and reliability of the information added to the wiki.
+- **Language Support** - Currently, we only support content in English. Contributions in other languages will not be accepted.
+- **Separate Pull Requests** - Keep your pull requests (PRs) small. If a PR contains hundreds of changes, it risks rejection if even a single line violates our guidelines. Split large updates into multiple PRs for simpler reviews and better approval chances.
+- **Image Usage** - Only images hosted on the IdleMMO CDN are allowed. Obtain these by copying an image URL directly from the game.
+- **Factual Content** - Ensure that all contributions are factual and unbiased. Avoid opinions or subjective statements.
+- **Appropriate Language** - Use clear, straightforward, and appropriate language that is easy to understand.
+- **AI Content** - Contributions must be primarily human-generated. While AI tools can be used to check grammar or refine language, fully AI-generated content is not permitted.
+- **Verification** - Contributors are required to provide sources or methodologies for any statistical data or gameplay mechanics they include in their contributions. This information should be detailed in the description of the pull request and does not need to be part of the wiki content itself. This will help ensure the accuracy and reliability of the information added to the wiki.
 
 ## How to Contribute
 To contribute to the IdleMMO Wiki, follow these simplified steps:
