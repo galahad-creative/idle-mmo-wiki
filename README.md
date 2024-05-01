@@ -1,9 +1,6 @@
 # IdleMMO Official Wiki
 Welcome to the official Wiki for IdleMMO, a comprehensive resource designed to assist players and contributors in understanding and engaging with the game. This Wiki provides detailed documentation and insights into the gameplay mechanics, characters, quests, and much more. 
 
-# Status: Closed
-While we are not currently accepting pull requests, please use this guide to prepare your contributions for when the wiki becomes open to submissions. Join our [Discord Server](https://discord.gg/nDGbr7AKkk) to be notified when we will accept PR's.
-
 ## Requirements
 To ensure a consistent and quality experience for all users, please adhere to the following guidelines when contributing to the Wiki:
 
