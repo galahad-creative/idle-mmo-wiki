@@ -89,6 +89,7 @@ As the guild levels up, more challenges can be completed per 24 hours. If a chal
 | __Generate Challenges__    | ✗       | ✔       | ✔      |
 | __Refresh Challenge__      | ✗       | ✗       | ✔      |
 | __Create Announcements__   | ✗       | ✗       | ✔      |
+| __Delete Announcements__   | ✗       | ✗       | ✔      |
 
 -------
 
