@@ -32,8 +32,9 @@ World Boss encounters serve as the primary means to acquire [Pet Eggs](/wiki/ite
 
 <div class="table-container">
 
-| Name        | Image                                                                                      | Combat Level Requirement | EXP     | Battle Length | Respawn Duration | Location        | Event                                           |
-| ----------- | ------------------------------------------------------------------------------------------ | ------------------------ | ------- | ------------- | ---------------- | --------------- | ----------------------------------------------- |
-| **Voloris** | ![image](https://cdn.idle-mmo.com/cdn-cgi/image/height=50,width=50/global/helmet-solo.png) | Level 10                 | 500 EXP | 80s           | 150m             | Yulewood Glades | Limited Time Boss - [Yule Fest](./campaigns.md) |
+| Name        | Image                                                                                                                                      | Combat Level Requirement | EXP     | Battle Length | Respawn Duration | Location           | Event                                                                                             |
+|-------------|--------------------------------------------------------------------------------------------------------------------------------------------| ------------------------ | ------- | ------------- | ---------------- |--------------------|---------------------------------------------------------------------------------------------------|
+| **Voloris** | ![image](https://cdn.idle-mmo.com/cdn-cgi/image/height=50,width=50/uploaded/skins/xIcBS0kz0Ndi6Ulj6TOV8GYkQqutBd-metaZWxmbWFuLnBuZw==-.png) | Level 10                 | 500 EXP | 80s           | 150m             | Yulewood Glades    | Limited Time Boss - [Yule Fest](/wiki/activities-and-challenges/campaigns?same_window=true)       |
+| **Altair**  | ![image](https://cdn.idle-mmo.com/cdn-cgi/image/height=50,width=50/uploaded/skins/01HT2CX1M7659ZJZ1PFFSKCC4J.png) | Level 10                 | 500 EXP | 80s           | 150m             | Springtide Fair    | Limited Time Boss - [Springtide Fair](/wiki/activities-and-challenges/campaigns?same_window=true) |
 
 </div>
