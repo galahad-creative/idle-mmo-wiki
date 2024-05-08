@@ -3,8 +3,6 @@ Welcome to our comprehensive game wiki, your ultimate guide to mastering IdleMMO
 
 Whether you're a beginner seeking basic gameplay understanding or an experienced player aiming for advanced knowledge, this wiki is tailored to support your journey, helping you navigate the game with ease and expertise.
 
-**Note:** This wiki is still a work in progress.
-
 <div class="grid grid-cols-1 sm:grid-cols-2 gap-4">
 <div>
 
