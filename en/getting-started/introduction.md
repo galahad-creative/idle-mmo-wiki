@@ -10,4 +10,4 @@ We understand that your primary aim is to dive into the game, not wade through l
 
 Let's move on to the essentials and start your gaming adventure!
 
-[Press here to find out about `Skills`](/wiki/getting-started/skills)
+[Press here to find out about `Skills`](/wiki/character/skills?same_window=true)
