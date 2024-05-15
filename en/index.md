@@ -94,6 +94,17 @@ Whether you're a beginner seeking basic gameplay understanding or an experienced
 ![Cookie Policy](https://cdn.idle-mmo.com/cdn-cgi/image/width=26,height=20/uploaded/skins/xsEMoJTtsDFbxlYt120rt2p20MIWpc-metacmVjaXBlLnBuZw==-.png) [Cookie Policy](/legal/cookies?same_window=true)
 
 </div>
+<div>
+
+----
+
+#### Contribution
+
+We have open sourced our Wiki on GitHub. You can contribute by submitting a Pull Request.
+
+[View GitHub](https://github.com/galahad-creative/idle-mmo-wiki)
+
+</div>
 </div>
 
 
