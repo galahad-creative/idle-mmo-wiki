@@ -26,6 +26,20 @@ The experience gained from battles varies based on the location where the pet is
 
 When a pet returns from battle, it automatically goes back to the location where it was fighting. If you are not present at that location when the pet returns, you will not be able to interact with it until you travel to that specific location.
 
+The table below indicates the minimum pet level required to battle in each location:
+
+| Pet Level | Location                     |
+|-----------|------------------------------|
+| 1         | Bluebell Forest              |
+| 8         | Whispering Woods             |
+| 18        | Eldoria                      |
+| 32        | Crystal Caverns              |
+| 48        | Skyreach Peak                |
+| 60        | Enchanted Oasis              |
+| 70        | Floating Gardens of Aetheria |
+| 78        | Celestial Observatory        |
+| 92        | Isle of Whispers             |
+
 **Pro Tip:** Battling in higher-level areas yields more experience per second, making it more efficient. However, these fights are shorter, requiring more frequent interaction from you to maintain effectiveness. You'll need to decide if this trade-off is worthwhile!
 
 #### Pet Hunting
