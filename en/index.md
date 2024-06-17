@@ -1,7 +1,5 @@
 # Welcome to the IdleMMO Wiki
-Welcome to our comprehensive game wiki, your ultimate guide to mastering IdleMMO. This wiki serves as an extensive resource, brimming with in-depth information about every aspect of the game. From detailed walkthroughs, and mechanic breakdowns to lore expansion, this wiki is designed to enhance your gameplay experience. It offers step-by-step guides for getting and tips for overcoming challenges.
-
-Whether you're a beginner seeking basic gameplay understanding or an experienced player aiming for advanced knowledge, this wiki is tailored to support your journey, helping you navigate the game with ease and expertise.
+Welcome to our comprehensive game wiki, your ultimate guide to mastering IdleMMO. 
 
 <div class="grid grid-cols-1 sm:grid-cols-2 gap-4">
 <div>
