@@ -1,4 +1,4 @@
-# Welcome to the IdleMMO Wiki
+# Welcome
 Welcome to our comprehensive game wiki, your ultimate guide to mastering IdleMMO. 
 
 <div class="grid grid-cols-1 sm:grid-cols-2 gap-4">
