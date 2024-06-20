@@ -59,7 +59,7 @@ These challenges promote collaboration within the guild, encouraging members to 
 
 Upon successful completion of a challenge, the guild earns experience points. Additionally, participants receive 2 experience points for every item they contribute towards the challenge, regardless of whether the challenge is fully completed.
 
-As the guild levels up, more challenges can be completed within 24 hours. If a challenge is too difficult, higher-ranking members can refresh a specific task for 4 marks.
+As the guild levels up, more challenges can be completed within 24 hours. If a challenge is too difficult, higher-ranking members can refresh a specific task for 2 marks.
 
 #### Maximum Challenges
 
