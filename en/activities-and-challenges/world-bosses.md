@@ -2,11 +2,11 @@
 
 World Bosses represent a key game feature where players collaborate to vanquish a shared adversary, reaping experience and exclusive rewards in return.
 
-Scattered throughout Solaris Isle, diverse World Bosses present varying levels of challenge. While some require a considerable time investment to overcome, the duration of each battle generally aligns with the boss's combat level, albeit not strictly adhering to this guideline.
+World Bosses are spread across [Solaris Isle](wiki/lore/solaris-isle?same_window=true), offering varying challenges. Some bosses require more time to defeat, with battle durations generally reflecting their combat difficulty, though not always strictly.
 
-Following a successful defeat, a cooldown period ensues before the boss respawns, typically commensurate with its combat level.
+After a successful defeat, there is a cooldown period before the boss respawns, usually corresponding to its combat level.
 
-World Boss encounters serve as the primary means to acquire [Pet Eggs](/wiki/items-and-pets/item-types?same_window=true), crucial items enabling players to obtain pets once the incubation period elapses.
+Encountering World Bosses is the main way to acquire [Pet Eggs](/wiki/items-and-pets/item-types?same_window=true), which are essential for obtaining pets once the incubation period is over.
 
 ### List of World Bosses
 

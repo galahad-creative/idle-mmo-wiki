@@ -1,7 +1,6 @@
-# Membership
+## Membership
 
-Membership in IdleMMO is a completely optional subscription that enhances every character on an account. It's designed to be fair and balanced, offering modest benefits that provide a slight edge without being game-changing over time.
-
+Membership in IdleMMO is an optional subscription that enhances every character on your account. It's designed to be fair and balanced, offering modest benefits that provide a slight edge without being game-changing over time.
 #### Membership Benefits
 
 Subscribers enjoy the following perks across all characters:
@@ -23,4 +22,5 @@ Subscribers enjoy the following perks across all characters:
 
 The membership aims to increment certain limitations slightly and offer a modest boost in rewards. The game remains completely accessible to all players, with no content exclusively behind a paywall. 
 
+## Monetization Strategy
 For the sake of transparency, we have delved deeply into the reasoning behind our membership strategy in our detailed blog post [here](https://blog.galahadcreative.com/navigating-the-pay-to-win-debate-idlemmo/). Our aim is to strike the perfect balance between fairness to our players and financial sustainability for the game.

@@ -1,7 +1,6 @@
 # Effects
 
-Effects in the game are modifiers that influence a character's attributes and capabilities. These effects can vary greatly in nature, ranging from beneficial boosts that enhance a character's performance and rewards to detrimental debuffs that may hinder their progress.
-
+Effects in the game are modifiers that impact a character's attributes and abilities. These effects can vary widely, from beneficial boosts that enhance performance and rewards to harmful debuffs that may hinder progress.
 ### Types of Effects
 
 Effects can be broadly categorized based on their duration:

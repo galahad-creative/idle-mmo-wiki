@@ -1,5 +1,5 @@
 # Classes
-IdleMMO features diverse classes, each with unique effects, and talents that influence their effectiveness in various tasks. Combat talents, which are stat boosts, are automatically granted as characters reach specific levels.
+IdleMMO offers a variety of classes, each with unique effects and talents that enhance their performance in different tasks. Combat talents, which are stat boosts, are automatically granted as characters reach certain levels.
 
 ----------
 

@@ -1,6 +1,6 @@
 # Guilds
 
-Guilds serve as a platform for players to unite and engage in cooperative events. They facilitate various activities, including coordinated raids and challenges.
+Guilds provide a platform for players to come together and participate in cooperative events. They enable various activities, such as coordinated raids and challenges.
 
 However, the guild feature is continuously evolving. Future updates will introduce additional mechanics like guild halls and [World Boss](/wiki/activities-and-challenges/world-bosses) spawning, enriching the gameplay experience even further.
 
@@ -8,13 +8,13 @@ However, the guild feature is continuously evolving. Future updates will introdu
 
 ### Levelling and Experience
 
-Boosting the guild level through experience grants added benefits, like expanding member capacity. Further enhancements are planned for future releases.  As the guild level increases, expect to unlock additional raids and increase the daily challenge limit.
+Boosting the guild level through experience provides added benefits, such as expanding member capacity. Further enhancements are planned for future releases. As the guild level increases, you'll unlock additional raids and be able to participate in more daily challenges.
 
 -----
 
 ### Marks
 
-Marks serve as currency earned through guild challenges. They enable access to diverse guild mechanics, including the ability to refresh challenges and raid participation.
+Marks are the currency earned through guild challenges. They allow access to various guild mechanics, such as refreshing challenges and participating in raids.
 
 Currently, the sole method to acquire tokens is by completing challenges.
 
@@ -39,27 +39,27 @@ The guild member limit is dependent on the guilds total level.
 
 ### Raids
 
-Guild members can engage in raids to gain experience and rewards, collaborative events that can be organized by the guild leader. Raids are prearranged by high ranking members, allowing guild members to join a lobby before the raid commences. Once the scheduled timer reaches 0, the raid begins automatically.
+Guild members can participate in raids to earn experience and rewards. These collaborative events are organized by the guild leader. High-ranking members prearrange raids, allowing guild members to join a lobby before the raid starts. When the scheduled timer reaches zero, the raid begins automatically.
 
-The guild's experience gain hinges on the number of participants in the raid. More participants yields more experience points for the guild.
+The guild's experience gain depends on the number of participants in the raid. More participants result in more experience points for the guild.
 
 Individual participants earn experience by successfully completing guild raids, receiving both [Combat Experience](/wiki/character/skills) and [Guild Mastery Experience](/wiki/character/skills).
 
-Raids are designed to scale in time, with higher-tier raids requiring more time to finish but offering greater rewards in terms of experience per participant and experience gained per second. Thus, while they demand more time, they yield richer rewards for both the guild and its members.
+Raids are designed to scale in time, with higher-tier raids taking longer to complete but offering greater rewards. These rewards include more experience per participant and more experience gained per second. So, while higher-tier raids demand more time, they provide richer rewards for both the guild and its members.
 
-Participants forfeit rewards if they leave a raid prematurely, resulting in reduced rewards for the guild as well.
+Participants forfeit rewards if they leave a raid before it is complete, resulting in reduced rewards for the guild as well.
 
 ------
 
 ### Challenges
 
-Challenges serve as efficient avenues for the guild to accumulate experience swiftly. Members holding specific ranks within the guild have the authority to generate challenges, each lasting for a duration of 24 hours.
+Challenges are efficient ways for the guild to quickly accumulate experience. Members with specific ranks within the guild have the authority to create challenges, each lasting for 24 hours.
 
-These challenges foster collaboration within the guild, encouraging members to work collectively towards shared objectives, such as acquiring a specified quantity of items and subsequently contributing them to the challenge.
+These challenges promote collaboration within the guild, encouraging members to work together towards shared goals. Objectives may include tasks like acquiring a specific quantity of items and contributing them to the challenge.
 
-Upon successful completion, the guild earns experience points. Notably, participants are rewarded with an additional 2 experience points for every item contributed towards the challenge, irrespective of whether the challenge is completed or not.
+Upon successful completion of a challenge, the guild earns experience points. Additionally, participants receive 2 experience points for every item they contribute towards the challenge, regardless of whether the challenge is fully completed.
 
-As the guild levels up, more challenges can be completed per 24 hours. If a challenge is deemed to be too difficult, higher ranking members of the guild can refresh a specific task for 4 marks.
+As the guild levels up, more challenges can be completed within 24 hours. If a challenge is too difficult, higher-ranking members can refresh a specific task for 4 marks.
 
 #### Maximum Challenges
 
@@ -82,7 +82,7 @@ As the guild levels up, more challenges can be completed per 24 hours. If a chal
 | __Update Description__     | ✗       | ✗       | ✔      |
 | __Manage Applications__    | ✗       | ✔       | ✔      |
 | __Change Rank__            | ✗       | ✗       | ✔      |
-| __Change Background/Icon__ | ✗       | ✗       | ✔      |    
+| __Change Background/Icon__ | ✗       | ✗       | ✔      |
 | __Kick Members__           | ✗       | ✔       | ✔      |
 | __Update Settings__        | ✗       | ✗       | ✔      |
 | __Schedule Raid__          | ✗       | ✔       | ✔      |
