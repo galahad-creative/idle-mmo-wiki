@@ -1,22 +1,18 @@
-# Introduction
+## Introduction
 
-**Welcome to IdleMMO.** IdleMMO offers a unique, uninterrupted idle MMO gaming experience that's easily accessible. To kick off your adventure, we've crafted this concise yet comprehensive `Getting Started` guide.
+Welcome to IdleMMO! This game offers a unique, uninterrupted idle MMO experience that's easy to access. To help you start your adventure, we've created this simple yet thorough guide.
 
-The section serves as a straightforward manual detailing how to get started with using two primary mechanics within IdleMMO: Skills and Battling.
+This section is a simple guide on how to begin using the two main features in IdleMMO: Skills and Battling.
 
-Should you need further assistance or find the guide lacking, our [Discord](https://discord.gg/nDGbr7AKkk) community is ready to assist. Join us there, and benefit from the support and advice of our friendly and knowledgeable player base.
-
-We understand that your primary aim is to dive into the game, not wade through lengthy instructions. Therefore, we've kept this introduction brief and to the point.
-
-Let's move on to the essentials and start your gaming adventure!
+If you need more help or feel the guide isn't enough, our [Discord](https://discord.gg/nDGbr7AKkk) community is here for you. Join us to get support and advice from our friendly and knowledgeable players.
 
 ## Skills
 
-Skills are the cornerstone of IdleMMO, enabling progress even while you're away from your device — true to the idle gaming genre.
+Skills are the foundation of IdleMMO, allowing you to make progress even when you're not actively playing
 
 - Navigate to the `Mining` page via the `Skills` dropdown menu.
-- You’ll see various ores you can mine in your vicinity. Start with `Coal Ore` by clicking on it and selecting `Mine`.
-- Set in motion! For the next 80 minutes, or 120 if you're a member, your character will mine autonomously. Feel free to leave the page; your gathered ore will wait for you in your inventory.
+- You’ll see various ores you can mine in your location. Start with `Coal Ore` by clicking on it and selecting `Start`.
+- Done! For the next 80 minutes, or 120 if you're a member, your character will mine your selected ore. Feel free to close the game; your gathered ore will wait for you in your inventory when you return.
 
 Simple, isn't it?
 
@@ -36,7 +32,7 @@ The table below will show you the stat increase for each skill:
 
 ## Hunting and Battling
 
-Engaging in battle within IdleMMO begins with the hunt for enemies. This process is straightforward and sets the stage for your combat encounters.
+Engaging in battle in IdleMMO starts with finding enemies. This simple process sets the stage for your combat encounters.
 
 - To start, navigate to the `Battle Page` and click `Start Hunt`. This initiates the hunting phase.
 - Upon completion, a selection of enemies will appear on the page. Simply press on an enemy and then `Battle` to initiate the fight. Choose your opponent wisely, taking care not to engage with enemies out of your league, as enemies significantly stronger than your character may be impossible to defeat.
@@ -47,4 +43,7 @@ Engaging in battle within IdleMMO begins with the hunt for enemies. This process
 
 Congratulations! You've now mastered the basics of hunting and battling in IdleMMO. With just a few clicks, you can set your character on a path of adventure while you manage other tasks.
 
-To deepen your understanding of IdleMMO's gameplay mechanics, we encourage you to explore further sections of our wiki. Should you encounter any challenges or have questions, our welcoming community is ready to assist you on our game's [Discord server](https://discord.gg/nDGbr7AKkk).
+## What's next?
+Try checking out our [Character](/wiki/character/skills?same_window=true) section to learn more about the skills you can develop in IdleMMO.
+
+To gain a better understanding of IdleMMO's gameplay mechanics, we recommend exploring more sections of our wiki. If you face any challenges or have questions, our friendly community on the [Discord](https://discord.gg/nDGbr7AKkk) server is ready to help.

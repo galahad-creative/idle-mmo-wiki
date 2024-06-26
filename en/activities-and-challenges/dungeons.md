@@ -1,12 +1,12 @@
 # Dungeons
 
-Dungeons in the game serve as a means to passively engage in combat for extended durations, without necessitating direct player interaction as with battling enemies. Moreover, they function as the primary source for acquiring recipes, which, in turn, enable the crafting of strongest items.
+Dungeons in the game allow you to engage in combat for long periods without needing to interact directly, unlike battling enemies. They are also the main way to get recipes, which you need to craft the strongest items.
 
-The game features various dungeons, each with differing levels of difficulty. As a dungeon's level rises, so does its difficulty, resulting in a reduced chance of success. The likelihood of completing a dungeon successfully is contingent upon the combined total of the player's protection and attack power.
+The game has various dungeons, each with different difficulty levels. As a dungeon's level increases, so does its difficulty, making it harder to succeed. Your chance of successfully completing a dungeon depends on your combined protection and attack power.
 
-Each dungeon comprises multiple floors, depicted in the action bar, representing the player's ongoing idle actions. Upon clearing all floors of a dungeon, it automatically concludes, granting rewards if applicable.
+Each dungeon has multiple floors, shown in the action bar, representing the player's ongoing idle actions. Once all floors are cleared, the dungeon ends automatically, and you receive the rewards.
 
-Participating in dungeons demands a significant investment of both time and currency to obtain the most formidable items. As dungeon levels escalate, so do the associated costs in both gold and time.
+Participating in dungeons requires a significant investment of both time and currency to obtain the best items. As dungeon levels increase, the costs in both gold and time also go up.
 
 #### List of Dungeons
 

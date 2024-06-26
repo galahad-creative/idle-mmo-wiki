@@ -1,6 +1,7 @@
 # Stats
 
-Stats are attributes that are applied to the character that directly affect how the character performs on when [battling opponents](/wiki/activities-and-challenges/hunting-and-battling). In general, the higher the characters stats, the better it will perform in actions that utilise the stats.
+Stats are attributes that directly impact your character's performance in [battles]((/wiki/activities-and-challenges/hunting-and-battling)). Generally, the higher your character's stats, the better they will perform in actions that rely on those stats.
+
 
 There are various stats in IdleMMO. Each one affects a different area or mechanic of the game.
 

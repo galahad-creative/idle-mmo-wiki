@@ -4,11 +4,11 @@ In IdleMMO, the right equipment is crucial for enhancing your character's abilit
 
 #### Equipment Varieties
 
-The game boasts a diverse arsenal of gear. Whether you're gearing up for mining with specialized [Pickaxes](/wiki/items-and-pets/item-types) or arming for battle with a mighty [Sword](/wiki/items-and-pets/item-types), the options to tailor your character are plentiful. Each equipment piece bestows different stat bonuses — some pieces might significantly outperform others in power.
+The game offers a wide variety of gear. Whether you're equipping specialized [Pickaxes](/wiki/items-and-pets/item-types) for mining or wielding a powerful [Sword](/wiki/items-and-pets/item-types) for battle, you have many options to customize your character. Each piece of equipment provides different stat bonuses, with some pieces significantly outperforming others in terms of power.
 
 #### Assessing Equipment
 
-To gauge the potential of your gear, scrutinize two key attributes: [quality](/wiki/items-and-pets/qualities) and level. Typically, a higher [quality](/wiki/items-and-pets/qualities) signifies greater power, enabling your character to tackle more formidable challenges with ease.
+To understand how powerful your gear is, look at two main things: [quality](/wiki/items-and-pets/qualities) and level. Generally, higher [quality](/wiki/items-and-pets/qualities) means the gear is stronger, helping your character handle tougher challenges more easily.
 
 #### Upgrading Equipment
 
@@ -17,9 +17,9 @@ To gauge the potential of your gear, scrutinize two key attributes: [quality](/w
 
 #### Obtaining Equipment
 
-In IdleMMO, equipment acquisition differs slightly from many other games. Instead of obtaining gear directly from enemy loot or chests, players must craft items using recipes. These recipes are earned through dungeon runs. 
+In IdleMMO, getting equipment works a bit differently than in many other games. Instead of finding gear directly from enemy loot or chests, players need to craft items using recipes. These recipes are earned by completing dungeon runs.
 
-Alternatively, players can bypass the recipe acquisition process by purchasing them from the market. However, even with purchased [Recipes](/wiki/items-and-pets/item-types), materials are still required to craft the item. Additionally, players have the option to directly purchase the desired item from the market.
+Alternatively, players can skip the process of earning recipes by buying them from the market. However, even with purchased [Recipes](/wiki/items-and-pets/item-types), you'll still need materials to craft the item. Players also have the option to directly purchase the desired item from the market.
 
 #### Upgrade Limits
 
