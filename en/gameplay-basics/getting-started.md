@@ -18,18 +18,6 @@ Simple, isn't it?
 
 **Pro Tip:** Explore new locations to discover different ores.
 
-The table below will show you the stat increase for each skill:
-
-| **Skill**   | **Core Stats**    |
-|-------------|-------------------|
-| Woodcutting | Strength          |
-| Mining      | Strength, Defense |
-| Fishing     | Dexterity         |
-| Alchemy     | Speed             |
-| Smelting    | Speed             |
-| Cooking     | Dexterity         |
-| Forging     | Strength          |
-
 ## Hunting and Battling
 
 Engaging in battle in IdleMMO starts with finding enemies. This simple process sets the stage for your combat encounters.

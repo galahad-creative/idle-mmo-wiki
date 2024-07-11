@@ -32,3 +32,17 @@ IdleMMO offers a variety of skills, each with its own unique progression. Some s
 | <div>![Pet Mastery](https://cdn.idle-mmo.com/cdn-cgi/image/width=24,height=24/uploaded/skins/ByGAnT8nNgP0noQicPXr4mhgv1Ux6f-metaZHJhZ29uIDEucG5n-.png)__Pet Matery__</div> | This increases your pets overall stats and the effectiveness of patting your [pet](/wiki/items-and-pets/pets). You can increase your pet mastery skill by sending your pets to battle. |
 | <div>![Shadow Mastery](https://cdn.idle-mmo.com/cdn-cgi/image/width=24,height=24/uploaded/skins/2DKOpVK1LsY1jwOER6tfuBfPGTDXHF-metacHVtcGtpbjMucG5n-.png)__Shadow Mastery__</div> | Only available during the [Eve of Shadows campaign](/wiki/items-and-pets/campaigns). Shadow mastery allows characters to pick pumpkins, catch ghosts and perform exorcisms. |
 | <div>![Yule Mastery](https://cdn.idle-mmo.com/cdn-cgi/image/width=24,height=24/uploaded/skins/OXBGDWcgUce8zFwEUocxz59E6uABq9-metac25vd21hbi5wbmc=-.png)__Yule Mastery__</div> | Only available during the [Yule Fest campaign](/wiki/items-and-pets/campaigns). Yule mastery allows characters to gather snow, create snowballs, and build snowmen. |
+
+### Stats from Skills
+
+The table below will show you the stat increase for each skill:
+
+| **Skill**       | **Core Stats**    |
+|-----------------|-------------------|
+| <div>![Woodcutting](https://cdn.idle-mmo.com/cdn-cgi/image/width=24,height=24/uploaded/skins/DKC4LgMAyoUlDmo99LJOVbtUZsezIi-metad29vZGN1dHRpbmcucG5n-.png)__Woodcutting__</div> | Strength          |
+| <div>![Mining](https://cdn.idle-mmo.com/cdn-cgi/image/width=24,height=24/uploaded/skins/CwqOzwaWgR9ooe0BVEpgtKCAduFpka-metabWluaW5nLnBuZw==-.png)__Mining__</div>     | Strength, Defense |
+| <div>![Fishing](https://cdn.idle-mmo.com/cdn-cgi/image/width=24,height=24/uploaded/skins/aFjVlrHK2um38ufObrBRXGOZOxGHsj-metaZmlzaGluZy5wbmc=-.png)__Fishing__</div>    | Dexterity         |
+| <div>![Alchemy](https://cdn.idle-mmo.com/cdn-cgi/image/width=24,height=24/uploaded/skins/tMKfSVT7ZSbPwMxEIKmulq1B7lFIYZ-metaYWxjaGVteS5wbmc=-.png)__Alchemy__</div>    | Speed             |
+| <div>![Smelting](https://cdn.idle-mmo.com/cdn-cgi/image/width=24,height=24/uploaded/skins/01HMV8CSV9P697HRCPBMQMY6VA.png)__Smelting__</div>    | Speed             |
+| <div>![Cooking](https://cdn.idle-mmo.com/cdn-cgi/image/width=24,height=24/uploaded/skins/wI2XxGzeSRX6AFMRUADAnKji9NgOIK-metaY29va2luZy5wbmc=-.png)__Cooking__</div>    | Dexterity         |
+| <div>![Forge](https://cdn.idle-mmo.com/cdn-cgi/image/width=24,height=24/uploaded/skins/tuVX8BVjiz53PoeSWF1KJ26OTEOoZI-metaaDkucG5n-.png)__Forge__</div>    | Strength          |

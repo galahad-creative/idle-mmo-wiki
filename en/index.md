@@ -1,7 +1,7 @@
 # Welcome
 Welcome to our comprehensive game wiki, your ultimate guide to mastering IdleMMO. 
 
-<div class="grid grid-cols-1 sm:grid-cols-2 gap-4">
+<div class="grid grid-cols-1 sm:grid-cols-2 xl:grid-cols-4 divide-y divide-gray-800 gap-4 xl:gap-y-12 border-t border-gray-800 mt-4">
 <div>
 
 #### Introduction
@@ -21,16 +21,13 @@ Welcome to our comprehensive game wiki, your ultimate guide to mastering IdleMMO
 </div>
 <div>
 
-----
-
 #### Community and Competition
+
 ![Leaderboards](https://cdn.idle-mmo.com/cdn-cgi/image/width=20,height=20/tasks/total_skill.png) [Leaderboards](/wiki/community-and-competition/leaderboards?same_window=true)\
 ![Guilds](https://cdn.idle-mmo.com/cdn-cgi/image/width=20,height=20/uploaded/skins/01HQQJQD8BME4JCHG9H879XM0Q.png) [Guilds](/wiki/community-and-competition/guilds?same_window=true)
 
 </div>
 <div>
-
-----
 
 #### Lore
 ![The World](https://cdn.idle-mmo.com/cdn-cgi/image/width=26,height=20/uploaded/skins/xsEMoJTtsDFbxlYt120rt2p20MIWpc-metacmVjaXBlLnBuZw==-.png) [The World](/wiki/lore/the-world?same_window=true)\
@@ -41,8 +38,6 @@ Welcome to our comprehensive game wiki, your ultimate guide to mastering IdleMMO
 </div>
 <div>
 
------
-
 #### Items and Pets
 ![Equipment](https://cdn.idle-mmo.com/cdn-cgi/image/width=20,height=20/uploaded/skins/sEcpQ2y73QJB9p2npUDwKSrHhskKmn-metadGluLWNoZXN0cGxhdGUucG5n-.png) [Equipment](/wiki/items-and-pets/equipment?same_window=true)\
 ![Item Types](https://cdn.idle-mmo.com/cdn-cgi/image/width=20,height=20/skins/items/ore/coal.png) [Item Types](/wiki/items-and-pets/item-types?same_window=true)\
@@ -51,8 +46,6 @@ Welcome to our comprehensive game wiki, your ultimate guide to mastering IdleMMO
 
 </div>
 <div>
-
-----
 
 #### Activites and Challenges
 ![Hunting and Battling](https://cdn.idle-mmo.com/cdn-cgi/image/width=20,height=20/uploaded/skins/ryXY3r3TY70wWquLMMZ7idvKVR19GS-metaaHVudGluZy1pbWFnZS5wbmc=-.png) [Hunting and Battling](/wiki/activities-and-challenges/hunting-and-battling?same_window=true)\
@@ -64,16 +57,12 @@ Welcome to our comprehensive game wiki, your ultimate guide to mastering IdleMMO
 </div>
 <div>
 
-----
-
 #### Economy and Trading
 ![Vendor](https://cdn.idle-mmo.com/cdn-cgi/image/width=20,height=20/global/token.png) [Vendor](/wiki/economy-and-trading/vendor?same_window=true)\
 ![Market](https://cdn.idle-mmo.com/cdn-cgi/image/width=20,height=20/global/gold_coin.png) [Market](/wiki/economy-and-trading/market?same_window=true)
 
 </div>
 <div>
-
-----
 
 #### More
 ![Patch Notes](https://cdn.idle-mmo.com/cdn-cgi/image/width=26,height=20/uploaded/skins/xsEMoJTtsDFbxlYt120rt2p20MIWpc-metacmVjaXBlLnBuZw==-.png) [Patch Notes](/wiki/more/patch-notes?same_window=true)\
@@ -83,8 +72,6 @@ Welcome to our comprehensive game wiki, your ultimate guide to mastering IdleMMO
 </div>
 <div>
 
-----
-
 #### Legal
 ![Code of Conduct](https://cdn.idle-mmo.com/cdn-cgi/image/width=26,height=20/uploaded/skins/xsEMoJTtsDFbxlYt120rt2p20MIWpc-metacmVjaXBlLnBuZw==-.png) [Code of Conduct](/legal/code-of-conduct?same_window=true)\
 ![Privacy Policy](https://cdn.idle-mmo.com/cdn-cgi/image/width=26,height=20/uploaded/skins/xsEMoJTtsDFbxlYt120rt2p20MIWpc-metacmVjaXBlLnBuZw==-.png) [Privacy Policy](/legal/privacy?same_window=true)\
@@ -92,9 +79,7 @@ Welcome to our comprehensive game wiki, your ultimate guide to mastering IdleMMO
 ![Cookie Policy](https://cdn.idle-mmo.com/cdn-cgi/image/width=26,height=20/uploaded/skins/xsEMoJTtsDFbxlYt120rt2p20MIWpc-metacmVjaXBlLnBuZw==-.png) [Cookie Policy](/legal/cookies?same_window=true)
 
 </div>
-<div>
-
-----
+<div class="xl:col-span-2">
 
 #### Contribution
 
