@@ -18,6 +18,13 @@ As it stands, the leaderboards track and display rankings across a range of cate
 - **Smelting:** The finest metallurgists.
 - **Cooking:** Culinary experts with the best recipes.
 - **Forge:** Craftsmen renowned for their smithing skills.
+- **Bartering** Expert merchants.
 - **Pets:** Trainers with the most formidable companions.
+- **Guilds** The groups that dominate Solaris Isle.
+- **Pet Mastery** Trainers with proficiency in training their companions.
+- **Hunting Mastery** The most expert of hunters.
+- **Guild Mastery** A strong bond between the clan.
+- **Springtide Mastery** The most capable egg hunters.
+- **Yule Mastery** Characters at the top of the good list. 
 
 Whether you're a combatant, a gatherer, or a craftsman, there's a spot for everyone to aim for on the leaderboards.
