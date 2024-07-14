@@ -50,3 +50,4 @@ Any recipient that has not added gold or items to the trade offer will not pay a
 - If the trade changes after a party has accepted, the accepting party will need to re-accept the trade. They will be notified of the changes.
 - A red outline is shown on any items that cannot be fulfilled (for example, the item is no longer in the inventory).
 - Trading between alternative characters on the same account is allowed.
+- Alternative characters require a minimum total level of __150__ to trade.
