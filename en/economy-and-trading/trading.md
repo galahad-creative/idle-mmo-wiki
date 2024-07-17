@@ -10,7 +10,7 @@ Trading is a way for characters to directly send items and gold between each oth
 4. Add items and gold by pressing on the respective buttons.
 5. Once you are satisfied with the trade offer, press "Accept". Once both parties have accepted the trade, the items and gold will be transferred.
 
-#### Free
+#### Fee
 
 When trading with another character, there is a fee associated with every transaction. The fees are as follows:
 
@@ -27,13 +27,13 @@ Any recipient that has not added gold or items to the trade offer will not pay a
 | Trader      | Status | Gold Added | Item Value | Total Value of Offer | Fee Rate | Fee Amount |
 |-------------|--------|------------|------------|----------------------|----------|------------|
 | Character A | Non-Member | 100 | 200 | 300                  | 13%      | 39 Gold    |
-| Character B | Member | 0 | 1,500 | 1,500                | 10%      | 165 Gold   |
+| Character B | Member | 0 | 1,500 | 1,500                | 10%      | 150 Gold   |
 
 **Breakdown:**
 
 - Character A (is not a member) adds __100 gold__ and items worth __200 gold__ to their trade offer. This means the total value of Character A's trade offer is __300 gold__.
 - Character B (is a member) adds no gold but adds items worth 1,500 gold to their trade offer. This means the total value of Character B's trade offer is __1,500 gold__.
-- Character A will pay a fee of __39 gold__ (13% of 300 gold) and Character B will pay a fee of __165 gold__ (10% of 1,500 gold).
+- Character A will pay a fee of __39 gold__ (13% of 300 gold) and Character B will pay a fee of __150 gold__ (10% of 1,500 gold).
 
 **Note:** Members enjoy a lower fee rate (10%) compared to non-members (13%).
 
