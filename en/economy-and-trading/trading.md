@@ -51,3 +51,4 @@ Any recipient that has not added gold or items to the trade offer will not pay a
 - A red outline is shown on any items that cannot be fulfilled (for example, the item is no longer in the inventory).
 - Trading between alternative characters on the same account is allowed.
 - Alternative characters require a minimum total level of __150__ to trade.
+- Completed trades after 3 months will no longer be accessible.
