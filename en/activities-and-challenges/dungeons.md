@@ -2,7 +2,7 @@
 
 Dungeons in the game allow you to engage in combat for long periods without needing to interact directly, unlike battling enemies. They are also the main way to get recipes, which you need to craft the strongest items.
 
-The game has various dungeons, each with different difficulty levels. As a dungeon's level increases, so does its difficulty, making it harder to succeed. Your chance of successfully completing a dungeon depends on your combined protection and attack power.
+The game has various dungeons, each with different difficulty levels. As a dungeon's level increases, so does its difficulty, making it harder to succeed.
 
 Each dungeon has multiple floors, shown in the action bar, representing the player's ongoing idle actions. Once all floors are cleared, the dungeon ends automatically, and you receive the rewards.
 
@@ -31,3 +31,13 @@ Participating in dungeons requires a significant investment of both time and cur
 | __Celestial Enclave__ | Lv. 92 | The Citadel | 42,000 | 160m |
 | __The Nexus__ | Lv. 95 | The Citadel | 45,000 | 179m |
 | __Winter Wonderland__ | Lv. 25 | Yulewood Glades | 960 | 25m |
+
+
+### Success Chance
+
+The success chance determines if you are able to receive loot at the end of the dungeon.
+
+Your chance of successfully completing a dungeon depends on your combined `Protection`, `Attack Power`, `Agility`, and `Accuracy`. 
+All of which can be increased by levelling up the corresponding stat (for example, levelling up `Strength` will increase your `Attack Power`) or by equipping items that boost these stats.
+
+Even if you fail the dungeon, you will still be rewarded with the experience points. The success chance only affects loot.
