@@ -49,7 +49,6 @@ Welcome to our comprehensive game wiki, your ultimate guide to mastering IdleMMO
 
 #### Activites and Challenges
 ![Hunting and Battling](https://cdn.idle-mmo.com/cdn-cgi/image/width=20,height=20/uploaded/skins/ryXY3r3TY70wWquLMMZ7idvKVR19GS-metaaHVudGluZy1pbWFnZS5wbmc=-.png) [Hunting and Battling](/wiki/activities-and-challenges/hunting-and-battling?same_window=true)\
-![List of Enemies](https://cdn.idle-mmo.com/cdn-cgi/image/width=20,height=20/uploaded/skins/ZPZEceAsRjFx1eqIAu2GtxW7aMMuj2-metabWlub3RhdXIucG5n-.png) [List of Enemies](/wiki/activities-and-challenges/list-of-enemies?same_window=true)\
 ![Campaigns](https://cdn.idle-mmo.com/cdn-cgi/image/width=20,height=20/campaigns/halloween-icon.png) [Campaigns](/wiki/activities-and-challenges/campaigns?same_window=true)\
 ![Travelling](https://cdn.idle-mmo.com/cdn-cgi/image/width=20,height=20/global/map.png) [Travelling](/wiki/activities-and-challenges/travelling?same_window=true)\
 ![World Bosses](https://cdn.idle-mmo.com/cdn-cgi/image/width=20,height=20/uploaded/skins/slGUwMeiU4U6cvDSxAXLxMHKt1qCXb-metaaXNhZG9yYS5wbmc=-.png) [World Bosses](/wiki/activities-and-challenges/world-bosses?same_window=true)\
