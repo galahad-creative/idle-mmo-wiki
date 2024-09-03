@@ -39,7 +39,6 @@ Welcome to our comprehensive game wiki, your ultimate guide to mastering IdleMMO
 <div>
 
 #### Items and Pets
-![Item Database](https://cdn.idle-mmo.com/cdn-cgi/image/width=20,height=20/uploaded/skins/1eJxBXb1BOJuZpUr2sL3NwaWOV3Gr0-metadGluLXN3b3JkLnBuZw==-.png) [Item Database](/wiki/items?same_window=true)\
 ![Equipment](https://cdn.idle-mmo.com/cdn-cgi/image/width=20,height=20/uploaded/skins/sEcpQ2y73QJB9p2npUDwKSrHhskKmn-metadGluLWNoZXN0cGxhdGUucG5n-.png) [Equipment](/wiki/items-and-pets/equipment?same_window=true)\
 ![Item Types](https://cdn.idle-mmo.com/cdn-cgi/image/width=20,height=20/skins/items/ore/coal.png) [Item Types](/wiki/items-and-pets/item-types?same_window=true)\
 ![Qualities](https://cdn.idle-mmo.com/cdn-cgi/image/width=26,height=20/tasks/upgrade_item.png) [Qualities](/wiki/items-and-pets/qualities?same_window=true)\
