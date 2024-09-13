@@ -64,10 +64,10 @@ Stance lets you choose which stat you want to focus on when earning EXP rewards 
 
 Here are the five stances you can select:
 
-**Balanced**: Obtains EXP for every primary stat. for instance, if you get 20 EXP, then each stat will get 5 EXP.
-**Offensive**: Obtains EXP only for `Strength`.
-**Defensive**: Obtain EXP only for `Defence`.
-**Agile**: Obtains EXP only for `Speed`.
+**Balanced**: Obtains EXP for every primary stat. for instance, if you get 20 EXP, then each stat will get 5 EXP.\
+**Offensive**: Obtains EXP only for `Strength`.\
+**Defensive**: Obtain EXP only for `Defence`.\
+**Agile**: Obtains EXP only for `Speed`.\
 **Dexterous**: Obtains EXP only for `Dexterity`.
 
 You can choose your stance when you start a battle, but you can't change it once the battle begins. If you want to switch stances, you’ll need to end the current battle and start a new one.
