@@ -140,6 +140,23 @@ The Lumberjack is a formidable force of nature, wielding a mighty axe to harvest
 
 ----------
 
+![Banished](https://cdn.idle-mmo.com/cdn-cgi/image/width=100/uploaded/skins/01J8MJ7P4MGEYANXQQW3DCEQRP.png "Banished")
+## Banished
+The Banished are outcasts from all civilized trade. Unable to access the market or barter, they must rely on their cunning, scavenging skills, and raw combat prowess to survive. With no allies in commerce, they find strength in self-reliance and adaptability.
+
+#### Permanent Effects
+- This class has no permanent effects.
+
+#### Battle Talents
+- This class has no battle talents.
+
+#### Notes
+- This class is **cannot** access any market or trading systems. This class may also be referred to as the `Ironman` class.
+- This class is **locked** meaning you cannot change to or from this class.
+- The class is designed for players who thrive on difficulty and enjoy a rigorous grind. Choose this class only if you are up for a serious challenge.
+
+----------
+
 ![Cursed](https://cdn.idle-mmo.com/cdn-cgi/image/width=100/uploaded/skins/01J8MJ7D822Z5CR3DMCY1C9QNQ.png "Cursed")
 ## Cursed
 Doomed by a dark fate, the Cursed suffer severe setbacks in their journey. Shunned from all trade and earning only half the experience from battles, they are forced to endure with fewer resources and slower growth.
@@ -155,21 +172,4 @@ Doomed by a dark fate, the Cursed suffer severe setbacks in their journey. Shunn
 #### Notes
 - This class is **cannot** access any market or trading systems.
 - This class is **locked** meaning you cannot change to or from this class.
-- The class is designed for players who thrive on difficulty and enjoy a rigorous grind. Choose this class only if you are up for a serious challenge.
-
-----------
-
-![Banished](https://cdn.idle-mmo.com/cdn-cgi/image/width=100/uploaded/skins/01J8MJ7P4MGEYANXQQW3DCEQRP.png "Banished")
-## Banished
-The Banished are outcasts from all civilized trade. Unable to access the market or barter, they must rely on their cunning, scavenging skills, and raw combat prowess to survive. With no allies in commerce, they find strength in self-reliance and adaptability.
-
-#### Permanent Effects
-- This class has no permanent effects.
-
-#### Battle Talents
-- This class has no battle talents.
-
-#### Notes
-- This class is **cannot** access any market or trading systems. This class may also be referred to as the `Ironman` class.
-- This class is **locked** meaning you cannot change to or from this class.
-- The class is designed for players who thrive on difficulty and enjoy a rigorous grind. Choose this class only if you are up for a serious challenge.
+- This class is the most challenging in the game, blending elements of the `Banished` class, which restricts access to the market and trading, with the `Forsaken` class, known for its severe negative effects.
