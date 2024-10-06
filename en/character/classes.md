@@ -1,5 +1,23 @@
 # Classes
+
 IdleMMO offers a variety of classes, each with unique effects and talents that enhance their performance in different tasks. Combat talents, which are stat boosts, are automatically granted as characters reach certain levels.
+
+## Purpose of classes
+
+The purpose of classes to is give players a choice in how they want to play the game. Each class has its own unique set of bonuses and talents that cater to different playstyles. For example, the `Warrior` class is focused on combat and physical strength, while the `Miner` class is focused on the `Mining` skill. Players can choose the class that best suits their preferred playstyle and goals in the game.
+
+There are certain classes that are designed to be more challenging than others, such as the `Forsaken` class. These classes are intended for players who want a more difficult and challenging experience in the game. Players can choose these classes if they want to test their skills and push themselves to their limits.
+
+## Changing Classes
+
+Players can change their class  by purchasing the `Metamorphite` item from the vendor. Once this item has been obtained, it can be used in the inventory.
+
+However, please keep in mind that there are limits to the class changing system:
+- The `Metamorphite` is a consumable item. A new item must be purchased every time a character wishes to change a class.
+- A character is only able to chance their class once every **14 days**.
+- Some classes are `locked` and cannot be changed. These classes are the `Forsaken`, `Cursed`, and `Banished`. This means a character cannot change to these classes or from these classes.
+- The `Metamorphite` item cannot be traded between characters.
+
 
 ----------
 
@@ -63,7 +81,10 @@ Burdened by a dark and ominous fate, the forsaken are destined to walk a path sh
 #### Battle Talents
 - This class has no battle talents.
 
-**Note:** The Forsaken is designed for players who thrive on difficulty and enjoy a rigorous grind. Choose this class only if you are up for a serious challenge.
+#### Notes
+- This class is **cannot** access any market or trading systems. This class may also be referred to as the `Ironman` class.
+- This class is **locked** meaning you cannot change to or from this class.
+- The class is designed for players who thrive on difficulty and enjoy a rigorous grind. Choose this class only if you are up for a serious challenge.
 
 ----------
 
@@ -116,3 +137,39 @@ The Lumberjack is a formidable force of nature, wielding a mighty axe to harvest
 
 #### Battle Talents
 - This class has no battle talents.
+
+----------
+
+![Cursed](https://cdn.idle-mmo.com/cdn-cgi/image/width=100/uploaded/skins/01J8MJ7D822Z5CR3DMCY1C9QNQ.png "Cursed")
+## Cursed
+Doomed by a dark fate, the Cursed suffer severe setbacks in their journey. Shunned from all trade and earning only half the experience from battles, they are forced to endure with fewer resources and slower growth.
+
+#### Permanent Effects
+- __-50%__ Skill Experience (when obtaining skill items)
+- __-50%__ Battle Experience
+- __-50%__ Dungeon Experience
+
+#### Battle Talents
+- This class has no battle talents.
+
+#### Notes
+- This class is **cannot** access any market or trading systems.
+- This class is **locked** meaning you cannot change to or from this class.
+- The class is designed for players who thrive on difficulty and enjoy a rigorous grind. Choose this class only if you are up for a serious challenge.
+
+----------
+
+![Banished](https://cdn.idle-mmo.com/cdn-cgi/image/width=100/uploaded/skins/01J8MJ7P4MGEYANXQQW3DCEQRP.png "Banished")
+## Banished
+The Banished are outcasts from all civilized trade. Unable to access the market or barter, they must rely on their cunning, scavenging skills, and raw combat prowess to survive. With no allies in commerce, they find strength in self-reliance and adaptability.
+
+#### Permanent Effects
+- This class has no permanent effects.
+
+#### Battle Talents
+- This class has no battle talents.
+
+#### Notes
+- This class is **cannot** access any market or trading systems. This class may also be referred to as the `Ironman` class.
+- This class is **locked** meaning you cannot change to or from this class.
+- The class is designed for players who thrive on difficulty and enjoy a rigorous grind. Choose this class only if you are up for a serious challenge.
