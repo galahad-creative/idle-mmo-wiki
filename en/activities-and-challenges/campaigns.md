@@ -77,9 +77,21 @@ An enchanting festival of love held annually in the heart of the kingdom, where 
 
 ----
 
+
+
 ![Valenfair](https://cdn.idle-mmo.com/cdn-cgi/image/width=124,height=124/uploaded/skins/01HT2CH8GYGB22Q6RJ5XK7SQ06.png)
 
 ### Springtide Fair (2024)
 _29th March 2024_ - _12th April 2024_
 
 Welcome spring by participating in the Springtide fair. People from nearby and far come to play games, eat lots of food, and go on egg hunts. It's a time when everyone enjoys the warmer weather and longer days together.
+
+----
+
+<img src="https://cdn.idle-mmo.com/uploaded/icons/01J305JYQ75MXXV2C3Z4D19SAV.png" alt="Moonlit Festival" width="124" />
+
+### Moonlit Festival (2024)
+
+During the peak of summer, when Valaron's largest moon, Celestia, overlooks Solaris Isle, the streets come alive with the glow of lanterns and the hum of excited voices.
+
+The smell of sizzling treats mix with music and laughter. Dancers twirl, artisans showcase mystical crafts, and storytellers weave enchanting tales. Under the moon's watchful eye, friends and families create magical memories that will last until the next year's celebration.
