@@ -1,6 +1,6 @@
 # Travelling
 
-Embark on journeys across [Solaris Isle](/wiki/lore/solaris-isle?same_window=true), where each location is brimming with unique items critical for skill development, such as ores for mining and trees for logging. Moreover, new dungeons await to be discovered in these varied locales.
+Embark on journeys across [Solaris Isle](wiki/lore/solaris-isle?same_window=true), where each location is brimming with unique items critical for skill development, such as ores for mining and trees for logging. Moreover, new dungeons await to be discovered in these varied locales.
 
 #### Traveling Made Easy
 

@@ -2,7 +2,7 @@
 
 World Bosses represent a key game feature where players collaborate to vanquish a shared adversary, reaping experience and exclusive rewards in return.
 
-World Bosses are spread across [Solaris Isle](.wiki/lore/solaris-isle?same_window=true), offering varying challenges. Some bosses require more time to defeat, with battle durations generally reflecting their combat difficulty, though not always strictly.
+World Bosses are spread across [Solaris Isle](wiki/lore/solaris-isle?same_window=true), offering varying challenges. Some bosses require more time to defeat, with battle durations generally reflecting their combat difficulty, though not always strictly.
 
 After a successful defeat, there is a cooldown period before the boss respawns, usually corresponding to its combat level.
 

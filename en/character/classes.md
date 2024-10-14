@@ -82,7 +82,6 @@ Burdened by a dark and ominous fate, the forsaken are destined to walk a path sh
 - This class has no battle talents.
 
 #### Notes
-- This class is **cannot** access any market or trading systems. This class may also be referred to as the `Ironman` class.
 - This class is **locked** meaning you cannot change to or from this class.
 - The class is designed for players who thrive on difficulty and enjoy a rigorous grind. Choose this class only if you are up for a serious challenge.
 
@@ -151,7 +150,7 @@ The Banished are outcasts from all civilized trade. Unable to access the market 
 - This class has no battle talents.
 
 #### Notes
-- This class is **cannot** access any market or trading systems. This class may also be referred to as the `Ironman` class.
+- This class **cannot** access any market or trading systems. This class may also be referred to as the `Ironman` class.
 - This class is **locked** meaning you cannot change to or from this class.
 - The class is designed for players who thrive on difficulty and enjoy a rigorous grind. Choose this class only if you are up for a serious challenge.
 
