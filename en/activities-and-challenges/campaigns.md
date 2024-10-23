@@ -58,7 +58,6 @@ _This campaign was only available to the closed beta testers for a small amount 
 ----
 
 
-
 ![Yule Fest](https://cdn.idle-mmo.com/cdn-cgi/image/width=124,height=124/uploaded/skins/OXBGDWcgUce8zFwEUocxz59E6uABq9-metac25vd21hbi5wbmc=-.png)
 
 ### Yule Fest (2023)
@@ -77,9 +76,29 @@ An enchanting festival of love held annually in the heart of the kingdom, where 
 
 ----
 
-![Valenfair](https://cdn.idle-mmo.com/cdn-cgi/image/width=124,height=124/uploaded/skins/01HT2CH8GYGB22Q6RJ5XK7SQ06.png)
+![Springtide Fair](https://cdn.idle-mmo.com/cdn-cgi/image/width=124,height=124/uploaded/skins/01HT2CH8GYGB22Q6RJ5XK7SQ06.png)
 
 ### Springtide Fair (2024)
 _29th March 2024_ - _12th April 2024_
 
 Welcome spring by participating in the Springtide fair. People from nearby and far come to play games, eat lots of food, and go on egg hunts. It's a time when everyone enjoys the warmer weather and longer days together.
+
+----
+
+![Moonlit Festival](https://cdn.idle-mmo.com/cdn-cgi/image/width=124,height=124/uploaded/icons/01J305JYQ75MXXV2C3Z4D19SAV.png)
+
+### Moonlit Festival (2024)
+_7th July 2024_ - _5th August 2024_
+
+During the peak of summer, when Valaron's largest moon, Celestia, overlooks Solaris Isle, the streets come alive with the glow of lanterns and the hum of excited voices. 
+
+The smell of sizzling treats mix with music and laughter. Dancers twirl, artisans showcase mystical crafts, and storytellers weave enchanting tales. Under the moon's watchful eye, friends and families create magical memories that will last until the next year's celebration.
+
+----
+
+![Eve of Shadows](https://cdn.idle-mmo.com/cdn-cgi/image/width=124,height=124/campaigns/halloween-icon.png)
+
+### Eve of Shadows (2024)
+_21st October 2024_ - _4th November 2024_
+
+During the Eve of Shadows, adventurers and townsfolk wear cloaks and mystical masks, their paths lit by enchanted jack-o'-lanterns. As the moons rise, quests of candy hunts and legendary ghost tales unfold, with hidden treasures for the bravest souls to discover.
