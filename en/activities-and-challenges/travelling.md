@@ -12,7 +12,7 @@ Embark on journeys across [Solaris Isle](/wiki/lore/solaris-isle?same_window=tru
 
 The cost of teleportation is based on your character's total level across all skills, except for those that are whitelisted.
 
-The following skills are excluded from increased teleportation costs as they have minimal impact on the game's economy: `Hunting Mastery`, `Shadow Mastery`, `Lunar Mastery`, `Guild Mastery`, `Yule Mastery`, and `Pet Mastery`. This means you can level up these skills without affecting your teleportation costs.
+The following skills are excluded from increased teleportation costs as they have minimal impact on the game's economy: `Springtide Mastery`, `Shadow Mastery`, `Lunar Mastery`, `Guild Mastery`, `Yule Mastery`, and `Pet Mastery`. This means you can level up these skills without affecting your teleportation costs.
 
 #### Seasonal Campaign Locations
 
