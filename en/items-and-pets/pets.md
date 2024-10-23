@@ -42,14 +42,6 @@ The table below indicates the minimum pet level required to battle in each locat
 
 **Pro Tip:** Battling in higher-level areas yields more experience per second, making it more efficient. However, these fights are shorter, requiring more frequent interaction from you to maintain effectiveness. You'll need to decide if this trade-off is worthwhile!
 
-#### Pet Hunting
-
-Once you reach a [Pet Mastery](/wiki/character/stats) level of __40__, you will be able to send your currently equipped pet on a hunt on your behalf. The benefit of doing it is that hunting does not cancel your current action so you are able to continue performing a skill while your pet is hunting the enemies. 
-
-You are not able to hunt at the same time as your pet.
-
-The time it takes for your pet to hunt the enemies will entirely depend solely on the pets `Movement Speed` stat.
-
 #### The Incubation Period
 
 - Newly acquired pets from eggs undergo an incubation period.
