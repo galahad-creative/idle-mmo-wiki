@@ -19,7 +19,7 @@ You can restart a hunt at any time, and it will continue from where you left off
 #### Enemy Decay
 Enemies will flee over time if you're not fast enough to engage them in battle. The rate at which they run away depends entirely on your hunting level - the higher your hunting mastery, the fewer enemies will escape.
 
-The scale ranges from **25%** to **10%**. At Hunting Mastery level 1, **25%** of discovered enemies will flee every **2 hours**. At Hunting Mastery level 100, only **10%%** will flee in the same timeframe.
+The scale ranges from **25%** to **10%**. At Hunting Mastery level 1, **25%** of discovered enemies will flee every **2 hours**. At Hunting Mastery level 100, only **10%** will flee in the same timeframe.
 
 The timer starts when the enemy is first discovered, and you’ll see a countdown in the enemy's dialog box to show you exactly when they are expected to flee.
 
