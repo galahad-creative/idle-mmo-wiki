@@ -16,16 +16,18 @@ For example, if you were hunting **200** enemies over **100** minutes and cancel
 
 You can restart a hunt at any time, and it will continue from where you left off. Any new enemies you hunt will be added to what you’ve already hunted. So, if you’ve already hunted **50** `Goblins` and start again, the new enemies will stack on top of those 50.
 
-#### Maximum Number of Enemies
+#### Enemy Decay
+Enemies will flee over time if you're not fast enough to engage them in battle. The rate at which they run away depends entirely on your hunting level - the higher your hunting mastery, the fewer enemies will escape.
 
-The maximum number of enemies you can have waiting for battle depends on your `Hunting Mastery` level.
+The scale ranges from **25%** to **10%**. At Hunting Mastery level 1, **25%** of discovered enemies will flee every **2 hours**. At Hunting Mastery level 100, only **10%** will flee in the same timeframe.
 
-At `Hunting Mastery` level 1, you can have up to **200** enemies, and this scales up to **1300** enemies by the time you reach level 100. Once you hit the maximum limit, you'll need to battle some of the enemies before you can continue hunting.
+The timer starts when the enemy is first discovered, and you’ll see a countdown in the enemy's dialog box to show you exactly when they are expected to flee.
 
 #### Notes
 
 - You can only hunt enemies that match your combat level. For example, if your combat level is **20**, the highest level enemies you can hunt are level **20**. Enemies above level **20** will not be hunted. So, if you try hunting in higher-level areas without the required combat level, you may end up with no enemies.
 - Since `v0.23.0`, pets can no longer hunt for enemies on behalf of your character. Only your characters can hunt.
+- Since `v0.23.5`, there are no limits to the number of enemies you can hunt. Instead, the slowly decay over time.
 
 ## Battling
 
