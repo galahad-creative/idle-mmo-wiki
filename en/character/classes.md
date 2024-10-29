@@ -19,6 +19,23 @@ However, please keep in mind that there are limits to the class changing system:
 - The `Metamorphite` item cannot be traded between characters.
 
 
+## Class Limitations
+
+You can assign actions to up to three characters at a time if they have market access. However, characters without market access - such as those who are cursed or banished - are **not** subject to this limit. This exception exists because these characters cannot trade or impact the economy, preventing potential disruptions from multiple active alternate characters.
+
+#### Example One
+Imagine you have all five character slots filled: three warriors, one forsaken class, and one banished class.
+
+In this case, you can set idle actions (e.g., woodcutting) for the three warriors. After this, you can still assign an action to the banished class since it doesn’t have market access. However, you **cannot** assign an action to the forsaken class, as it can access the market and your three slots for market-accessible characters are already used up.
+
+#### Example Two
+You have five characters: three warriors and two banished classes.
+
+Here, you can assign idle actions to **all** characters. The three warriors use up your market-accessible slots, while the two banished characters aren't affected by the limit since they lack market access.
+
+#### TLDR;
+In short, you can only assign an idle action to three characters at a time. However, any class that **cannot** access the market or trade is **not** subject to this limit.
+
 ----------
 
 ![Warrior](https://cdn.idle-mmo.com/cdn-cgi/image/width=100/classes/warrior.png "Warrior")
@@ -172,3 +189,4 @@ Doomed by a dark fate, the Cursed suffer severe setbacks in their journey. Shunn
 - This class **cannot** access any market or trading systems.
 - This class is **locked** meaning you cannot change to or from this class.
 - This class is the most challenging in the game, blending elements of the `Banished` class, which restricts access to the market and trading, with the `Forsaken` class, known for its severe negative effects.
+
