@@ -81,3 +81,5 @@ When you defeat an enemy, both your `Combat Level` and selected stats will incre
 - Taking a lot of food with you will increase your effective health, allowing you to battle for longer.
 - Improving your stats with better equipment means you can defeat enemies faster and with less damage taken. This also means you don't need to use as much food - saving additional time and money.
 - Using the `Balanced` stance may result in less EXP if it cannot be divided evenly. For instance, if you defeat an enemy and you obtain `25 EXP`, that means each stat will get `6 EXP` totalling at `24 EXP` and the remaining `1 EXP` will be lost.
+- There is a limit of __8 seconds__ seconds per enemy. It's not possible to defeat enemies quicker than __8 seconds__.
+- There is a minimum of _1 damage__ taken per battle. It's impossible to encounter a battle and leave unharmed.
