@@ -117,6 +117,9 @@ At the end of each season, guilds will earn rewards based on their final ranking
 
 Only guilds that place in the top 10 will receive rewards; those ranking below 10th won’t receive any.
 
+- The game also tracks various season-specific metrics for each guild, such as the number of raids completed and challenges undertaken during the season.
+- Guild rewards may take up to __6 hours__ to be distributed after the season concludes.
+
 --------
 
 ### Additional Notes
