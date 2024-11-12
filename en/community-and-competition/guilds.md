@@ -93,6 +93,32 @@ As the guild levels up, more challenges can be completed within 24 hours. If a c
 
 -------
 
+#### Seasons
+
+Guilds in IdleMMO can compete in seasons to earn a prestigious, permanent status for the respective season.
+
+Each season spans __60 days__, and a guild's placement is determined solely by the experience they gather during that time.
+
+At the end of each season, guilds will earn rewards based on their final ranking.
+
+| Position               | Marks |
+| ------------------------ | ------- |
+| Position __#1__  | __100__ Marks |
+| Position __#2__ | __80__ Marks |
+| Position __#3__ | __60__ Marks |
+| Position __#4__ | __40__ Marks |
+| Position __#5__ | __30__ Marks |
+| Position __#6__ | __25__ Marks |
+| Position __#7__ | __20__ Marks |
+| Position __#8__ | __15__ Marks |
+| Position __#9__ | __10__ Marks |
+| Position __#10__ | __5__ Marks |
+
+
+Only guilds that place in the top 10 will receive rewards; those ranking below 10th won’t receive any.
+
+--------
+
 ### Additional Notes
 
 - A character can only join a guild once every 24 hours.
