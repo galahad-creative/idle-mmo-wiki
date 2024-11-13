@@ -76,6 +76,23 @@ You can choose your stance when you start a battle, but you can't change it once
 
 When you defeat an enemy, both your `Combat Level` and selected stats will increase. For example, if you earn 20 EXP from defeating an enemy, `20 EXP` will be applied to the stats based on your selected stance, and another `20 EXP` will be added to your `Combat Level`.
 
+#### Enemy Scaling
+
+**IMPORTANT:** This feature is currently experimental and available only to characters with membership status for a limited time during testing.
+
+Once a character reaches Combat Level **80**, they unlock the option to scale enemies to match their level.
+
+Scaling enemies offers several benefits:
+
+- **Improved loot** - loot increases based on how much the enemy is scaled. This boost is applied through a [Magic Find](/wiki/character/effects?same_window=true#magic-find) bonus to the character’s battle session.
+- **More EXP gains** - experience points are scaled to the character’s level rather than the enemy’s base level.
+
+The difference between the enemy's original level and the character's level determines the loot boost amount - the greater the level gap, the larger the loot increase. Currently, the bonus magic find scales from **+0% to +25%**, depending on this distance. For example, a Level 100 character scaling a Level 1 enemy receives the full **25%** magic find boost.
+
+This scaling approach is designed to avoid major imbalances in loot frequency. For instance, if a Level 100 character scales a Level 99 enemy (increasing its level by just one), it would be unbalanced to grant the full 25% magic find boost, as loot drop rates were explicitly set to match each enemy’s quality and scarcity.
+
+[Magic Find](/wiki/character/effects?same_window=true#magic-find) only applies to the loot rates for each item, it does not apply to the chance of obtaining a drop. Scaling an enemy will not increase the "Chance of Loot" value.
+
 #### Notes
 
 - Taking a lot of food with you will increase your effective health, allowing you to battle for longer.
