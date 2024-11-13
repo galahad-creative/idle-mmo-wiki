@@ -17,6 +17,69 @@ Characters may acquire effects through various in-game mechanics, including:
 - **Potion Consumption**: Drinking potions can temporarily alter a character's abilities, offering either positive or negative effects depending on the potion's nature.
 - **Gameplay Duration**: Extensive gameplay without breaks can lead to fatigue, resulting in negative effects due to exhaustion.
 
+-----------
+## Magic Find
+
+Magic Find is a modifier that boosts your chances of finding higher-quality items from enemies. However, when Magic Find increases item drop rates beyond **100%**, adjustments are made to ensure a balanced system.
+
+### How It Works
+
+When you apply a Magic Find modifier, each item's drop rate increases based on its original percentage. For instance, with a **200%** Magic Find modifier, each item’s drop rate is tripled.
+
+#### Example One
+
+Let’s take an enemy with these base drop rates:
+
+- **1%** Stick
+- **5%** Food
+- **15%** Recipe
+- **70%** Collectable
+
+Applying a __+100%__ Magic Find modifier to these rates doubles each item’s chance, resulting in:
+
+- **2%** Stick
+- **10%** Food
+- **30%** Recipe
+- **140%** Collectable
+
+Now, because the total drop rate exceeds 100%, the system will trim the rates, starting with the most common items. This results in:
+
+- **2%** Stick
+- **10%** Food
+- **30%** Recipe
+- **58%** Collectable
+
+
+#### Example Two
+
+When the total item drop rates exceed **100%** and adjusting them still requires removing an item, the most common item is removed entirely.
+
+For example, take an enemy with these base rates:
+
+- **1%** Stick
+- **4%** Food
+- **40%** Recipe
+- **55%** Collectable
+
+With a **200%** Magic Find modifier, the modified rates are:
+
+- **3%** Stick
+- **12%** Food
+- **120%** Recipe
+- **165%** Collectable
+
+Following our trimming process, the game starts with the most common item (in this case, Collectable), removing it to meet the **100%** threshold. The final drop rates become:
+
+- **3%** Stick
+- **12%** Food
+- **85%** Recipe
+
+Here, Recipe is adjusted to fit within the 100% limit, and Junk is removed entirely.
+
+
+#### Additional Notes
+- The magic bonus **does not** affect the UI in situations where loot chances are visible. For example, if you view an enemy that has a **30%** chance to drop a collectible item, this displayed value will not change, even if your character has a **200%** magic find bonus.
+
 ------------
 
 ## Exhaustion
