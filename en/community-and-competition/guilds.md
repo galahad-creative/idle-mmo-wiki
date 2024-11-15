@@ -106,16 +106,17 @@ At the end of each season, guilds will earn rewards based on their final ranking
 | Position __#1__  | __100__ Marks |
 | Position __#2__ | __80__ Marks |
 | Position __#3__ | __60__ Marks |
-| Position __#4__ | __40__ Marks |
-| Position __#5__ | __30__ Marks |
-| Position __#6__ | __25__ Marks |
-| Position __#7__ | __20__ Marks |
-| Position __#8__ | __15__ Marks |
-| Position __#9__ | __10__ Marks |
-| Position __#10__ | __5__ Marks |
+| Position __#4__ | __45__ Marks |
+| Position __#5__ | __35__ Marks |
+| Position __#6__ | __30__ Marks |
+| Position __#7__ | __25__ Marks |
+| Position __#8__ | __20__ Marks |
+| Position __#9__ | __15__ Marks |
+| Position __#10__ | __10__ Marks |
+| Position __#11 to #25__ | __5__ Marks |
 
 
-Only guilds that place in the top 10 will receive rewards; those ranking below 10th won’t receive any.
+Only guilds that place in the top 25 will receive rewards; those ranking below 10th won’t receive any.
 
 - The game also tracks various season-specific metrics for each guild, such as the number of raids completed and challenges undertaken during the season.
 - Guild rewards may take up to __6 hours__ to be distributed after the season concludes.
