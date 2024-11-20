@@ -10,6 +10,7 @@ Players can contribute either **Gold** or **Tokens** to the Shrine. As the commu
 
 To activate boosts:
 1. Visit any location with a Shrine.
+2. Press on the "Nearby" button which can be located either in the "Menu" page (on the mobile apps) or at the top of the page (on the Web App)
 2. Manually select and activate the tiers you want.
 
 Once activated, the boosts will appear on your character page under the **Effects** section.
