@@ -28,19 +28,26 @@ When a pet returns from battle, it automatically goes back to the location where
 
 The table below indicates the minimum pet level required to battle in each location:
 
-| Pet Level | Location                     |
+| Pet Level Required | Location                     |
 |-----------|------------------------------|
-| 1         | Bluebell Forest              |
-| 8         | Whispering Woods             |
-| 18        | Eldoria                      |
-| 32        | Crystal Caverns              |
-| 48        | Skyreach Peak                |
-| 60        | Enchanted Oasis              |
-| 70        | Floating Gardens of Aetheria |
-| 78        | Celestial Observatory        |
-| 92        | Isle of Whispers             |
+| Lv. 1         | Bluebell Forest              |
+| Lv. 8         | Whispering Woods             |
+| Lv. 18        | Eldoria                      |
+| Lv. 32        | Crystal Caverns              |
+| Lv. 48        | Skyreach Peak                |
+| Lv. 60        | Enchanted Oasis              |
+| Lv. 70        | Floating Gardens of Aetheria |
+| Lv. 78        | Celestial Observatory        |
+| Lv. 92        | Isle of Whispers             |
 
 **Pro Tip:** Battling in higher-level areas yields more experience per second, making it more efficient. However, these fights are shorter, requiring more frequent interaction from you to maintain effectiveness. You'll need to decide if this trade-off is worthwhile!
+
+##### Maximum Concurrent Battles
+
+The number of pets you can send on a battle depends entirely on your `Pet Mastery` level. The higher your `Pet Mastery` level, the more pets you can send on battles.
+
+It scales from **2** pets, to **10** pets. This means, if you reach the maximum `Pet Mastery` level (lv. **100**), then you can send **10** pets to battle at the same time.
+
 
 #### The Incubation Period
 
