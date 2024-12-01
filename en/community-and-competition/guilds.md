@@ -87,20 +87,20 @@ At guild level **100**, a guild can refresh **4** challenges.
 
 ### Ranks and Permissions
 
-| Permission               | Soldier | Officer | Leader |
-| ------------------------ | ------- | ------- | ------ |
-| __Disband Guild__          | ✗       | ✗       | ✔      |
-| __Update Description__     | ✗       | ✗       | ✔      |
-| __Manage Applications__    | ✗       | ✔       | ✔      |
-| __Change Rank__            | ✗       | ✗       | ✔      |
-| __Change Background/Icon__ | ✗       | ✗       | ✔      |
-| __Kick Members__           | ✗       | ✔       | ✔      |
-| __Update Settings__        | ✗       | ✗       | ✔      |
-| __Schedule Raid__          | ✗       | ✔       | ✔      |
-| __Generate Challenges__    | ✗       | ✔       | ✔      |
-| __Refresh Challenge__      | ✗       | ✔       | ✔      |
-| __Create Announcements__   | ✗       | ✗       | ✔      |
-| __Delete Announcements__   | ✗       | ✗       | ✔      |
+| Permission               | Soldier | Officer | Deputy | Leader |
+| ------------------------ | ------- | ------- | ------ | ------ |
+| __Disband Guild__          | ✗       | ✗       | ✗    | ✔      | 
+| __Update Description__     | ✗       | ✗       | ✔    | ✔      | 
+| __Manage Applications__    | ✗       | ✔       | ✔    | ✔      | 
+| __Change Rank__            | ✗       | ✗       | ✔    | ✔      | 
+| __Change Background/Icon__ | ✗       | ✗       | ✔    | ✔      | 
+| __Kick Members__           | ✗       | ✔       | ✔    | ✔      | 
+| __Update Settings__        | ✗       | ✗       | ✔    | ✔      | 
+| __Schedule Raid__          | ✗       | ✔       | ✔    | ✔      | 
+| __Generate Challenges__    | ✗       | ✔       | ✔    | ✔      | 
+| __Refresh Challenge__      | ✗       | ✔       | ✔    | ✔      | 
+| __Create Announcements__   | ✗       | ✗       | ✔    | ✔      | 
+| __Delete Announcements__   | ✗       | ✗       | ✔    | ✔      | 
 
 -------
 
