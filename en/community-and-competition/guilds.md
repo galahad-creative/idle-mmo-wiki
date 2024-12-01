@@ -98,7 +98,7 @@ At guild level **100**, a guild can refresh **4** challenges.
 | __Update Settings__        | ✗       | ✗       | ✔      |
 | __Schedule Raid__          | ✗       | ✔       | ✔      |
 | __Generate Challenges__    | ✗       | ✔       | ✔      |
-| __Refresh Challenge__      | ✗       | ✗       | ✔      |
+| __Refresh Challenge__      | ✗       | ✔       | ✔      |
 | __Create Announcements__   | ✗       | ✗       | ✔      |
 | __Delete Announcements__   | ✗       | ✗       | ✔      |
 
