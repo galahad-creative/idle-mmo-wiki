@@ -410,7 +410,7 @@ Oilegeist, a newly elected member of the Oakenra council, fueled by ambition to 
 <div>
 
 #### Oakrum
-Oakrun, an [Oakenra](/wiki/lore/civilizations), ancient and wise, possesses a heart overflowing with kindness. Esteemed as a member of the revered elder council, he stands apart with a vision of unity. While the council remains divided, he champions the cause of fostering communication with other civilizations, driven by a profound wisdom and an unwavering belief in harmony.
+Oakrum, an [Oakenra](/wiki/lore/civilizations), ancient and wise, possesses a heart overflowing with kindness. Esteemed as a member of the revered elder council, he stands apart with a vision of unity. While the council remains divided, he champions the cause of fostering communication with other civilizations, driven by a profound wisdom and an unwavering belief in harmony.
 
 </div>
 </div>
