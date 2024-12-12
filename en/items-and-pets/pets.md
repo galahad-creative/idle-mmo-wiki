@@ -74,7 +74,7 @@ The duration of battles depends on your pet’s stats and health. Keeping your p
 
 Battle length is also affected by the location. Higher-level locations might lead to shorter battles as your pet won't be able to keep up at the same rate, which means you’ll need to check in on your pet more often to keep it fighting at its best. You’ll need to weigh the trade-offs: is it worth the extra effort of a more “hands-on” experience in higher-level areas for faster EXP gains, or would you prefer longer battles in lower-level areas for a more relaxed approach?
 
-Pro tip: Your [Pet Mastery](/wiki/character/skills?new_page=true) level indirectly influences the length of battles because it increases your pets stats. The higher your [Pet Mastery](/wiki/character/skills?new_page=true) level, the stronger your pet will be.
+**Pro tip:** Your [Pet Mastery](/wiki/character/skills?new_page=true) level indirectly influences the length of battles because it increases your pets stats. The higher your [Pet Mastery](/wiki/character/skills?new_page=true) level, the stronger your pet will be.
 
 ##### Maximum Concurrent Battles
 
