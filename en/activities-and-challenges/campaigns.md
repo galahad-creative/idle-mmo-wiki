@@ -23,6 +23,15 @@ Campaigns in IdleMMO provide a completely free no strings attached battle pass e
 
 Building a `Snowman`, for instance, yields higher points compared to simple `Snowball` trading. This is by design, as activities requiring greater effort, like gathering materials for `Snowman`, are more rewarding in the campaign. Keep in mind, the extra effort pays off in a substantial points boost!
 
+#### Community Goal
+
+In every seasonal campaign, there’s a community goal that brings everyone together. Players work together to hit a shared target, and when the goal is reached, everyone is eligible for boost. The boost last for the remainder of the campaign. Once the campaign wraps up, the boost expire.
+
+For a character to receive a boost, they must contribute at least once to the community goal. Contributions only unlock the boost for the currently active tier and do not automatically apply to any future boosts if the community goal changes. As a result, if the goal changes, players will need to contribute again to access the new boost.
+
+For example, if the community goal reaches tier 1 and you haven’t yet received any boost, you’ll need to contribute at least one point to unlock the tier 1 boost. Later, if the community goal advances to tier 2, you’ll need to contribute again to receive the tier 2 boost. If you don’t, your character will retain the tier 1 boost until it expires.
+
+**Note:** Unlike boosts provided by the shrine, the boosts from the community goal are not stackable. Any new boost from the community goal will replace the previous one, rather than adding to it.
 
 ## Global Campaigns
 
