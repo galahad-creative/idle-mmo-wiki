@@ -19,12 +19,16 @@ As it stands, the leaderboards track and display rankings across a range of cate
 - **Cooking:** Culinary experts with the best recipes.
 - **Forge:** Craftsmen renowned for their smithing skills.
 - **Bartering** Expert merchants.
+- **Hunting Mastery** The most expert of hunters.
+- **Pet Mastery** Trainers with proficiency in training their companions.
+- **Guild Mastery** A strong bond between the clan.
+- **Yule Mastery** Virtuoso snowball throwers and snowman builders. 
+- **Springtide Mastery** The most capable egg hunters.
+- **Lunar Mastery** Finest crafters of celestial scrolls. 
+- **Shadow Mastery** Elite pumpkin collectors and Trick-or-Treaters. 
 - **Pets:** Trainers with the most formidable companions.
 - **Guilds** The groups that dominate Solaris Isle.
-- **Pet Mastery** Trainers with proficiency in training their companions.
-- **Hunting Mastery** The most expert of hunters.
-- **Guild Mastery** A strong bond between the clan.
-- **Springtide Mastery** The most capable egg hunters.
-- **Yule Mastery** Characters at the top of the good list. 
+- **Shrine (Gold)** Altruists who donated the most golden coins.
+- **Shrine (Tokens)** The most generous altruists by token donations.  
 
 Whether you're a combatant, a gatherer, or a craftsman, there's a spot for everyone to aim for on the leaderboards.
