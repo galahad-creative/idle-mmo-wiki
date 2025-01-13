@@ -112,20 +112,19 @@ Each season spans __60 days__, and a guild's placement is determined solely by t
 
 At the end of each season, guilds will earn rewards based on their final ranking.
 
-| Position               | Marks |
-| ------------------------ | ------- |
-| Position __#1__  | __100__ Marks |
-| Position __#2__ | __80__ Marks |
-| Position __#3__ | __60__ Marks |
-| Position __#4__ | __45__ Marks |
-| Position __#5__ | __35__ Marks |
-| Position __#6__ | __30__ Marks |
-| Position __#7__ | __25__ Marks |
+| Position               | Marks        |  
+| ------------------------ |--------------|
+| Position __#1__  | __20__ Marks |
+| Position __#2__ | __20__ Marks |
+| Position __#3__ | __20__ Marks |
+| Position __#4__ | __20__ Marks |
+| Position __#5__ | __20__ Marks |
+| Position __#6__ | __20__ Marks |
+| Position __#7__ | __20__ Marks |
 | Position __#8__ | __20__ Marks |
-| Position __#9__ | __15__ Marks |
-| Position __#10__ | __10__ Marks |
-| Position __#11 to #25__ | __5__ Marks |
-
+| Position __#9__ | __20__ Marks |
+| Position __#10__ | __20__ Marks |
+| Position __#11 to #25__ | __20__ Marks |
 
 Only guilds that place in the top 25 will receive rewards; those ranking below 10th won’t receive any.
 
@@ -137,3 +136,4 @@ Only guilds that place in the top 25 will receive rewards; those ranking below 1
 ### Additional Notes
 
 - A character can only join a guild once every 24 hours.
+- Since version `0.35.2-PB`, all guilds that place in the top 25 will receive a fixed number of 20 marks instead of varying rewards. Additional rewards are planned to be added in future seasons.
