@@ -46,3 +46,30 @@ The table below will show you the stat increase for each skill:
 | <div>![Smelting](https://cdn.idle-mmo.com/cdn-cgi/image/width=24,height=24/uploaded/skins/01HMV8CSV9P697HRCPBMQMY6VA.png)__Smelting__</div>    | Speed             |
 | <div>![Cooking](https://cdn.idle-mmo.com/cdn-cgi/image/width=24,height=24/uploaded/skins/wI2XxGzeSRX6AFMRUADAnKji9NgOIK-metaY29va2luZy5wbmc=-.png)__Cooking__</div>    | Dexterity         |
 | <div>![Forge](https://cdn.idle-mmo.com/cdn-cgi/image/width=24,height=24/uploaded/skins/tuVX8BVjiz53PoeSWF1KJ26OTEOoZI-metaaDkucG5n-.png)__Forge__</div>    | Strength          |
+
+
+### Skill Mastery
+
+Once a character hits the maximum level, they unlock Mastery Levels, starting at Mastery Level 1.
+
+- For every **5,000,000** experience points earned beyond level 100, the character gains one mastery level. The journey continues up to a maximum of Mastery Level **500**.
+- Characters an activate temporary passive perks that can increase skill efficiency, experience, and magic find for the mastered skill. The strength and duration of these perks vary based on the perk itself, and additional perks become available as the character advances through mastery levels.
+
+To activate a perk, you'll need **Mastery Points**, which work like a currency for unlocking and stacking perks. 
+
+- Each character can hold a maximum of **5** Mastery Points at a time. This limit is fixed and cannot be increased.
+- Mastery points replenish over time. A mastery point is given every 8 hours for characters with membership, and 12 hours without.
+- Mastery Points are shared across all skills. For example, using a point on Woodcutting reduces the total points available for other skills like Fishing or Mining.
+
+You can activate multiple perks simultaneously for a significant, short-lived boost. While this strategy can offer a lot power, it comes with a cost - waiting for the regeneration of mastery points before activating perks again.
+
+Mastery levels are only applicable to the following skills:
+- Woodcutting
+- Mining
+- Fishing
+- Alchemy
+- Smelting
+- Cooking
+- Forge
+- Hunting Mastery
+- Combat
