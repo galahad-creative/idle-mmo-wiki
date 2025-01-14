@@ -86,24 +86,6 @@ The ranger, a master of archery, is an agile and precise class that commands the
 
 ----------
 
-![Forsaken](https://cdn.idle-mmo.com/cdn-cgi/image/width=100/classes/forsaken.png "Forsaken")
-## Forsaken
-Burdened by a dark and ominous fate, the forsaken are destined to walk a path shrouded in despair. Plagued by misfortune and forsaken by fate, they must rely on sheer determination and cunning to navigate a world that offers them no advantages, embodying the essence of a true underdog.
-
-#### Permanent Effects
-- __-50%__ Skill Experience (when obtaining skill items)
-- __-50%__ Battle Experience
-- __-50%__ Dungeon Experience
-
-#### Battle Talents
-- This class has no battle talents.
-
-#### Notes
-- This class is **locked** meaning you cannot change to or from this class.
-- The class is designed for players who thrive on difficulty and enjoy a rigorous grind. Choose this class only if you are up for a serious challenge.
-
-----------
-
 ![Miner](https://cdn.idle-mmo.com/cdn-cgi/image/width=100/uploaded/skins/CwqOzwaWgR9ooe0BVEpgtKCAduFpka-metabWluaW5nLnBuZw==-.png "Miner")
 ## Miner
 The Miner is a stalwart adventurer delving deep into the earth's bowels, equipped with pickaxes and torches. They brave dark caverns and perilous mineshafts, extracting precious ores and gems to fuel the realm's economy and empower craftsmen. Their labor unearth secrets and riches hidden beneath the rocky surface.
@@ -168,6 +150,24 @@ The Banished are outcasts from all civilized trade. Unable to access the market 
 
 #### Notes
 - This class **cannot** access any market or trading systems. This class may also be referred to as the `Ironman` class.
+- This class is **locked** meaning you cannot change to or from this class.
+- The class is designed for players who thrive on difficulty and enjoy a rigorous grind. Choose this class only if you are up for a serious challenge.
+
+----------
+
+![Forsaken](https://cdn.idle-mmo.com/cdn-cgi/image/width=100/classes/forsaken.png "Forsaken")
+## Forsaken
+Burdened by a dark and ominous fate, the forsaken are destined to walk a path shrouded in despair. Plagued by misfortune and forsaken by fate, they must rely on sheer determination and cunning to navigate a world that offers them no advantages, embodying the essence of a true underdog.
+
+#### Permanent Effects
+- __-50%__ Skill Experience (when obtaining skill items)
+- __-50%__ Battle Experience
+- __-50%__ Dungeon Experience
+
+#### Battle Talents
+- This class has no battle talents.
+
+#### Notes
 - This class is **locked** meaning you cannot change to or from this class.
 - The class is designed for players who thrive on difficulty and enjoy a rigorous grind. Choose this class only if you are up for a serious challenge.
 
