@@ -62,7 +62,7 @@ To activate a perk, you'll need **Ascension Points**, which work like a currency
 - Ascension points replenish over time. An Ascension Point is given every **8 hours** for characters with membership, and **12 hours** without.
 - Ascension Points are shared across all skills. For example, using a point on `Woodcutting` reduces the total points available for other skills like `Fishing` or `Mining`.
 
-You can activate multiple perks simultaneously for a significant, short-lived boost. While this strategy can offer a lot og power, it comes with a cost - waiting for the regeneration of ascension points before activating perks again.
+You can activate multiple perks simultaneously for a significant, short-lived boost. While this strategy can offer a lot of power, it comes with a cost - waiting for the regeneration of ascension points before activating perks again.
 
 Ascension levels are only applicable to the following skills:
 - Woodcutting
