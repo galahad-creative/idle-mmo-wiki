@@ -53,7 +53,7 @@ The table below will show you the stat increase for each skill:
 Once a character hits the maximum level, they unlock `Ascension Levels`, starting at Ascension Level **1**.
 
 - For every **1,000,000** experience points earned beyond level **100**, the character gains one Ascension Level. The journey continues up to a maximum of Ascension Level **500**.
-- Characters an activate temporary passive perks that can increase skill efficiency, experience, and magic find for the related skill. The strength and duration of these perks vary based on the perk itself, and additional perks become available as the character advances through the ascension levels.
+- Characters can activate temporary passive perks that can increase skill efficiency, experience, and magic find for the related skill. The strength and duration of these perks vary based on the perk itself, and additional perks become available as the character advances through the ascension levels.
 
 To activate a perk, you'll need **Ascension Points**, which work like a currency for activating the time-limited perks. 
 
