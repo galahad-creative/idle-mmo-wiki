@@ -57,7 +57,7 @@ Once a character hits the maximum level, they unlock `Ascension Levels`, startin
 
 To activate a perk, you'll need **Ascension Points**, which work like a currency for activating the time-limited perks. 
 
-- Each character can hold a maximum of **8** or **12** Ascension Points at a time depending on the characters membership status. This limit is fixed and cannot be increased.
+- Each character can hold a maximum of **8** or **10** Ascension Points at a time depending on the characters membership status. This limit is fixed and cannot be increased.
 - Only a maximum of **5** perks can be activated at a time. This limit is also fixed and cannot be increased.
 - Ascension points replenish over time. An Ascension Point is given every **8 hours** for characters with membership, and **12 hours** without.
 - Ascension Points are shared across all skills. For example, using a point on `Woodcutting` reduces the total points available for other skills like `Fishing` or `Mining`.
