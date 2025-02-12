@@ -14,6 +14,8 @@ To understand how powerful your gear is, look at two main things: [quality](/wik
 
 - Equipment can be upgraded by applying the relevant [Upgrade Stone](/wiki/items-and-pets/item-types) to it. 
 - It takes longer to upgrade an item the higher the existing item tier is.
+- The [quality](/wiki/items-and-pets/qualities) of the equipment and its [type](/wiki/items-and-pets/item-types) determines how many [Upgrade Stones](/wiki/items-and-pets/item-types) are required.
+- Mythic gear requires one Dragon Soulstone ![Dragon Soulstone](https://cdn.idle-mmo.com/cdn-cgi/image/height=15,width=15/uploaded/skins/01HXVFKQKPC4N8XM0RN3X9CSPH.png) in addition to upgrade stones for each upgrading level.
 
 #### Obtaining Equipment
 
@@ -23,7 +25,8 @@ Alternatively, players can skip the process of earning recipes by buying them fr
 
 #### Upgrade Limits
 
-The quality of the equipment determines the maximum number of times you can upgrade an item.
+For Standard, Refined, Premium and Epic equipment the maximum number of times you can upgrade an item is fixed.
+For Legendary and Mythic equipment the upgrade limit is tied to the item itself rather than its quality. This means that a stronger legendary helmet might allow for more upgrades than a weaker legendary helmet, even if they share the same quality tier.
 
 <div class="table-container">
 
@@ -33,7 +36,7 @@ The quality of the equipment determines the maximum number of times you can upgr
 | __<span class="quality:refined:text">Refined</span>__   | 5 Tiers  |
 | __<span class="quality:premium:text">Premium</span>__   | 10 Tiers |
 | __<span class="quality:epic:text">Epic</span>__      | 10 Tiers |
-| __<span class="quality:legendary:text">Legendary</span>__ | 15 Tiers |
-| __<span class="quality:mythic:text">Mythic</span>__    | 20 Tiers |
+| __<span class="quality:legendary:text">Legendary</span>__ | 12 to 16 Tiers |
+| __<span class="quality:mythic:text">Mythic</span>__    | 17 to 35 Tiers |
 
 </div>
