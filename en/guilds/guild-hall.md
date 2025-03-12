@@ -31,7 +31,7 @@ For example, if a guild has a Conquest Banner component – which allows them to
 The **Teleportation Beacon** is a component that allows guild members to teleport to the Guild Hall’s location at a significantly reduced cost. The exact reduction depends on their Guild Mastery level – and if they’ve reached level 100, teleportation is completely free.
 
 **Guild Level Required:** 40  
-**Resources Needed:**
+#### Resources Needed:
 - **100,000** Yew Logs
 - **100,000** Banyan Logs
 - **100,000** Tin Bars
@@ -46,7 +46,7 @@ The **Teleportation Beacon** is a component that allows guild members to telepor
 The **Mission Table** is a quality-of-life component that streamlines the process of generating guild challenges. Instead of requiring a guild member with the necessary permissions to set them up manually, the Mission Table automatically generates challenges for the guild.
 
 **Guild Level Required:** 25  
-**Resources Needed:**
+#### Resources Needed:
 - **100,000** Oak Logs
 - **100,000** Birch Logs
 - **100,000** Banyan Logs
@@ -65,7 +65,7 @@ The **Campaign Board** allows guilds to schedule up to 10 raids in advance, remo
 Raids can also now be scheduled up to a month in advance.
 
 **Guild Level Required:** 50  
-**Resources Needed:**
+#### Resources Needed:
 - **20,000** Oak Logs
 - **20,000** Spruce Logs
 - **100,000** Maple Logs
@@ -80,7 +80,7 @@ Raids can also now be scheduled up to a month in advance.
 The **Unity Seal** allows guilds to create a custom 3-letter guild tag, displayed next to every member’s username. For those who prefer a cleaner look, this can be toggled off in the settings.
 
 **Guild Level Required:** 15  
-**Resources Needed:**
+#### Resources Needed:
 - **100,000** Oak Logs
 - **100,000** Birch Logs
 - **100,000** Mahogany Logs
@@ -92,14 +92,15 @@ The **Unity Seal** allows guilds to create a custom 3-letter guild tag, displaye
 
 ## Energizing Pool
 
-The **Energizing Pool** is a guild component that provides a temporary, time-limited boost** to all guild members. To activate it, the guild must spend Guild Marks – once activated, the pool remains active for 3 hours.
+The **Energizing Pool** is a guild component that provides a temporary, time-limited boost to all guild members. To activate it, the guild must spend Guild Marks – once activated, the pool remains active for 3 hours.
 
 During this time, any guild member can enter the Energizing Pool and receive free boosts at no personal cost. These boosts remain active until the pool expires.
 
-The strength of the boosts is directly tied to the guild’s Mastery Experience – lower mastery levels will result in weaker boosts, while higher mastery levels will make the Energizing Pool a valuable tool.
+The strength of the boosts is directly tied to the [Guild Mastery](/wiki/character/skills?same_window=true) level – lower mastery levels will result in weaker boosts, while higher mastery levels will make the Energizing Pool a valuable tool.
 
+**Boosts**: Range from **1**% to **15**% depending on the character's [Guild Mastery](/wiki/character/skills?same_window=true) level. 
 **Guild Level Required:** 15  
-**Resources Needed:**
+#### Resources Needed:
 - **150,000** Spruce Logs
 - **150,000** Maple Logs
 - **150,000** Mystical Logs
@@ -114,7 +115,7 @@ The strength of the boosts is directly tied to the guild’s Mastery Experience 
 A **Conquest Banner** is required for the guild to undertake [Conquests](/wiki/guilds/conquest?same_window=true).
 
 **Guild Level Required:** **70**  
-**Resources Needed:**
+#### Resources Needed:
 - **100,000** Yew Logs
 - **40,000** Spruce Logs
 - **20,000** Maple Logs
