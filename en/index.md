@@ -19,12 +19,25 @@ Welcome to our comprehensive game wiki, your ultimate guide to mastering IdleMMO
 ![Membership](https://cdn.idle-mmo.com/cdn-cgi/image/width=20,height=20/global/membership.png) [Membership](/wiki/character/membership?same_window=true)
 
 </div>
+
+<div>
+
+#### Guilds
+
+![Guilds](https://cdn.idle-mmo.com/cdn-cgi/image/width=20,height=20/uploaded/skins/01HQQJQD8BME4JCHG9H879XM0Q.png) [Guilds](/wiki/guilds/guilds?same_window=true)\
+![Raids](https://cdn.idle-mmo.com/cdn-cgi/image/width=20,height=20/uploaded/skins/01HR4S0MPRSF5KPXNVNVY5365Y.png) [Raids](/wiki/guilds/raids?same_window=true)\
+![Challenges](https://cdn.idle-mmo.com/cdn-cgi/image/width=20,height=20/uploaded/skins/xWOBaimvLZD0AnHX2ErXz5UzcOI3Q2-metab2FrLnBuZw==-.png) [Challenges](/wiki/guilds/challenges?same_window=true)\
+![Guild Hall](https://cdn.idle-mmo.com/cdn-cgi/image/width=20,height=20/uploaded/skins/01JNZVSNTDQM5JS5NVWHZMTQ51.png) [Guild Hall](/wiki/guilds/guild-hall?same_window=true)\
+![Seasons](https://cdn.idle-mmo.com/cdn-cgi/image/width=20,height=20/uploaded/skins/01HQQK4KJEJCR6H8DX9B8XZGFR.png) [Seasons](/wiki/guilds/seasons?same_window=true)\
+![Conquest](https://cdn.idle-mmo.com/cdn-cgi/image/width=20,height=20/uploaded/skins/XAo5lbIDq0CmH2M9LYWpre41Pta3MX-metaZmFybS5wbmc=-.png) [Conquest](/wiki/guilds/conquest?same_window=true)
+
+</div>
+
 <div>
 
 #### Community and Competition
 
 ![Leaderboards](https://cdn.idle-mmo.com/cdn-cgi/image/width=20,height=20/tasks/total_skill.png) [Leaderboards](/wiki/community-and-competition/leaderboards?same_window=true)\
-![Guilds](https://cdn.idle-mmo.com/cdn-cgi/image/width=20,height=20/uploaded/skins/01HQQJQD8BME4JCHG9H879XM0Q.png) [Guilds](/wiki/community-and-competition/guilds?same_window=true)\
 ![Shrine](https://cdn.idle-mmo.com/cdn-cgi/image/width=20,height=20/uploaded/skins/01HR4PQW3PX271SS7Y02MNSQT8.png) [Shrine](/wiki/community-and-competition/shrine?same_window=true)
 
 </div>
