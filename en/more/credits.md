@@ -253,22 +253,7 @@ Select community members chosen to alpha test the game and provide valuable feed
 </div>
 </div>
 
-<!-- Special Mentions -->
-<div class="space-y-4">
-<h2 class="text-2xl font-semibold border-b border-gray-700 pb-1">Discord Knights</h2>
-Specially chosen members of the community to help alpha test the game and to provide feedback to the developers.
-
-<div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-3">
-
-<div class="bg-gray-800 rounded-lg p-3 shadow-md hover:shadow-lg transition-shadow duration-300">
-<h3 class="text-lg font-medium !mt-0 !mb-0">Crashedsunshine</h3>
-<p class="text-gray-400 text-sm">Discord Knight</p>
-</div>
-
-</div>
-</div>
-
-<!-- Special Mentions -->
+<!-- Information -->
 <div class="space-y-4">
 <h2 class="text-2xl font-semibold border-b border-gray-700 pb-1">Information</h2>
 
