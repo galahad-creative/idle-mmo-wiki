@@ -1,6 +1,6 @@
 # Campaigns
 
-Campaigns in IdleMMO provide a completely free no strings attached battle pass experience, letting players earn various rewards like tokens and exclusive skins. There are two main types of campaigns to engage with:
+Campaigns in IdleMMO provide a completely free, no strings attached battle pass experience, letting players earn various rewards like tokens and exclusive skins. There are two main types of campaigns to engage with:
 
 #### Global Campaigns
 
@@ -25,7 +25,7 @@ Building a `Snowman`, for instance, yields higher points compared to simple `Sno
 
 #### Community Goal
 
-In every seasonal campaign, there’s a community goal that brings everyone together. Players work together to hit a shared target, and when the goal is reached, everyone is eligible for boost. The boost last for the remainder of the campaign. Once the campaign wraps up, the boost expire.
+In every seasonal campaign, there’s a community goal that brings everyone together. Players work together to hit a shared target, and when the goal is reached, everyone is eligible for a boost. The boost lasts for the rest of the campaign. Once it ends, the boost expires.
 
 For a character to receive a boost, they must contribute at least once to the community goal. Contributions only unlock the boost for the currently active tier and do not automatically apply to any future boosts if the community goal changes. As a result, if the goal changes, players will need to contribute again to access the new boost.
 
