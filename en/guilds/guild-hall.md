@@ -31,13 +31,14 @@ For example, if a guild has a Conquest Banner component – which allows them to
 The **Teleportation Beacon** is a component that allows guild members to teleport to the Guild Hall’s location at a significantly reduced cost. The exact reduction depends on their Guild Mastery level – and if they’ve reached level 100, teleportation is completely free.
 
 **Guild Level Required:** 40  
+**Mark Cost:** 20
 #### Resources Needed:
-- **100,000** Yew Logs
-- **100,000** Banyan Logs
-- **100,000** Tin Bars
-- **100,000** Lead Bars
-- **100,000** Chromite Bars
-- **80,000** Mystic Bars
+- **50,000** Yew Logs
+- **50,000** Banyan Logs
+- **50,000** Tin Bars
+- **50,000** Lead Bars
+- **50,000** Chromite Bars
+- **40,000** Mystic Bars
 
 ---
 
@@ -46,25 +47,27 @@ The **Teleportation Beacon** is a component that allows guild members to telepor
 The **Mission Table** is a quality-of-life component that streamlines the process of generating guild challenges. Instead of requiring a guild member with the necessary permissions to set them up manually, the Mission Table automatically generates challenges for the guild.
 
 **Guild Level Required:** 25  
+**Mark Cost:** 20
 #### Resources Needed:
-- **100,000** Oak Logs
-- **100,000** Birch Logs
-- **100,000** Banyan Logs
-- **100,000** Willow Logs
-- **200,000** Mahogany Logs
-- **100,000** Iron Bars
-- **50,000** Lead Bars
-- **60,000** Steel Bars
+- **50,000** Oak Logs
+- **50,000** Birch Logs
+- **50,000** Banyan Logs
+- **50,000** Willow Logs
+- **100,000** Mahogany Logs
+- **50,000** Iron Bars
+- **25,000** Lead Bars
+- **30,000** Steel Bars
 
 ---
 
-## Campaign Board
+## Raid Planner
 
-The **Campaign Board** allows guilds to schedule up to 10 raids in advance, removing the need to wait for an ongoing raid to finish before setting up the next one.
+The **Raid Planner** allows guilds to schedule up to 10 raids in advance, removing the need to wait for an ongoing raid to finish before setting up the next one.
 
 Raids can also now be scheduled up to a month in advance.
 
 **Guild Level Required:** 50  
+**Mark Cost:** 20
 #### Resources Needed:
 - **20,000** Oak Logs
 - **20,000** Spruce Logs
@@ -80,13 +83,14 @@ Raids can also now be scheduled up to a month in advance.
 The **Unity Seal** allows guilds to create a custom 3-letter guild tag, displayed next to every member’s username. For those who prefer a cleaner look, this can be toggled off in the settings.
 
 **Guild Level Required:** 15  
+**Mark Cost:** 15
 #### Resources Needed:
-- **100,000** Oak Logs
-- **100,000** Birch Logs
-- **100,000** Mahogany Logs
-- **100,000** Copper Bars
-- **100,000** Steel Bars
-- **50,000** Chromite Bars
+- **50,000** Oak Logs
+- **50,000** Birch Logs
+- **50,000** Mahogany Logs
+- **50,000** Copper Bars
+- **50,000** Steel Bars
+- **25,000** Chromite Bars
 
 ---
 
@@ -100,13 +104,14 @@ The strength of the boosts is directly tied to the [Guild Mastery](/wiki/charact
 
 **Boosts**: Range from **1**% to **15**% depending on the character's [Guild Mastery](/wiki/character/skills?same_window=true) level. 
 **Guild Level Required:** 15  
+**Mark Cost:** 20
 #### Resources Needed:
-- **150,000** Spruce Logs
-- **150,000** Maple Logs
-- **150,000** Mystical Logs
-- **150,000** Iron Bars
-- **120,000** Mercury Bars
-- **40,000** Uranium Bars
+- **75,000** Spruce Logs
+- **75,000** Maple Logs
+- **75,000** Mystical Logs
+- **75,000** Iron Bars
+- **60,000** Mercury Bars
+- **20,000** Uranium Bars
 
 ---
 
@@ -114,13 +119,14 @@ The strength of the boosts is directly tied to the [Guild Mastery](/wiki/charact
 
 A **Conquest Banner** is required for the guild to undertake [Conquests](/wiki/guilds/conquest?same_window=true).
 
-**Guild Level Required:** **70**  
+**Guild Level Required:** 70
+**Mark Cost:** 35
 #### Resources Needed:
-- **100,000** Yew Logs
-- **40,000** Spruce Logs
-- **20,000** Maple Logs
-- **10,000** Mystical Logs
-- **40,000** Copper Bars
-- **40,000** Steel Bars
-- **70,000** Uranium Bars
-- **100,000** Mystic Bars  
+- **50,000** Yew Logs
+- **20,000** Spruce Logs
+- **10,000** Maple Logs
+- **5,000** Mystical Logs
+- **20,000** Copper Bars
+- **20,000** Steel Bars
+- **35,000** Uranium Bars
+- **50,000** Mystic Bars  
