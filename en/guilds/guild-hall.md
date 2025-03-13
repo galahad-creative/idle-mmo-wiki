@@ -8,7 +8,6 @@ Building a Guild Hall won’t be easy. Guilds will need to gather a significant 
 
 A guild needs to be at least **level 10** to construct a Guild Hall.
 
-
 ### Guild Components
 Guild Halls have been designed to be as modular as possible. 
 
@@ -23,10 +22,10 @@ Repairs can be done at any time, and the amount of resources required depends on
 
 For example, if a guild has a Conquest Banner component – which allows them to perform Assaults – they won’t be able to launch assaults while the component is under repair. Repairs might take a few hours, so proper planning will be key.
 
-
 # Guild Hall Components
 
 ## Teleportation Beacon
+![Teleportation Beacon](https://cdn.idle-mmo.com/cdn-cgi/image/width=100,height=100/uploaded/skins/01JNZVTYEMEJA371G4WGNR7EFV.png)
 
 The **Teleportation Beacon** is a component that allows guild members to teleport to the Guild Hall’s location at a significantly reduced cost. The exact reduction depends on their Guild Mastery level – and if they’ve reached level 100, teleportation is completely free.
 
@@ -43,6 +42,8 @@ The **Teleportation Beacon** is a component that allows guild members to telepor
 ---
 
 ## Mission Table
+
+![Mission Table](https://cdn.idle-mmo.com/cdn-cgi/image/width=100,height=100/uploaded/skins/01JNZVT3009YZPRT4320G6NJN0.png)
 
 The **Mission Table** is a quality-of-life component that streamlines the process of generating guild challenges. Instead of requiring a guild member with the necessary permissions to set them up manually, the Mission Table automatically generates challenges for the guild.
 
@@ -62,6 +63,8 @@ The **Mission Table** is a quality-of-life component that streamlines the proces
 
 ## Raid Planner
 
+![Raid Planner](https://cdn.idle-mmo.com/cdn-cgi/image/width=100,height=100/uploaded/skins/01JNZVTAKF31FGC93VQBATH68V.png)
+
 The **Raid Planner** allows guilds to schedule up to 10 raids in advance, removing the need to wait for an ongoing raid to finish before setting up the next one.
 
 Raids can also now be scheduled up to a month in advance.
@@ -80,6 +83,8 @@ Raids can also now be scheduled up to a month in advance.
 
 ## Unity Seal
 
+![Unity Seal](https://cdn.idle-mmo.com/cdn-cgi/image/width=100,height=100/uploaded/skins/01JNZVS6S5JJH8YVBNZ8WAQRVZ.png)
+
 The **Unity Seal** allows guilds to create a custom 3-letter guild tag, displayed next to every member’s username. For those who prefer a cleaner look, this can be toggled off in the settings.
 
 **Guild Level Required:** 15  
@@ -95,6 +100,8 @@ The **Unity Seal** allows guilds to create a custom 3-letter guild tag, displaye
 ---
 
 ## Energizing Pool
+
+![Energizing Pool](https://cdn.idle-mmo.com/cdn-cgi/image/width=100,height=100/uploaded/skins/01JNZVRV7XN456RW010X8GSQG7.png)
 
 The **Energizing Pool** is a guild component that provides a temporary, time-limited boost to all guild members. To activate it, the guild must spend Guild Marks – once activated, the pool remains active for 3 hours.
 
@@ -116,6 +123,8 @@ The strength of the boosts is directly tied to the [Guild Mastery](/wiki/charact
 ---
 
 ## Conquest Banner
+
+![Conquest Banner](https://cdn.idle-mmo.com/cdn-cgi/image/width=100,height=100/uploaded/skins/01JNZVVBSQ7NXTBRRVBT4FMMZB.png)
 
 A **Conquest Banner** is required for the guild to undertake [Conquests](/wiki/guilds/conquest?same_window=true).
 
