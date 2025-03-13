@@ -22,7 +22,15 @@ Repairs can be done at any time, and the amount of resources required depends on
 
 For example, if a guild has a Conquest Banner component – which allows them to perform Assaults – they won’t be able to launch assaults while the component is under repair. Repairs might take a few hours, so proper planning will be key.
 
+>!banner Guild components currently decay from 100% to 0% in 90 days.
+
+-----
+
 # Guild Hall Components
+
+>!banner Guild components are optional upgrades that can be added to a Guild Hall. 
+
+>!banner These components currently utilise **Logs** as part of the construction process.<br/>This will change to **Planks** when the **Carpentry** skill is released.
 
 ## Teleportation Beacon
 ![Teleportation Beacon](https://cdn.idle-mmo.com/cdn-cgi/image/width=100,height=100/uploaded/skins/01JNZVTYEMEJA371G4WGNR7EFV.png)
