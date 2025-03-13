@@ -25,7 +25,7 @@ Other than Gold, you can also contribute Tokens to the Shrine, and they will aut
 For example:
 - Contributing **10** Tokens equals **8,000 Gold** contributed to the Shrine.
 
-Only characters at a total level of **600** and above may contribute tokens to the shrine.
+>!banner Only characters at a total level of **600** and above may contribute tokens to the shrine.
 
 ### Reset Time
 

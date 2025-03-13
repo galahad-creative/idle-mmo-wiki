@@ -25,9 +25,11 @@ The timer starts when the enemy is first discovered, and you’ll see a countdow
 
 #### Notes
 
-- You can only hunt enemies that match your combat level. For example, if your combat level is **20**, the highest level enemies you can hunt are level **20**. Enemies above level **20** will not be hunted. So, if you try hunting in higher-level areas without the required combat level, you may end up with no enemies.
-- Since `v0.23.0`, pets can no longer hunt for enemies on behalf of your character. Only your characters can hunt.
-- Since `v0.23.5`, there are no limits to the number of enemies you can hunt. Instead, the slowly decay over time.
+>!banner You can only hunt enemies that match your combat level. For example, if your combat level is **20**, the highest level enemies you can hunt are level **20**. Enemies above level **20** will not be hunted. So, if you try hunting in higher-level areas without the required combat level, you may end up with no enemies.
+
+>!banner Since `v0.23.0`, pets can no longer hunt for enemies on behalf of your character. Only your characters can hunt.
+
+>!banner 1Since `v0.23.5`, there are no limits to the number of enemies you can hunt. Instead, the slowly decay over time.
 
 ## Battling
 
@@ -51,7 +53,7 @@ When a battle begins, the UI will show you the following key information, so you
 - How many enemies you have already defeated according to the time that has elapsed
 - How many enemies you have left to defeat
 
-All of these values are dependent on your stats, equipment, the enemies stats, and the food you brought with you.
+>!banner All of the above values are dependent on your stats, equipment, the enemies stats, and the food you brought with you.
 
 #### Food
 
@@ -95,8 +97,16 @@ This scaling approach is designed to avoid major imbalances in loot frequency. F
 
 #### Notes
 
-- Taking a lot of food with you will increase your effective health, allowing you to battle for longer.
-- Improving your stats with better equipment means you can defeat enemies faster and with less damage taken. This also means you don't need to use as much food - saving additional time and money.
-- Using the `Balanced` stance may result in less EXP if it cannot be divided evenly. For instance, if you defeat an enemy and you obtain `25 EXP`, that means each stat will get `6 EXP` totalling at `24 EXP` and the remaining `1 EXP` will be lost.
-- There is a limit of __8 seconds__ seconds per enemy. It's not possible to defeat enemies quicker than __8 seconds__.
-- There is a minimum of _1 damage__ taken per battle. It's impossible to encounter a battle and leave unharmed.
+>!banner Taking a lot of food with you will increase your effective health, allowing you to battle for longer.
+
+
+>!banner  Improving your stats with better equipment means you can defeat enemies faster and with less damage taken. This also means you don't need to use as much food - saving additional time and money.
+
+
+>!banner Using the `Balanced` stance may result in less EXP if it cannot be divided evenly. For instance, if you defeat an enemy and you obtain `25 EXP`, that means each stat will get `6 EXP` totalling at `24 EXP` and the remaining `1 EXP` will be lost.
+
+
+>!banner There is a limit of __8 seconds__  per enemy. It's not possible to defeat enemies quicker than __8 seconds__.
+
+
+>!banner There is a minimum of _1 damage__ taken per battle. It's impossible to encounter a battle and leave unharmed.

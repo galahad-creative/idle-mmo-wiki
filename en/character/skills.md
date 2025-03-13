@@ -8,9 +8,9 @@ Skills are the foundation of IdleMMO, allowing you to progress even when you're 
 - As you engage in a skill, materials are accumulated over time. For instance, with `Woodcutting`, you'll receive a [Log](/wiki/items-and-pets/item-types?same_window=true) every few seconds, depending on the type of [Log](/wiki/items-and-pets/item-types?same_window=true) being cut.
 - You can step away from your device, and your character will keep working. When you come back, you'll find a collection of resources that were gathered while you were away.
 
-**Note:** Some skills require specific [Equipment](/wiki/items-and-pets/equipment?same_window=true), like a [Pickaxe](/wiki/items-and-pets/item-types?same_window=true) for `Mining`. You are given very basic equipment when you create your account but you can obtain better equipment by crafting them.
+>!banner Some skills require specific [Equipment](/wiki/items-and-pets/equipment?same_window=true), like a [Pickaxe](/wiki/items-and-pets/item-types?same_window=true) for `Mining`. You are given very basic equipment when you create your account but you can obtain better equipment by crafting them.
 
-**Pro Tip:** Explore new locations to discover different items acquired from skills by [travelling](/wiki/activities-and-challenges/travelling?same_window=true).
+>!banner Explore new locations to discover different items acquired from skills by [travelling](/wiki/activities-and-challenges/travelling?same_window=true).
 
 ### Types of Skills in IdleMMO
 

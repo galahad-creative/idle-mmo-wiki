@@ -265,7 +265,5 @@ Select community members chosen to alpha test the game and provide valuable feed
 >!banner If your name is listed here, and you want it removed, please create a ticket on Discord or contact us at idlemmo@galahadcreative.com.
 
 
-
-
 </div>
 </div>
