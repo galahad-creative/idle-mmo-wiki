@@ -10,7 +10,7 @@ Skills are the foundation of IdleMMO, allowing you to progress even when you're 
 
 >!banner Some skills require specific [Equipment](/wiki/items-and-pets/equipment?same_window=true), like a [Pickaxe](/wiki/items-and-pets/item-types?same_window=true) for `Mining`. You are given very basic equipment when you create your account but you can obtain better equipment by crafting them.
 
->!banner Explore new locations to discover different items acquired from skills by [travelling](/wiki/activities-and-challenges/travelling?same_window=true).
+>!!banner Explore new locations to discover different items acquired from skills by [travelling](/wiki/activities-and-challenges/travelling?same_window=true).
 
 ### Types of Skills in IdleMMO
 
