@@ -257,50 +257,15 @@ Select community members chosen to alpha test the game and provide valuable feed
 <div class="space-y-4">
 <h2 class="text-2xl font-semibold border-b border-gray-700 pb-1">Information</h2>
 
-<div class="rounded-lg mt-2 bg-gray-800 shadow-sm py-3 px-6 relative text-gray-200 font-medium">
-<div class="absolute top-0 left-0 -mt-2 -ml-2">
-<svg class="h-6 w-6 text-gray-600" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
-<path fill-rule="evenodd" d="M18 10a8 8 0 11-16 0 8 8 0 0116 0zm-7-4a1 1 0 11-2 0 1 1 0 012 0zM9 9a1 1 0 000 2v3a1 1 0 001 1h1a1 1 0 100-2v-3a1 1 0 00-1-1H9z" clip-rule="evenodd"></path>
-</svg>
-</div>
-<div>
-<div class="md:flex md:justify-between">
-<div class="text-sm w-full">
-This list contains both past and current contributors to the game. 
-</div>
-</div>
-</div>
-</div>
 
-<div class="rounded-lg bg-gray-800 shadow-sm py-3 px-6 relative text-gray-200 font-medium ">
-<div class="absolute top-0 left-0 -mt-2 -ml-2">
-<svg class="h-6 w-6 text-gray-600" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
-<path fill-rule="evenodd" d="M18 10a8 8 0 11-16 0 8 8 0 0116 0zm-7-4a1 1 0 11-2 0 1 1 0 012 0zM9 9a1 1 0 000 2v3a1 1 0 001 1h1a1 1 0 100-2v-3a1 1 0 00-1-1H9z" clip-rule="evenodd"></path>
-</svg>
-</div>
-<div>
-<div class="md:flex md:justify-between">
-<div class="text-sm w-full">
-If your name is missing in this list, please create a <a href='https://github.com/galahad-creative/idle-mmo-wiki' class='text-yellow-400'>GitHub</a> PR and write your reasoning in the description.
-</div>
-</div>
-</div>
-</div>
+>!banner This list contains both past and current contributors to the game.
 
-<div class="rounded-lg bg-gray-800 shadow-sm py-3 px-6 relative text-gray-200 font-medium">
-<div class="absolute top-0 left-0 -mt-2 -ml-2">
-<svg class="h-6 w-6 text-gray-600" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" fill="currentColor" aria-hidden="true">
-<path fill-rule="evenodd" d="M18 10a8 8 0 11-16 0 8 8 0 0116 0zm-7-4a1 1 0 11-2 0 1 1 0 012 0zM9 9a1 1 0 000 2v3a1 1 0 001 1h1a1 1 0 100-2v-3a1 1 0 00-1-1H9z" clip-rule="evenodd"></path>
-</svg>
-</div>
-<div>
-<div class="md:flex md:justify-between">
-<div class="text-sm w-full">
-If your name is listed here, and you want it removed, please create a ticket on Discord or contact us at idlemmo@galahadcreative.com.
-</div>
-</div>
-</div>
-</div>
-</div>
+>!banner If your name is missing in this list, please create a <a href='https://github.com/galahad-creative/idle-mmo-wiki' class='text-yellow-400'>GitHub</a> PR and write your reasoning in the description.
 
+>!banner If your name is listed here, and you want it removed, please create a ticket on Discord or contact us at idlemmo@galahadcreative.com.
+
+
+
+
+</div>
 </div>

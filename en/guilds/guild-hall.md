@@ -1,12 +1,13 @@
 # Guild Hall
 
-Guild Halls will serve as a central hub for guilds, providing access to key features – including Assaults, which we’ll cover later in this post.
+Guild Halls serve as a central hub for guilds, providing access to key features – including **Assaults**, and the **Energizing Pool**.
 
-Building a Guild Hall won’t be easy. Guilds will need to gather a significant amount of materials to construct one. While we can’t dive into the exact material requirements just yet, the goal is for Guild Halls to act as a large item sink, so expect the costs to be substantial. Logs and bars will play a big role in this, giving them much-needed utility in the game.
 
 ### Level Requirement
 
 A guild needs to be at least **level 10** to construct a Guild Hall.
+
+>!banner While a guild that is level 10 can construct a Guild Hall, it's recommended to wait until the guild is at a higher level to ensure that the guild has the resources and members to maintain it.
 
 ### Guild Components
 Guild Halls have been designed to be as modular as possible. 
@@ -38,7 +39,7 @@ For example, if a guild has a Conquest Banner component – which allows them to
 The **Teleportation Beacon** is a component that allows guild members to teleport to the Guild Hall’s location at a significantly reduced cost. The exact reduction depends on their Guild Mastery level – and if they’ve reached level 100, teleportation is completely free.
 
 **Guild Level Required:** 40  
-**Mark Cost:** 20
+**Mark Cost:** 20 Marks
 #### Resources Needed:
 - **50,000** Yew Logs
 - **50,000** Banyan Logs
@@ -56,7 +57,7 @@ The **Teleportation Beacon** is a component that allows guild members to telepor
 The **Mission Table** is a quality-of-life component that streamlines the process of generating guild challenges. Instead of requiring a guild member with the necessary permissions to set them up manually, the Mission Table automatically generates challenges for the guild.
 
 **Guild Level Required:** 25  
-**Mark Cost:** 20
+**Mark Cost:** 20 Marks
 #### Resources Needed:
 - **50,000** Oak Logs
 - **50,000** Birch Logs
@@ -78,7 +79,7 @@ The **Raid Planner** allows guilds to schedule up to 10 raids in advance, removi
 Raids can also now be scheduled up to a month in advance.
 
 **Guild Level Required:** 50  
-**Mark Cost:** 20
+**Mark Cost:** 20 Marks
 #### Resources Needed:
 - **20,000** Oak Logs
 - **20,000** Spruce Logs
@@ -117,9 +118,10 @@ During this time, any guild member can enter the Energizing Pool and receive fre
 
 The strength of the boosts is directly tied to the [Guild Mastery](/wiki/character/skills?same_window=true) level – lower mastery levels will result in weaker boosts, while higher mastery levels will make the Energizing Pool a valuable tool.
 
-**Boosts**: Range from **1**% to **15**% depending on the character's [Guild Mastery](/wiki/character/skills?same_window=true) level. 
-**Guild Level Required:** 15  
-**Mark Cost:** 20
+**Boosts**: Range from **1**% to **15**% depending on the character's [Guild Mastery](/wiki/character/skills?same_window=true) level.\
+**Cost To Activate**: 5 Marks\
+**Guild Level Required:** 15\
+**Mark Cost (To Build):** 20 Marks
 #### Resources Needed:
 - **75,000** Spruce Logs
 - **75,000** Maple Logs
@@ -136,8 +138,8 @@ The strength of the boosts is directly tied to the [Guild Mastery](/wiki/charact
 
 A **Conquest Banner** is required for the guild to undertake [Conquests](/wiki/guilds/conquest?same_window=true).
 
-**Guild Level Required:** 70
-**Mark Cost:** 35
+**Guild Level Required:** 70\
+**Mark Cost:** 35 Marks
 #### Resources Needed:
 - **50,000** Yew Logs
 - **20,000** Spruce Logs
