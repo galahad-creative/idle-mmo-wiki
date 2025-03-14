@@ -39,20 +39,28 @@ The guild member limit is dependent on the guilds total level.
 
 ### Ranks and Permissions
 
-| Permission               | Soldier | Officer | Deputy | Leader |
-| ------------------------ | ------- | ------- | ------ | ------ |
-| __Disband Guild__          | ✗       | ✗       | ✗    | ✔      | 
-| __Update Description__     | ✗       | ✗       | ✔    | ✔      | 
-| __Manage Applications__    | ✗       | ✔       | ✔    | ✔      | 
-| __Change Rank__            | ✗       | ✗       | ✔    | ✔      | 
-| __Change Background/Icon__ | ✗       | ✗       | ✔    | ✔      | 
-| __Kick Members__           | ✗       | ✔       | ✔    | ✔      | 
-| __Update Settings__        | ✗       | ✗       | ✔    | ✔      | 
-| __Schedule Raid__          | ✗       | ✔       | ✔    | ✔      | 
-| __Generate Challenges__    | ✗       | ✔       | ✔    | ✔      | 
-| __Refresh Challenge__      | ✗       | ✔       | ✔    | ✔      | 
-| __Create Announcements__   | ✗       | ✗       | ✔    | ✔      | 
-| __Delete Announcements__   | ✗       | ✗       | ✔    | ✔      | 
+| Permission                   | Soldier | Officer | Deputy | Leader |
+|------------------------------| ------ | ------ | ------ | ------ |
+| __Deposit To Stockpile__     | ✔       | ✔       | ✔    | ✔      |
+| __Disband Guild__            | ✗      | ✗      | ✗    | ✔      | 
+| __Update Description__       | ✗      | ✗      | ✔    | ✔      | 
+| __Manage Applications__      | ✗      | ✔      | ✔    | ✔      | 
+| __Change Rank__              | ✗      | ✗      | ✔    | ✔      | 
+| __Change Background/Icon__   | ✗      | ✗      | ✔    | ✔      | 
+| __Kick Members__             | ✗      | ✔      | ✔    | ✔      | 
+| __Update Settings__          | ✗      | ✗      | ✔    | ✔      | 
+| __Schedule Raid__            | ✗      | ✔      | ✔    | ✔      | 
+| __Generate Challenges__      | ✗      | ✔      | ✔    | ✔      | 
+| __Refresh Challenge__        | ✗      | ✔      | ✔    | ✔      | 
+| __Create Announcements__     | ✗      | ✗      | ✔    | ✔      | 
+| __Delete Announcements__     | ✗      | ✗      | ✔    | ✔      | 
+| __Create Guild Hall__        | ✗      | ✗      | ✔    | ✔      |
+| __Add Hall Component__       | ✗      | ✗      | ✔    | ✔      |
+| __Remove Hall Component__    | ✗      | ✗      | ✔    | ✔      |
+| __Repair Hall Component__    | ✗      | ✗      | ✔    | ✔      |
+| __Activate Energizing Pool__ | ✗      | ✗      | ✔    | ✔      |
+| __Start Conquests__          | ✗      | ✗      | ✔    | ✔      |
+| __Update Guild Tag__         | ✗      | ✗      | ✔    | ✔      |
 
 -------
 
@@ -60,8 +68,10 @@ The guild member limit is dependent on the guilds total level.
 
 The guild stockpile is a dedicated pool of resources that can only be used for the guild hall and its components. Unlike a bank, once resources are contributed, they cannot be withdrawn. These resources are essential for maintaining and upgrading guild structures, such as repairing components of the guild hall.
 
+>!!banner Trade locked characters cannot contribute to the guild stockpile.
+
 -------
 
 ### Additional Notes
 
-- A character can only join a guild once every 24 hours.
+>!banner A character can only join a guild once every 24 hours.
