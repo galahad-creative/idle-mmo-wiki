@@ -18,3 +18,5 @@ Qualities and rarities across different item types do not correlate. For instanc
 | __<span class="quality:epic:text">Epic</span>__ | 4  |
 | __<span class="quality:legendary:text">Legendary</span>__ | 5  |
 | __<span class="quality:mythic:text">Mythic</span>__ | 6 (Most Powerful)   |
+
+>!banner There is a special "Unique" quality tier that applies to items in the game that are extremely unique and are not obtainable through normal gameplay.  These items are typically given out as rewards for special events or achievements.
