@@ -1,16 +1,16 @@
 # Dungeons
 
-Dungeons in the game allow you to engage in combat for long periods without needing to interact directly, unlike battling enemies. They are also the main way to get recipes, which you need to craft the strongest items.
+Dungeons in the game allow you to engage in combat for long periods without needing to interact directly, unlike battling enemies. They are the primary source of recipes needed to craft the strongest items.
 
 The game has various dungeons, each with different difficulty levels. As a dungeon's level increases, so does its difficulty, making it harder to succeed.
 
-Each dungeon has multiple floors, shown in the action bar, representing the player's ongoing idle actions. Once all floors are cleared, the dungeon ends automatically, and you receive the rewards.
+Each dungeon has multiple floors displayed in the action bar, indicating the player's ongoing idle actions. Once all floors are cleared, the dungeon ends automatically, and you receive the rewards.
 
-Participating in dungeons requires a significant investment of both time and currency to obtain the best items. As dungeon levels increase, the costs in both gold and time also go up.
+Dungeons require a significant investment of time and currency to acquire the best items. As dungeon levels increase, the costs in both gold and time also go up.
 
 #### List of Dungeons
 
-| Dungeon | Level Required | Location | Cost  | Time To Complete |
+| Dungeon | Level Required | Location | Cost  | Completion Time |
 | ------- | -------------- | -------- | ----- | ---------------- |
 | __Millstone Mines__ | Lv. 3 | Bluebell Hollow | 300 | 15m |
 | __Vineyard Labyrinth__ | Lv. 10 | Bluebell Hollow | 1,200 | 15m |
