@@ -94,6 +94,8 @@ Ravenna, having struck a dark bargain with the devil, has become a fearsome mani
 </div>
 </div>
 
+
+
 ----
 
 <div class="sm:flex gap-2 items-center">
@@ -444,6 +446,29 @@ Onroth, an [Oakenra](/wiki/lore/civilizations), akin to a cunning trickster, pos
 #### Ankhotep
 Ankhotep, a name steeped in wisdom and intellect, was once an esteemed advisor to an emperor. However, his unwavering commitment to family led him to choose a humble life in the desert. A paragon of familial devotion, he embodies both the brilliance of the mind and the warmth of the heart.
 
+
 </div>
 </div>
 
+----
+
+<div class="sm:flex gap-2 items-center">
+<div class="flex-shrink-0">
+
+![Mahol](https://cdn.idle-mmo.com/cdn-cgi/image/width=150,height=150/uploaded/skins/01JQ6NFAB6GXP0FDC4DVPX98MS.png)
+
+</div>
+<div>
+
+#### Mahol
+Mahol the Endless. Mahol the Wise. Mahol the Unforgiving. Just a few of the many names whispered through the generations.
+
+The Arvendor Archives describe him as an old man - a quiet loner. Short and stubby, with a long white beard and an innocent look.
+
+Yet don't let his looks fool you. Simply being near him, as he sits motionless at the center of his hut, makes you feel his power.  Ancient, quiet, and overwhelming.
+
+He rarely speaks... but when he does, every word feels like it's wrapped in thousands of years of wisdom... maybe even more.
+
+He's always been here. And chances are, he always will be. Some believe he’s a god. Others think he’s a demon. And a few say he’s something even greater — the living embodiment of nature itself.
+</div>
+</div>
