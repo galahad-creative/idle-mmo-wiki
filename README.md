@@ -1,5 +1,8 @@
 # IdleMMO Official Wiki
-Welcome to the official Wiki for IdleMMO, a comprehensive resource designed to assist players and contributors in understanding and engaging with the game. This Wiki provides detailed documentation and insights into the gameplay mechanics, characters, quests, and much more. 
+
+Welcome to the official IdleMMO Wiki, your go-to resource for all things related to IdleMMO. 
+
+We’ve designed this wiki to help players and contributors understand the game and share accurate, up-to-date information. 
 
 ## Requirements
 To ensure a consistent and quality experience for all users, please adhere to the following guidelines when contributing to the Wiki:
@@ -16,7 +19,7 @@ To ensure a consistent and quality experience for all users, please adhere to th
 Please note the following additional requirements to maintain the integrity and usefulness of the Wiki:
 
 - **Language Support** - Currently, we only support content in English. Contributions in other languages will not be accepted.
-- **Separate Pull Requests** - Keep your pull requests (PRs) small. If a PR contains hundreds of changes, it risks rejection if even a single line violates our guidelines. Split large updates into multiple PRs for simpler reviews and better approval chances.
+- **Separate Pull Requests** - While this is not a hard rule, it's recommended that you keep your pull requests (PRs) small. If a PR contains hundreds of changes, it risks rejection if even a single line violates our guidelines. Split large updates into multiple PRs for simpler reviews and better approval chances.
 - **Image Usage** - Only images hosted on the IdleMMO CDN are allowed. Obtain these by copying an image URL directly from the game.
 - **Factual Content** - Ensure that all contributions are factual and unbiased. Avoid opinions or subjective statements.
 - **Appropriate Language** - Use clear, straightforward, and appropriate language that is easy to understand.
@@ -33,4 +36,7 @@ To contribute to the IdleMMO Wiki, follow these simplified steps:
 
 That's it! Once submitted, your PR will be reviewed by the maintainers.
 
-Thank you for your contributions and support in making the IdleMMO community thrive.
+## Disclaimer
+Just keep in mind that even though changes approved on the main wiki branch are considered production-ready, they still need one last round of internal review before they’re officially added to the IdleMMO production branch. This is especially important for things like numbers and values, which might include placeholders or outdated info until that final check is done.
+
+**Simply put, nothing on the wiki is guaranteed to be final until it's actually in the game.** Even then, while we do our best to keep the wiki up to date, things in the game can change - sometimes quickly. That means the wiki might become outdated, even if the info was accurate when it was added.
