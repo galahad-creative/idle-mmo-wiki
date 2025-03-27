@@ -29,6 +29,10 @@ Here’s how they work:
     - Any **unused blank scrolls** are refunded.
     - Any scrolls already **in progress** are *not* refunded.
 
+>!!banner Trade-locked classes such as Banished and Cursed cannot write scrolls.
+
+>!!banner Users that are trade-locked can write scrolls, but cannot send them.
+
 #### Enlightenment
 
 Reach **level 100** and you’ll achieve **Enlightenment** — a prestigious milestone with a cosmetic twist.
