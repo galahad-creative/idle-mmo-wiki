@@ -40,27 +40,29 @@ The guild member limit is dependent on the guilds total level.
 ### Ranks and Permissions
 
 | Permission                   | Soldier | Officer | Deputy | Leader |
-|------------------------------| ------ | ------ | ------ | ------ |
-| __Deposit To Stockpile__     | ✔       | ✔       | ✔    | ✔      |
-| __Disband Guild__            | ✗      | ✗      | ✗    | ✔      | 
-| __Update Description__       | ✗      | ✗      | ✔    | ✔      | 
-| __Manage Applications__      | ✗      | ✔      | ✔    | ✔      | 
-| __Change Rank__              | ✗      | ✗      | ✔    | ✔      | 
-| __Change Background/Icon__   | ✗      | ✗      | ✔    | ✔      | 
-| __Kick Members__             | ✗      | ✔      | ✔    | ✔      | 
-| __Update Settings__          | ✗      | ✗      | ✔    | ✔      | 
-| __Schedule Raid__            | ✗      | ✔      | ✔    | ✔      | 
-| __Generate Challenges__      | ✗      | ✔      | ✔    | ✔      | 
-| __Refresh Challenge__        | ✗      | ✔      | ✔    | ✔      | 
-| __Create Announcements__     | ✗      | ✗      | ✔    | ✔      | 
-| __Delete Announcements__     | ✗      | ✗      | ✔    | ✔      | 
-| __Create Guild Hall__        | ✗      | ✗      | ✔    | ✔      |
-| __Add Hall Component__       | ✗      | ✗      | ✔    | ✔      |
-| __Remove Hall Component__    | ✗      | ✗      | ✔    | ✔      |
-| __Repair Hall Component__    | ✗      | ✗      | ✔    | ✔      |
-| __Activate Energizing Pool__ | ✗      | ✗      | ✔    | ✔      |
-| __Start Conquests__          | ✗      | ✗      | ✔    | ✔      |
-| __Update Guild Tag__         | ✗      | ✗      | ✔    | ✔      |
+|------------------------------| ------ | ------ | ----- | ------ |
+| __Deposit To Stockpile__     | ✔      | ✔      | ✔   | ✔      |
+| __Disband Guild__            | ✗      | ✗      | ✗   | ✔      | 
+| __Update Description__       | ✗      | ✗      | ✔   | ✔      | 
+| __Manage Applications__      | ✗      | ✔      | ✔   | ✔      | 
+| __Change Rank__              | ✗      | ✗      | ✔   | ✔      | 
+| __Change Background/Icon__   | ✗      | ✗      | ✔   | ✔      | 
+| __Kick Members__             | ✗      | ✔      | ✔   | ✔      | 
+| __Update Settings__          | ✗      | ✗      | ✔   | ✔      | 
+| __Schedule Raid__            | ✗      | ✔      | ✔   | ✔      | 
+| __Generate Challenges__      | ✗      | ✔      | ✔   | ✔      | 
+| __Refresh Challenge__        | ✗      | ✔      | ✔   | ✔      | 
+| __Create Announcements__     | ✗      | ✗      | ✔   | ✔      | 
+| __Delete Announcements__     | ✗      | ✗      | ✔   | ✔      | 
+| __Create Guild Hall__        | ✗      | ✗      | ✔   | ✔      |
+| __Add Hall Component__       | ✗      | ✗      | ✔   | ✔      |
+| __Remove Hall Component__    | ✗      | ✗      | ✔   | ✔      |
+| __Repair Hall Component__    | ✗      | ✗      | ✔   | ✔      |
+| __Activate Energizing Pool__ | ✗      | ✗      | ✔   | ✔      |
+| __Start Conquests__          | ✗      | ✗      | ✔   | ✔      |
+| __Update Guild Tag__         | ✗      | ✗      | ✔   | ✔      |
+| __Banish Guild__             | ✗       | ✗       | ✗    | ✔      |
+
 
 -------
 
@@ -69,6 +71,22 @@ The guild member limit is dependent on the guilds total level.
 The guild stockpile is a dedicated pool of resources that can only be used for the guild hall and its components. Unlike a bank, once resources are contributed, they cannot be withdrawn. These resources are essential for maintaining and upgrading guild structures, such as repairing components of the guild hall.
 
 >!!banner Trade locked characters cannot contribute to the guild stockpile.
+
+-------
+
+### Banished Guilds
+
+Some character classes are intentionally cut off from the in-game market, which also locks them out of certain guild features tied to the economy - like the guild stockpile or challenge list.
+
+To work around this, guild leaders can choose to "banish" their guild. When a guild is banished, only trade-locked (banished) characters can join. This gives those isolated classes access to guild features they normally wouldn’t be able to use.
+
+The classes that are trade-locked are: **Banished**, **Cursed**.
+
+>!!banner This is an irreversible decision. Once a guild is banished, it cannot be undone.
+ 
+>!banner Only the guild leader can banish the guild.
+
+>!banner A guild can only be banished if all members are trade-locked.
 
 -------
 
