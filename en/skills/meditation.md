@@ -8,7 +8,7 @@ Meditation is a unique skill in idleMMO that is entirely based on the concept of
 Getting started is easy:
 
 - Just press **Start** to begin meditating.
-- You’ll gain EXP at a base rate of **0.7 EXP per second**.
+- You’ll gain EXP at a base rate of **0.8 EXP per second**.
 
 #### Guidance Scrolls (Unlocked at Meditation Level 35)
 
