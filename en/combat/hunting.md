@@ -46,7 +46,7 @@ Power hunting is an optional interactive twist to hunting that gives you the abi
 
 #### Enemies Per Second
 
-**Base Spawn Rate**: 0.032\
+**Base Spawn Rate**: 0.03\
 **Max Level**: 100\
 **Minimum Movement Speed**: 1\
 **Max Movement Speed**: 50\
