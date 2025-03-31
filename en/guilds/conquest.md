@@ -10,10 +10,10 @@ Guilds can enhance their influence by participating in conquests. Guilds can lau
 Guild experience is calculated as a percentage of the total EXP a player earns from defeating enemies. The stronger the enemy, the more experience the guild receives.
 
 #### Example:
-- If a guild launches an assault on **Bluebell Hollow**, and a member defeats **120 scaled goblins**, earning **15,000 EXP**, the following rewards are applied:
-    - The **guild** receives **1,500 EXP** (10% of the player's EXP).
-    - The **conquest** receives **1,500 EXP** (10% of the player's EXP).
-    - The **player** gains **1,500 Guild Mastery EXP**.
+- If a guild launches an assault on **Bluebell Hollow**, and a member defeats **1,200 scaled goblins**, earning **150,000 EXP**, the following rewards are applied:
+    - The **guild** receives **7,500 EXP** (5% of the player's EXP).
+    - The **conquest** receives **7,500 EXP** (5% of the player's EXP).
+    - The **player** gains **7,500 Guild Mastery EXP** (5% of the player's EXP).
 
 >!banner Attacking **higher-level NPCs** or **scaling weaker enemies** results in more EXP.
 
