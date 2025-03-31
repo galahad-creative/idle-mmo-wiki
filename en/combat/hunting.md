@@ -27,7 +27,7 @@ The timer starts when the enemy is first discovered, and you’ll see a countdow
 Power hunting is an optional interactive twist to hunting that gives you the ability to hunt for more items by tapping on enemies that appear on the screen.
 
 - Power hunting lasts between **10** and **25** minutes depending on your hunting mastery level.
-- The experience obtained from power hunting is between **1** and **15** depending on your hunting mastery level. 
+- The experience obtained from power hunting is between **1** and **18** depending on your hunting mastery level. 
 - Enemies spawn between **6** and **11** seconds apart.
 - After a power hunt has ended, you will have to wait **1** hour before you can start another one.
 
