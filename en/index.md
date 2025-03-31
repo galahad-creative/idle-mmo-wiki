@@ -32,7 +32,7 @@ Welcome to our comprehensive game wiki, your ultimate guide to mastering IdleMMO
 
 #### Guilds
 
-![Guilds](https://cdn.idle-mmo.com/cdn-cgi/image/width=20,height=20/uploaded/skins/01HQQJQD8BME4JCHG9H879XM0Q.png) [Guilds](/wiki/guilds/guilds?same_window=true)\
+![Guilds](https://cdn.idle-mmo.com/cdn-cgi/image/width=20,height=20/uploaded/skins/01HQQJQD8BME4JCHG9H879XM0Q.png) [Guilds](/wiki/guilds/overview?same_window=true)\
 ![Raids](https://cdn.idle-mmo.com/cdn-cgi/image/width=20,height=20/uploaded/skins/01HR4S0MPRSF5KPXNVNVY5365Y.png) [Raids](/wiki/guilds/raids?same_window=true)\
 ![Challenges](https://cdn.idle-mmo.com/cdn-cgi/image/width=20,height=20/uploaded/skins/xWOBaimvLZD0AnHX2ErXz5UzcOI3Q2-metab2FrLnBuZw==-.png) [Challenges](/wiki/guilds/challenges?same_window=true)\
 ![Guild Hall](https://cdn.idle-mmo.com/cdn-cgi/image/width=20,height=20/uploaded/skins/01JNZVSNTDQM5JS5NVWHZMTQ51.png) [Guild Hall](/wiki/guilds/guild-hall?same_window=true)\
@@ -66,6 +66,13 @@ Welcome to our comprehensive game wiki, your ultimate guide to mastering IdleMMO
 ![Item Types](https://cdn.idle-mmo.com/cdn-cgi/image/width=20,height=20/skins/items/ore/coal.png) [Item Types](/wiki/items-and-pets/item-types?same_window=true)\
 ![Qualities](https://cdn.idle-mmo.com/cdn-cgi/image/width=26,height=20/tasks/upgrade_item.png) [Qualities](/wiki/items-and-pets/qualities?same_window=true)\
 ![Pets](https://cdn.idle-mmo.com/cdn-cgi/image/width=20,height=20/uploaded/skins/2x5db3TybHBA4SwXmd0S2K5bLWjTss-metac2hlbGx5LnBuZw==-.png) [Pets](/wiki/items-and-pets/pets?same_window=true)
+
+</div>
+<div>
+
+#### Combat
+![Battling](https://cdn.idle-mmo.com/cdn-cgi/image/width=20,height=20/uploaded/skins/1eJxBXb1BOJuZpUr2sL3NwaWOV3Gr0-metadGluLXN3b3JkLnBuZw==-.png) [Battling](/wiki/combat/battling?same_window=true)\
+![Hunting](https://cdn.idle-mmo.com/cdn-cgi/image/width=20,height=20/uploaded/skins/ryXY3r3TY70wWquLMMZ7idvKVR19GS-metaaHVudGluZy1pbWFnZS5wbmc=-.png) [Hunting](/wiki/combat/hunting?same_window=true)
 
 </div>
 <div>
