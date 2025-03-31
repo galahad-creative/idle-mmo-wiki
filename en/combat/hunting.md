@@ -2,7 +2,7 @@
 
 Before you jump into combat, you'll first need to locate a group of enemies by going on a hunt. How long your hunt lasts depends on two things: your `Movement Speed` and your `Hunting Mastery`. The faster you move and the more skilled you are at hunting, the longer you'll be able to keep up the chase.
 
-The longest you can hunt is tied to your character’s maximum idle time. For example, if your character is marked as the "main character" and has an active membership, they can stay in action for up to **180** minutes.
+The longest you can hunt is tied to your character’s maximum idle time. For example, if your character is marked as the "main character" and has an active membership, they can stay in action for up to **8** hours.
 
 You can increase your `Movement Speed` with the help of [Pets](/wiki/activities-and-challenges/pets) and you can increase your `Hunting Mastery` by completing hunts.
 
