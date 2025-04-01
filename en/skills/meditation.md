@@ -27,10 +27,12 @@ Here’s how they work:
 - If you cancel a scroll mid-way:
     - Any **unused blank scrolls** are refunded.
     - Any scrolls already **in progress** are *not* refunded.
+  
+>!!banner The effects of the guidance scrolls scale from **1%** to **15%** based on your Meditation level.
 
 >!!banner Trade-locked classes such as Banished and Cursed cannot write scrolls.
 
->!!banner Users that are trade-locked can write scrolls, but cannot send them.
+>!banner Users that are trade-locked can write scrolls, but cannot send them.
 
 #### Enlightenment
 
@@ -51,9 +53,47 @@ While meditating, you can listen to various sound effects to help you relax.
 - __Thunderstorm__ - The sound of a thunderstorm.
 
 >!banner Due to technical limitations with the web browser, the sound effects must be manually enabled.
->
+
 #### Notes
 
 - The Meditation skill is **purely focused on helping others** - it’s not designed to benefit your own character directly.
 - Progression is intentionally slow - not only does it take months of dedication, but it also means you're sacrificing time that could’ve been spent on other skills.
 - Reaching **Enlightenment** is meant to be a rare and meaningful achievement that reflects **patience, dedication, and selflessness**.
+
+
+#### Guidance Scroll Scaling Formula
+
+The meditation skill is exponential in nature, meaning that the effect of the guidance scrolls increases at a faster rate as you level up. 
+
+Below is a breakdown of the formula and what each variable represents:
+
+- **current_level**: The player's current Meditation level (ranges from 1 to 100).
+- **minimum_value**: 1% — the effect at the lowest level.
+- **maximum_value**: 15% — the effect at the highest level.
+- **exponent**: 3.5 — this controls the steepness of the curve. A higher exponent means that improvements become more significant at higher levels.
+
+
+Here’s a step-by-step breakdown of how the effect is calculated:
+
+1. **Normalize the Level**  
+   Convert your current Meditation level into a value between 0 and 1.
+    - **How:** Subtract the minimum level (1) from your current level, then divide by the range (maximum level minus minimum level).
+    - **Formula:**
+      ```
+      normalized_level = (current_level - 1) / (max_level - 1)
+      ```
+
+2. **Apply the Exponential Curve**  
+   To create a curve where improvements are more noticeable at higher levels, raise the normalized value to an exponent (for example, 3.5). This makes early level increases smaller and later level increases larger.
+    - **Formula:**
+      ```
+      adjusted_value = normalized_level^exponent
+      ```
+
+3. **Scale to the Final Effect Value**  
+   Convert the adjusted value into the actual effect percentage by scaling it between the minimum effect (1%) and the maximum effect (15%).
+    - **How:** Multiply the adjusted value by the difference between the maximum and minimum values, then add the minimum value.
+    - **Formula:**
+      ```
+      effect_value = minimum_value + (maximum_value - minimum_value) * adjusted_value
+      ```
