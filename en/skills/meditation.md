@@ -21,7 +21,7 @@ Here’s how they work:
 - You **can’t** use a guidance scroll on yourself or your alts - this skill is all about helping *others*.
 - The higher your Meditation level, the **stronger the boost** in the scroll.
 - Once given, the scroll’s effect is applied **instantly** and lasts for **2 hours**.
-- Writing a scroll takes **30 minutes**.
+- Writing a scroll takes **60 minutes**.
 - You can’t write more scrolls than your **maximum idle time** allows. For example:
     - If your idle time cap is 2 hours, you can’t queue up 5 scrolls (which would take 2.5 hours total).
 - If you cancel a scroll mid-way:
