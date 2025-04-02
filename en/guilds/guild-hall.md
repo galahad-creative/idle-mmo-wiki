@@ -16,6 +16,8 @@ Guilds will be able to add components to their hall. These components essentiall
 
 To add a component to the guild, the guild hall must have a free slot. If the guild hall does not have a free slot, you can either remove an existing component, or build a new slot which will cost resources.
 
+>!! Guilds get 1 free slot when constructing a Guild Hall.
+
 #### Decay and Repairs
 Guild components decay over time, meaning they’ll require upkeep. If a component’s condition reaches 0, it will become unavailable until it is repaired. However, don’t worry – decay happens at a relatively slow rate, so you won’t need to constantly spend resources just to keep things running.
 
@@ -32,6 +34,42 @@ For example, if a guild has a Conquest Banner component – which allows them to
 >!banner Guild components are optional upgrades that can be added to a Guild Hall. 
 
 >!!banner These components currently utilise **Logs** as part of the construction process.<br/>This will change to **Planks** when the **Carpentry** skill is released.
+
+## Foundation
+
+![Conquest Banner](https://cdn.idle-mmo.com/cdn-cgi/image/width=100,height=100/uploaded/skins/01JNZVSNTDQM5JS5NVWHZMTQ51.png)
+
+The **foundation** is needed to build the guild hall.
+
+**Guild Level Required:** 10\
+**Mark Cost:** 25 Marks
+#### Resources Needed:
+- **60,000** Oak Logs
+- **65,000** Spruce Logs
+- **20,000** Willow Logs
+- **40,000** Mystical Logs
+- **12,500** Copper Bars
+- **20,000** Steel Bars
+- **30,000** Uranium Bars
+- **40,000** Mystic Bars
+
+>!banner Unlike other components, the foundation does not need maintenance/repairs.
+
+## Slot
+
+![Slot](https://cdn.idle-mmo.com/cdn-cgi/image/width=100,height=100/uploaded/skins/01JNZVTGB7QXMC9JSMT377TZ03.png)
+
+The **slot** is needed to add additional guild components.
+
+**Guild Level Required:** N/A\
+**Mark Cost:** 20 Marks
+#### Resources Needed:
+- **75,000** Mahogany Logs
+- **75,000** Mystical Logs
+- **75,000** Chromite Bars
+- **50,000** Mystic Bars
+
+>!banner Unlike other components, slots do not need maintenance/repairs.
 
 ## Teleportation Beacon
 ![Teleportation Beacon](https://cdn.idle-mmo.com/cdn-cgi/image/width=100,height=100/uploaded/skins/01JNZVTYEMEJA371G4WGNR7EFV.png)
