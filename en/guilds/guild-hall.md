@@ -16,7 +16,7 @@ Guilds will be able to add components to their hall. These components essentiall
 
 To add a component to the guild, the guild hall must have a free slot. If the guild hall does not have a free slot, you can either remove an existing component, or build a new slot which will cost resources.
 
->!! Guilds get 1 free slot when constructing a Guild Hall.
+>!!banner Guilds get <strong>1</strong> free slot when constructing a Guild Hall.
 
 #### Decay and Repairs
 Guild components decay over time, meaning they’ll require upkeep. If a component’s condition reaches 0, it will become unavailable until it is repaired. However, don’t worry – decay happens at a relatively slow rate, so you won’t need to constantly spend resources just to keep things running.
