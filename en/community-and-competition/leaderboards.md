@@ -1,6 +1,8 @@
 ## Leaderboards
 
-The leaderboards in IdleMMO serve as a hall of fame, highlighting the top-performing characters in various categories and skills. It's a great way to see how you stack up against your friends and the competition.
+The leaderboards in IdleMMO serve as a hall of fame, highlighting the top-performing characters in various categories and skills. 
+
+It's a great way to see how you stack up against your friends and the competition.
 
 #### Current Leaderboard Categories
 
@@ -22,7 +24,7 @@ As it stands, the leaderboards track and display rankings across a range of cate
 - **Hunting Mastery:** The most expert of hunters.
 - **Pet Mastery:** Trainers with proficiency in training their companions.
 - **Guild Mastery:** A strong bond between the clan.
-- **Yule Mastery:** Virtuoso snowball throwers and snowman builders. 
+- **Yule Mastery:** Virtual snowball throwers and snowman builders. 
 - **Springtide Mastery:** The most capable egg hunters.
 - **Lunar Mastery:** Finest crafters of celestial scrolls. 
 - **Shadow Mastery:** Elite pumpkin collectors and Trick-or-Treaters. 
@@ -30,5 +32,4 @@ As it stands, the leaderboards track and display rankings across a range of cate
 - **Guilds:** The groups that dominate Solaris Isle.
 - **Shrine (Gold):** Altruists who donated the most golden coins.
 - **Shrine (Tokens):** The most generous altruists by token donations.  
-
-Whether you're a combatant, a gatherer, or a craftsman, there's a spot for everyone to aim for on the leaderboards.
+- **Total Level:** The characters with the highest combined skill levels.
