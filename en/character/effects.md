@@ -78,46 +78,8 @@ Here, Recipe is adjusted to fit within the 100% limit, and Junk is removed entir
 
 
 #### Additional Notes
-- The magic bonus **does not** affect the UI in situations where loot chances are visible. For example, if you view an enemy that has a **30%** chance to drop a collectible item, this displayed value will not change, even if your character has a **200%** magic find bonus.
+>!!banner The magic bonus **does not** affect the UI in situations where loot chances are visible. For example, if you view an enemy that has a **30%** chance to drop a collectible item, this displayed value will not change, even if your character has a **200%** magic find bonus.
 
-------------
-
-## Exhaustion
-
-Excessive gameplay, defined as engaging in more than __20 hours__ of active in-game actions within a single day, triggers an "exhaustion" effect. This effect imposes certain debuffs on the character, lasting for a period of __4 hours__. After the exhaustion effect wears off, the character's condition resets, and they can resume normal gameplay.
-
-As of the time of writing, the current effects are applied:
-
-- __-35%__ Dungeon EXP
-- __-35%__ Skill EXP 
-- __-50%__ Skill Efficiency
-- __-50%__ Hunting Efficiency
-- __-35%__ Battle EXP
-
-A single day is `00:00am UTC` to `11:59PM UTC` and the limit will reset as soon as it hits `0:00am UTC`.
-
-### Examples
-
-Your character becomes "exhausted" after 20 hours of active playtime, beginning at `00:00 AM` and ending at `08:00 PM`. Once exhausted, this effect lasts for 4 hours, completing a 24-hour cycle. The exhaustion effect persists through the end of its 4-hour duration, even if a new day begins during this period.
-
-Should you play while your character is exhausted, any playtime within the same calendar day does not count towards the next day's 20-hour active time limit. 
-
-For instance, if your character reaches the 20-hour limit at `11:00 PM UTC`, they become exhausted until `3:00 AM` the following day. Playing between `11:00 PM` and `11:59 PM` on that same day won't affect the next day's active time. However, if you play after `12:00 AM`, this time will count towards the next day's 20-hour limit, even though your character is still under the exhaustion effect.
-
-### Calculation
-
-The game employs a straightforward method to calculate the net impact of various effects on a character's attributes. This is achieved by aggregating all the effects that apply to a particular attribute and then determining the final modified value of that attribute. Here's how it works:
-
-#### Summation of Effects
-
-All effects, whether positive or negative, are summed up to calculate the total impact. This total represents the net effect on the character's attribute.
-
-#### Examples
-##### Both Postive and Negative Effects
- Imagine a character is under the influence of a __+80%__ EXP boost effect and also a __-20%__ EXP effect. These effects are combined to give a final EXP boost of __+60%__. The calculation is simple: `+80% (positive effect) + -20% (negative effect) = +60% (net effect)`.
-
-##### Equally Opposing Effects
-In cases where a character experiences opposing effects on the same attribute, these effects can negate each other. For instance, if a character has a __+50%__ efficiency boost and a __-50%__ efficiency reduction, the net effect on efficiency is nullified. The final value for efficiency, in this case, would be __0%__, as `+50% + -50% = 0%`.
 
 ------------
 
@@ -169,3 +131,46 @@ When a player initiates an action, like chopping wood or entering a dungeon, the
 This system, despite its speed and ability to scale, comes with a slight trade-off. If a character receives any effects after starting an action, these effects won't influence the action’s outcome until a new action begins. 
 
 For instance, if you're engaged in a 60-minute woodcutting task and a global boost grants +100% experience during this time, this bonus won't apply to this action. To take advantage of the boost, you need to manually restart the action. This requirement means you won’t benefit from the extra experience for the ongoing action unless you refresh it.
+
+-----
+
+## Exhaustion (Removed)
+
+>!!banner As of <strong>version 0.38.0-PB</strong>, the exhaustion system has been completely removed from the game.
+
+Excessive gameplay, defined as engaging in more than __20 hours__ of active in-game actions within a single day, triggers an "exhaustion" effect. This effect imposes certain debuffs on the character, lasting for a period of __4 hours__. After the exhaustion effect wears off, the character's condition resets, and they can resume normal gameplay.
+
+As of the time of writing, the current effects are applied:
+
+- __-35%__ Dungeon EXP
+- __-35%__ Skill EXP
+- __-50%__ Skill Efficiency
+- __-50%__ Hunting Efficiency
+- __-35%__ Battle EXP
+
+A single day is `00:00am UTC` to `11:59PM UTC` and the limit will reset as soon as it hits `0:00am UTC`.
+
+### Examples
+
+Your character becomes "exhausted" after 20 hours of active playtime, beginning at `00:00 AM` and ending at `08:00 PM`. Once exhausted, this effect lasts for 4 hours, completing a 24-hour cycle. The exhaustion effect persists through the end of its 4-hour duration, even if a new day begins during this period.
+
+Should you play while your character is exhausted, any playtime within the same calendar day does not count towards the next day's 20-hour active time limit.
+
+For instance, if your character reaches the 20-hour limit at `11:00 PM UTC`, they become exhausted until `3:00 AM` the following day. Playing between `11:00 PM` and `11:59 PM` on that same day won't affect the next day's active time. However, if you play after `12:00 AM`, this time will count towards the next day's 20-hour limit, even though your character is still under the exhaustion effect.
+
+### Calculation
+
+The game employs a straightforward method to calculate the net impact of various effects on a character's attributes. This is achieved by aggregating all the effects that apply to a particular attribute and then determining the final modified value of that attribute. Here's how it works:
+
+#### Summation of Effects
+
+All effects, whether positive or negative, are summed up to calculate the total impact. This total represents the net effect on the character's attribute.
+
+#### Examples
+##### Both Positive and Negative Effects
+Imagine a character is under the influence of a __+80%__ EXP boost effect and also a __-20%__ EXP effect. These effects are combined to give a final EXP boost of __+60%__. The calculation is simple: `+80% (positive effect) + -20% (negative effect) = +60% (net effect)`.
+
+##### Equally Opposing Effects
+In cases where a character experiences opposing effects on the same attribute, these effects can negate each other. For instance, if a character has a __+50%__ efficiency boost and a __-50%__ efficiency reduction, the net effect on efficiency is nullified. The final value for efficiency, in this case, would be __0%__, as `+50% + -50% = 0%`.
+
+
