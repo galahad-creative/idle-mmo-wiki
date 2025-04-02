@@ -2,12 +2,12 @@
 
 Campaigns in IdleMMO provide a completely free, no strings attached battle pass experience, letting players earn various rewards like tokens and exclusive skins. There are two main types of campaigns to engage with:
 
-#### Global Campaigns
+#### Permanent Campaigns
 
 - These are the main campaigns of IdleMMO, accessible at any time. They do not expire.
-- Global campaigns offer a variety of rewards, including exclusive skins, tokens, and other in-game items.
+- Permanent campaigns offer a variety of rewards, including exclusive skins, tokens, and other in-game items.
 
-**Pro Tip:** Don't worry about missing out; you can revisit any previous global campaign at your leisure.
+>!!banner Don't worry about missing out! you can revisit any previous permanent campaign at your leisure.
 
 #### Seasonal Campaigns
 
@@ -16,12 +16,12 @@ Campaigns in IdleMMO provide a completely free, no strings attached battle pass 
 
 **Features of Seasonal Campaigns:**
 - They offer unique rewards and skills pertinent to the season.
-- For instance, in the `Eve of Shadows` campaign, you can collect `Pumpkins` and exchange them for `Campaign Points` and rewards.
+- For instance, in the **Eve of Shadows** campaign, you can collect **Pumpkins** and exchange them for **Campaign Points** and rewards.
 - These collectibles are acquired through skill-based activities, but first, your character must venture to the event-specific location, available only during the campaign.
 
-**Pro Tip:** Maximize your Campaign Points in the seasonal events by focusing on tasks that demand more attention. 
+>!banner Maximize your Campaign Points in the seasonal events by focusing on tasks that demand more attention. 
 
-Building a `Snowman`, for instance, yields higher points compared to simple `Snowball` trading. This is by design, as activities requiring greater effort, like gathering materials for `Snowman`, are more rewarding in the campaign. Keep in mind, the extra effort pays off in a substantial points boost!
+Building a **Snowman**, for instance, yields higher points compared to simple **Snowball** trading. This is by design, as activities requiring greater effort, like gathering materials for **Snowman**, are more rewarding in the campaign. Keep in mind, the extra effort pays off in a substantial points boost!
 
 #### Community Goal
 
@@ -31,9 +31,9 @@ For a character to receive a boost, they must contribute at least once to the co
 
 For example, if the community goal reaches tier 1 and you haven’t yet received any boost, you’ll need to contribute at least one point to unlock the tier 1 boost. Later, if the community goal advances to tier 2, you’ll need to contribute again to receive the tier 2 boost. If you don’t, your character will retain the tier 1 boost until it expires.
 
-**Note:** Unlike boosts provided by the shrine, the boosts from the community goal are not stackable. Any new boost from the community goal will replace the previous one, rather than adding to it.
+>!banner Unlike boosts provided by the shrine, the boosts from the <strong>community goal</strong> are not stackable. Any new boost from the <strong>community goal</strong> will replace the previous one, rather than adding to it.
 
-## Global Campaigns
+## Permanent Campaigns
 
 ![Bluebell Festival](https://cdn.idle-mmo.com/cdn-cgi/image/width=124,height=124/tasks/total_skill.png)
 
@@ -47,9 +47,18 @@ At the farm festival, folks gather for good tunes, tasty food, and a bit of danc
 ![Ombric Uprising](https://cdn.idle-mmo.com/cdn-cgi/image/width=124,height=124/uploaded/skins/01HQQJZMCMJXSM243EETN15GK9.png)
 
 ###  Ombric Uprising
-Started on __17th May 2023__
+Started on __17th May 2024__
 
 The Ombric, a dark force from the underworld rises to spread chaos across the land. The once-hidden Ombric civilization emerges, unleashing sinister powers and sowing fear.
+
+----
+
+![Echoes of the Ascended](https://cdn.idle-mmo.com/cdn-cgi/image/width=124,height=124/uploaded/skins/01HQQK403DGF1F0QNZQ2MCBCT1.png)
+
+###  Echoes of the Ascended
+Started on __4th February 2025__
+
+Mysterious echoes ring through The Citadel, calling to the Arvendor. These whispers come from their ancient godly ancestors. As old powers stir, shadows spread, and long-lost secrets emerge.
 
 ----
 
