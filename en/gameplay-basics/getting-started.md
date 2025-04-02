@@ -10,22 +10,22 @@ If you need more help or feel the guide isn't enough, our [Discord](https://disc
 
 Skills are the foundation of IdleMMO, allowing you to make progress even when you're not actively playing
 
-- Navigate to the `Mining` page via the `Skills` dropdown menu.
-- You’ll see various ores you can mine in your location. Start with `Coal Ore` by clicking on it and selecting `Start`.
-- Done! For the next 80 minutes, or 120 if you're a member, your character will mine your selected ore. Feel free to close the game; your gathered ore will wait for you in your inventory when you return.
+- Navigate to the **Mining** page via the **Skills** dropdown menu.
+- You’ll see various ores you can mine in your location. Start with **Coal Ore** by clicking on it and selecting **Start**.
+- Done! For the next 6 to 8 hours, your character will mine your selected ore. Feel free to close the game; your gathered ore will wait for you in your inventory when you return.
 
 Simple, isn't it?
 
-**Pro Tip:** Explore new locations to discover different ores.
+>!banner Explore new locations to discover new ores!
 
 ## Hunting and Battling
 
 Engaging in battle in IdleMMO starts with finding enemies. This simple process sets the stage for your combat encounters.
 
-- To start, navigate to the `Battle Page` and click `Start Hunt`. This initiates the hunting phase.
-- Upon completion, a selection of enemies will appear on the page. Simply press on an enemy and then `Battle` to initiate the fight. Choose your opponent wisely, taking care not to engage with enemies out of your league, as enemies significantly stronger than your character may be impossible to defeat.
+- To start, navigate to the **Battle** Page and click **Start Hunt**. This initiates the hunting phase.
+- Upon completion, a selection of enemies will appear on the page. Simply press on an enemy and then **Battle** to initiate the fight. Choose your opponent wisely, taking care not to engage with enemies out of your league, as enemies significantly stronger than your character may be impossible to defeat.
 
-**Pro Tip:** Enhance your gameplay by improving your Hunting Mastery level. A higher level in this skill increases the variety of enemies you encounter during hunts, giving you more options for battle.
+>!banner Enhance your gameplay by improving your <strong>Hunting Mastery</strong> level. A higher level in this skill increases the variety of enemies you encounter during hunts, giving you more options for battle.
 
 ## Conclusion
 

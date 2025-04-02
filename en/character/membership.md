@@ -5,7 +5,8 @@ Membership in IdleMMO is an optional subscription that enhances every character 
 
 Subscribers enjoy the following perks across all characters:
 
-- **Idle Time:** Extends from 80 minutes to 120 minutes.
+- **Base Idle Time:** Extends from 120 minutes to **180** minutes.
+- **Main Character Idle Time:** Extends your main character idle time fro 240 minutes to **300** minutes.
 - **Tokens:** 200 tokens upon first-time subscription and 100 tokens monthly on the 15th.
 - **Name Flair:** Your character name gets a distinctive gradient.
 - **EXP Boost:** Gain an additional +15% EXP on all actions.
@@ -20,7 +21,6 @@ Subscribers enjoy the following perks across all characters:
 - **Listing Limits:** Increased from 10 to 25 for maximum listings.
 - **Order Limits:** Increased from 10 to 25 for maximum orders.
 
-The membership aims to increment certain limitations slightly and offer a modest boost in rewards. The game remains completely accessible to all players, with no content exclusively behind a paywall. 
 
 ## Monetization Strategy
 For the sake of transparency, we have delved deeply into the reasoning behind our membership strategy in our detailed blog post [here](https://blog.galahadcreative.com/navigating-the-pay-to-win-debate-idlemmo/). Our aim is to strike the perfect balance between fairness to our players and financial sustainability for the game.

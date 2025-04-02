@@ -10,13 +10,14 @@ Qualities and rarities across different item types do not correlate. For instanc
 
 #### Quality Tiers
 
-| Order        | Name       |
-| ----------   | --------   |
-| __<span class="quality:standard:text">Standard</span>__ | 1 (Lowest) |
-| __<span class="quality:refined:text">Refined</span>__ | 2  |
-| __<span class="quality:premium:text">Premium</span>__ | 3  |
-| __<span class="quality:epic:text">Epic</span>__ | 4  |
-| __<span class="quality:legendary:text">Legendary</span>__ | 5  |
-| __<span class="quality:mythic:text">Mythic</span>__ | 6 (Most Powerful)   |
+| Name                                                      | Order             |
+|-----------------------------------------------------------|-------------------|
+| __<span class="quality:standard:text">Standard</span>__   | 1 (Lowest)        |
+| __<span class="quality:refined:text">Refined</span>__     | 2                 |
+| __<span class="quality:premium:text">Premium</span>__     | 3                 |
+| __<span class="quality:epic:text">Epic</span>__           | 4                 |
+| __<span class="quality:legendary:text">Legendary</span>__ | 5                 |
+| __<span class="quality:mythic:text">Mythic</span>__       | 6 (Most Powerful) |
+| __<span class="quality:unique:text">Unique</span>__       | N/A               |
 
->!banner There is a special "Unique" quality tier that applies to items in the game that are extremely unique and are not obtainable through normal gameplay.  These items are typically given out as rewards for special events or achievements.
+>!banner There is a special <span class="quality:unique:text">Unique</span> quality tier that applies to items in the game that are extremely unique and are not obtainable through normal gameplay.  These items are typically given out as rewards for special events or achievements.
