@@ -11,11 +11,11 @@ In IdleMMO, pets aren’t just loyal companions - they’re a key part of the ga
 
 #### Status
 
-- Keep your pet content and fed to maintain its stat bonuses. If you neglect it, it will become unhappy and hungry, leading to a decrease in its stat bonuses.
-- Feed your pet to alleviate hunger.
+- Keep your pet content and fed to maintain its stat bonuses. If you forget about it, it will become unhappy and hungry, leading to a decrease in its stat bonuses.
+- Feed your pet to improve hunger.
 - Pat your pet by simply clicking on it to boost its happiness.
 
-**Remember:** Pets' happiness and hunger levels deplete with time, so regular care is crucial.
+>!banner Pets' happiness and hunger levels deplete with time, so regular care is important.
 
 
 #### Equipping Pets
@@ -56,7 +56,7 @@ The table below indicates the minimum pet level required to battle in each locat
 | **Lv. 78**        | Celestial Observatory        |
 | **Lv. 92**        | Isle of Whispers             |
 
-**Pro Tip:** Battling in higher-level areas yields more experience per second, making it more efficient. However, these fights are shorter, requiring more frequent interaction from you to maintain effectiveness. You'll need to decide if this trade-off is worthwhile!
+>!banner Battling in higher-level areas yields more experience per second, making it more efficient. However, these fights are shorter, requiring more frequent interaction from you to maintain effectiveness. You'll need to decide if this trade-off is worthwhile!
 
 ##### Pet Status and Health
 
@@ -74,7 +74,7 @@ The duration of battles depends on your pet’s stats and health. Keeping your p
 
 Battle length is also affected by the location. Higher-level locations might lead to shorter battles as your pet won't be able to keep up at the same rate, which means you’ll need to check in on your pet more often to keep it fighting at its best. You’ll need to weigh the trade-offs: is it worth the extra effort of a more “hands-on” experience in higher-level areas for faster EXP gains, or would you prefer longer battles in lower-level areas for a more relaxed approach?
 
-**Pro tip:** Your [Pet Mastery](/wiki/character/skills?new_page=true) level indirectly influences the length of battles because it increases your pets stats. The higher your [Pet Mastery](/wiki/character/skills?new_page=true) level, the stronger your pet will be.
+>!banner Your [Pet Mastery](/wiki/character/skills?new_page=true) level indirectly influences the length of battles because it increases your pets stats. The higher your [Pet Mastery](/wiki/character/skills?new_page=true) level, the stronger your pet will be.
 
 ##### Maximum Concurrent Battles
 

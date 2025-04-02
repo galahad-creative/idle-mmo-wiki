@@ -11,18 +11,20 @@ The vendor in IdleMMO is where players can trade tokens and gold for a variety o
 ##### Time Limited Skins
 Time limited skins are skins that are only purchable for a limited time. Once purchased, the skin will remain on your account even after the skin has been removed from the store. Please note that time-limited skins may return again in the future.
   
-**Note:** Skins are purely cosmetic and do not confer any gameplay advantages.
+>!banner Skins are purely cosmetic and do not confer any gameplay advantages.
 
 ----
 
 ### Account and Character Slots
 
-- **Inventory Slots:** For extra carrying capacity.
-- **Character Slots:** To expand your roster of characters.
-- **Pet Slots:** More room for furry or scaly companions.
-- **Bank Slots:** Increase your storage for valuable items.
+- **Inventory Slots**
+- **Character Slots**
+- **Pet Slots**
+- **Bank Slots**
   
-**Important:** The `Character Slots` upgrade is the only one that applies to your entire account. All other slots are character-specific (meaning that they only apply to the character that purchased them).
+>!!banner The **Character Slots** upgrade is the only upgrade that applies to your entire account. 
+
+>!!banner All other slots are character-specific (meaning that they only apply to the character that purchased them).
 
 ----
 
@@ -40,4 +42,6 @@ The vendor also provides basic skill items such as [Pickaxes](/wiki/items-and-pe
 
 Guild icons are a way for you to customise the icon of a guild that you are a leader of. 
 
-__Note:__ Guild icons are exclusive to guilds where you hold the leadership position. Furthermore, if you transfer the guild leadership to another character, both the guild icon and background will reset since they are tied to the character's own personal collection.
+>!banner Guild icons are exclusive to guilds where you hold the leadership position. 
+
+>!banner If you transfer the guild leadership to another character, both the guild icon and background will reset since they are tied to the character's own personal collection.

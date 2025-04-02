@@ -6,13 +6,13 @@ The Market is your go-to platform for trading items with other players through l
 
 Listings feature items put up for sale by players across the realm of IdleMMO. Prices here follow the laws of supply and demand, set by the free market.
 
-**Pro tip:** Act fast if you spot a bargain! Listings can expire or be snapped up by other players at any moment.
+>!banner Act fast if you spot a bargain! Listings can expire or be snapped up by other players at any moment.
 
 #### Orders
 
 Purchase Orders are requests by players looking to buy specific items. If you own an item someone else wants, you can sell it directly at the order price listed.
 
-**Pro tip:** When you list an item for sale, the system checks for matching Purchase Orders. This means your item could be sold instantly if it meets an existing order's criteria.
+>!!banner When you list an item for sale, the system checks for matching Purchase Orders. This means your item could be sold instantly if it meets an existing order's criteria.
 
 ### Limits
 
