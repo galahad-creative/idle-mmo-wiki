@@ -17,11 +17,15 @@ Guild experience is calculated as a percentage of the total EXP a player earns f
 
 >!banner Attacking **higher-level NPCs** or **scaling weaker enemies** results in more EXP.
 
-### Territory Control & Seasonal Rewards
+>!banner TThe EXP your guild earns is also influenced by your character’s effects. So, if you’re using potions, buffs, or anything else that boosts your EXP gain, your guild will benefit too - both in regular guild EXP and conquest EXP.
+
+>!banner EXP is calculated individually for each enemy and always rounded down. Because of this, there may be times when the Guild Mastery EXP or Conquest EXP ends up slightly less than the expected 5%.
+
+### Territory Control
 Guild assaults are not just about experience – they also determine **territory control**. The guild with the most EXP in a location by the end of the season becomes its **ruler** for the following season, granting them exclusive boosts within that region*.
 
 #### Example:
-- If **Guild A** and **Guild B** are both competing for **Bluebell Hollow**, but **Guild A** secures more kills, they will be crowned as the occupiers for the next season.
+- If **Guild A** and **Guild B** are both competing for Bluebell Hollow, but **Guild A** secures more EXP, they will be crowned as the rules for the next season.
 - Occupying guilds receive **region-specific boosts** for the duration of their rule.
 
 >!banner *As of v0.38.0-PB, the seasonal regional-specific boosts are still in development and will be introduced in a future update likely before the end of the season.
