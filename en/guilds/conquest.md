@@ -35,6 +35,6 @@ Guild assaults are not just about experience – they also determine **territory
 - Assaults are performed in waves. Each wave takes **6 hours**. 
 - Each assault costs **10 marks** to initiate.
 - Poor planning, such as spreading forces too thin or wasting marks, could leave a guild unable to initiate future assaults.
-
+- Only battles that start _after_ the assault is launched will count towards the guild's conquest.
 
 >!banner Future updates may introduce **siege equipment** to enhance assaults. For example, Guilds might be able to construct trebuchets using materials from their stockpile.
