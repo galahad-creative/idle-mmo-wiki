@@ -17,7 +17,7 @@ Guild experience is calculated as a percentage of the total EXP a player earns f
 
 >!banner Attacking **higher-level NPCs** or **scaling weaker enemies** results in more EXP.
 
->!banner TThe EXP your guild earns is also influenced by your character’s effects. So, if you’re using potions, buffs, or anything else that boosts your EXP gain, your guild will benefit too - both in regular guild EXP and conquest EXP.
+>!banner The EXP your guild earns is also influenced by your character’s effects. So, if you’re using potions, buffs, or anything else that boosts your EXP gain, your guild will benefit too - both in regular guild EXP and conquest EXP.
 
 >!banner EXP is calculated individually for each enemy and always rounded down. Because of this, there may be times when the Guild Mastery EXP or Conquest EXP ends up slightly less than the expected 5%.
 
