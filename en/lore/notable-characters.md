@@ -9,7 +9,11 @@
 <div>
 
 #### Astaroth
-Astaroth, the royal wizard of the underworld, wields dark magic with a sinister finesse. His presence is commanding, and his knowledge of the arcane is vast and forbidding. In his quest for power, he manipulates and schemes, a master of shadowy arts, feared by many for his ruthless ambition.
+Astaroth, the royal wizard of the underworld, is a master of dark magic, known for his ruthless skill and cold ambition. His presence is powerful and intimidating, and his knowledge of the arcane arts is vast and dangerous. Many fear him, not just for his magic, but for his ability to manipulate and scheme from the shadows.
+
+Astaroth's past is surrounded by mystery. Long ago, he was said to be a noble scholar, a man of wisdom and learning. Some stories even claim that he once accompanied Mahol the Endless on a pilgrimage to Skyridge Peak. However, Astaroth refuses to speak about his former life.
+
+Rumors and whispers about who he truly was are common, but none can be proven. Astaroth never confirms - or denies - anything about his past, leaving the truth hidden in darkness, just like the man himself.
 
 </div>
 </div>
@@ -25,7 +29,9 @@ Astaroth, the royal wizard of the underworld, wields dark magic with a sinister 
 <div>
 
 #### Bronn
-Bronn, a traveler known for his extreme versatility and skill in sailing, was once a trader of exotic goods. His journey took a decisive turn when he embarked on a quest to defeat the witch Isodora.
+Bronn, a traveler known for his incredible versatility and skill in sailing, was once a trader of exotic goods from distant lands. His life changed forever when he set out on a quest to defeat the witch Isodora.
+
+Since then, no one has seen or heard from him. Whispers in the wind speak of dark rituals performed by Isodora atop Anglo Hill, deep into the night. These chilling rumors suggest that Bronn may have failed in his mission - and met a grim fate.
 
 </div>
 </div>
@@ -41,7 +47,11 @@ Bronn, a traveler known for his extreme versatility and skill in sailing, was on
 <div>
 
 #### Celestria
-Celestria, an [Arvendorian](/wiki/lore/civilizations) cloaked in starlight, wields ancient magic with a grace that transcends time. Her eyes, pools of mystic wisdom, illuminate paths in darkness. A guardian of peace, her presence soothes troubled souls, and her touch heals the deepest of wounds. Celestria embodies the pure essence of benevolence
+Celestria, an [Arvendorian](/wiki/lore/civilizations) cloaked in starlight, wields ancient magic with a grace that seems to stand outside of time. Her deep well of wisdom lights the way for those lost in darkness. As a guardian of peace, her presence calms troubled souls, and her healing touch can mend even the deepest wounds.
+
+To most, Celestria appears to embody pure kindness and compassion. But beneath this shining surface lies a different story - a story of broken trust and a heart that has been deeply wounded.
+
+Yet, you would never know it. Celestria hides her pain, choosing instead to put the needs of others before her own. Her strength is not just in magic, but in her endless commitment to helping others, even at the cost of her own well-being.
 
 </div>
 </div>
@@ -57,7 +67,9 @@ Celestria, an [Arvendorian](/wiki/lore/civilizations) cloaked in starlight, wiel
 <div>
 
 #### Fendral
-Fendral, a young and ambitious [Eldorian](/wiki/lore/civilizations) man, has a bright spark in his eyes, showing his eagerness to make a difference. Quick-thinking and always ready to learn, he approaches challenges with a mix of youthful energy and a strong sense of right and wrong, driven to improve the world around him.
+Fendral, a young and ambitious Eldorian, carries a bright spark in his eyes, showing his eagerness to make a difference. Quick-thinking and always willing to learn, he faces challenges with youthful energy and a strong sense of right and wrong. He is deeply driven to improve the world around him.
+
+Fendral was born to a blacksmith, but rumors claim he is the illegitimate son of a king from a distant land. The truth of his origins is hidden in the Eldorian archives, but Fendral does not care. To him, the man who raised him - whether by blood or by choice - is his true father. His loyalty lies with the family that loved and shaped him, not with any hidden royal bloodline.
 
 </div>
 </div>
@@ -73,7 +85,11 @@ Fendral, a young and ambitious [Eldorian](/wiki/lore/civilizations) man, has a b
 <div>
 
 ### Thorgarr
-Thorgarr, a typical grunt in the ranks of malevolence, exudes an aura of brute force. His name is synonymous with brutality, and his actions are driven solely by obedience to a sinister cause. With a hulking physique and a lack of individuality, he serves as a faceless enforcer of darkness.
+Thorgarr, a typical grunt in the service of darkness, is the very image of brute strength. His name is closely tied to violence and brutality, and he follows orders without question. With his massive physique and lack of individuality, Thorgarr acts as a faceless enforcer of malevolence.
+
+What he lacks in intelligence, he makes up for in sheer power. Thorgarr is dangerous - not because he is cruel by choice, but because violence is simply part of who he is. He does not truly understand the consequences of his actions. To him, every enemy he kills is nothing more than another fly to swat.
+
+The Oakenra philosophers often study Thorgarr's existence, using him as the center of a major debate: Is true evil based only on a person's actions, or must they also understand the wrong they are doing? Thorgarr challenges this idea. Can a man be truly evil if he acts without awareness, much like a lion hunting its prey? After all, a lion is not evil - it is simply acting according to its nature.
 
 </div>
 </div>
@@ -89,7 +105,19 @@ Thorgarr, a typical grunt in the ranks of malevolence, exudes an aura of brute f
 <div>
 
 #### Ravenna
-Ravenna, having struck a dark bargain with the devil, has become a fearsome manifestation of death. Her presence is chilling, and her gaze pierces souls, leaving a trail of dread. She wields her newfound powers with a malevolent grace, embodying the very essence of demise and despair.
+Ravenna, having made a dark bargain with the devil, has become a fearsome embodiment of death itself. Her presence is chilling, and her gaze seems to pierce straight into the soul, leaving only dread behind. She wields her newfound powers with a cold, malevolent grace, fully embodying the essence of demise and despair.
+
+Ravenna often finds herself in a quiet power struggle with Astaroth. While Astaroth weaves his dark web across the world, Ravenna focuses on controlling the one who spins it. Her philosophy is simple: if you can make someone else do the work, why do it yourself?
+
+Among the Eldorians, Ravenna inspires even greater fear than Astaroth. They see her as the true threat to humanity. Astaroth is ruthless, unstoppable, and willing to destroy anything that stands in his way.
+
+But Ravenna is something worse. She is cold, calculating, and terrifyingly patient. At times, she can even be unusually pleasant - charming, seductive, and disarmingly kind when it suits her goals. Some sailors whisper that the sirens, those creatures known for luring men to their doom at sea, are descended from Ravenna herself. Most, however, laugh it off as drunken talk after one too many ales.
+
+Ravenna is a walking contradiction. She once killed her own parents in a terrifying fit of rage, yet in other moments shows an almost inhuman level of restraint under extreme pressure.
+
+One thing remains certain: while Astaroth openly spreads his chaos, Ravenna remains disturbingly silent.  
+
+And it is that silence that truly terrifies the Arvendorians.
 
 </div>
 </div>
