@@ -13,6 +13,9 @@ The Eldorians of [Solaris Isle](/wiki/lore/solaris-isle?same_window=true) have a
 
 Yet, the Eldorians also carry the burden of a dark past. Long ago, one of their emperors tried to wipe out an entire people. Much of the truth about this time was lost in the Great Fire of Eldoria, which destroyed many important records. Some believe the fire was set on purpose to erase the shame of history. Even so, Eldoria rose from the ashes. Today, they have built a strong friendship with their neighbors in Arvandor. They trade goods and have promised to defend each other, proving that even a nation with a troubled history can work toward peace and cooperation.
 
+
+---
+
 ### Arvendor
 
 The Arvendor are a powerful civilization that lives in a grand place called The Citadel. They are believed to be direct descendants of the gods, and this divine heritage has earned the respect of the land dwellers. Their entire history and culture are deeply tied to the heavens, shaping how they see themselves and their role in the world.
@@ -21,6 +24,9 @@ But in today's age, where the gods are no longer seen and are remembered only in
 
 More than 50,000 years ago, the Arvendor played a key role in a legendary war against a dark enemy known as the Ombric. This great conflict ended with the Ombric being banished to the underworld. Today, that war is little more than a faded memory, even among the Arvendor themselves. Still, rumors speak of a man who survived from that ancient time - a living witness to the battle. Whether true or not, his story only deepens the mystery surrounding the Arvendor and their place in the world.
 
+
+---
+
 ### Mokthar
 The Mokthar are a civilization of orcs known for their strength and love of battle. For generations, they have taken pride in small raids and skirmishes, enjoying the thrill of combat without seeking the destruction that full-scale wars bring. But under their tough exterior, a struggle is growing.
 
@@ -28,12 +34,16 @@ Recently, a rebellion within their ranks has shown that many Mokthar are tired o
 
 In search of a new life, some Mokthar have begun to move to Solaris Isle. They carry with them the spirit of their homeland - its hardships, its history - and the hope of starting fresh, far from the old ways they are trying to leave behind.
 
-### Arboroth
+---
+
+### Oakenra
 The Oakenra are an ancient civilization of wise, tree-like beings who have acted as silent guardians of their realm for thousands of years. Their long lifespans give them a deep knowledge and understanding that few others can match.
 
 For most of their history, the Oakenra have stayed neutral, avoiding the conflicts and politics of the outside world. But now, change is stirring among them. [Oilegeist](/wiki/lore/notable-characters?same_window=true), a newly appointed member of their respected elder council, believes that staying neutral for so long has caused the Oakenra to grow stagnant.
 
 In secret, Oilegeist has begun making hidden agreements with [Astaroth](/wiki/lore/notable-characters?same_window=true), a powerful and dangerous wizard from the underworld. This break from centuries of tradition remains unknown to the rest of the council. If discovered, Oilegeist’s bold and risky actions could change the future of the Oakenra forever.
+
+---
 
 ### Ombric
 Deep in the dark underworld live the Ombric, a civilization made up of many monstrous races, each representing pure evil. It is said that only the most corrupted souls - those far beyond redemption - end up among the Ombric. Their home is a hidden realm beneath the surface, a world of darkness completely unlike the lands above. In the underworld, evil is not just present - it grows and thrives.
