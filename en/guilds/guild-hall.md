@@ -16,16 +16,19 @@ Guilds will be able to add components to their hall. These components essentiall
 
 To add a component to the guild, the guild hall must have a free slot. If the guild hall does not have a free slot, you can either remove an existing component, or build a new slot which will cost resources.
 
->!!banner Guilds get <strong>1</strong> free slot when constructing a Guild Hall.
+>!banner Guilds get <strong>1</strong> free slot when constructing a Guild Hall.
 
 #### Decay and Repairs
 Guild components decay over time, meaning they’ll require upkeep. If a component’s condition reaches 0, it will become unavailable until it is repaired. However, don’t worry – decay happens at a relatively slow rate, so you won’t need to constantly spend resources just to keep things running.
 
-Repairs can be done at any time, and the amount of resources required depends on the component’s current condition. However, keep in mind that while a component is being repaired, it won’t be accessible, and any benefits it provides will be temporarily disabled.
+>!banner **Guild components won't be accessible when they are being repaired**.<br/>For example, if a guild has a Conquest Banner component – which allows them to perform Assaults – they won’t be able to launch assaults while the component is under repair.
 
-For example, if a guild has a Conquest Banner component – which allows them to perform Assaults – they won’t be able to launch assaults while the component is under repair. Repairs might take a few hours, so proper planning will be key.
 
->!!banner Guild components decay from 100% to 0% in 90 days.
+>!banner Guild components decay from __100%__ to __0%__ in 90 days.
+
+>!banner A guild component can only be repaired after its condition has dropped to 80% or below.
+
+>!banner The length of the repair is dependent on the components condition. Repairing a 10% component will take much longer than repairing a 70% component.
 
 -----
 
