@@ -135,6 +135,31 @@ Members who are part of the moderation team on the official Discord server.
 <p class="text-gray-400 text-sm">Discord Moderator</p>
 </div>
 
+<div class="bg-gray-800 rounded-lg p-3 shadow-md hover:shadow-lg transition-shadow duration-300">
+<h3 class="text-lg font-medium !mt-0 !mb-0">Jesquin</h3>
+<p class="text-gray-400 text-sm">Discord Moderator</p>
+</div>
+
+<div class="bg-gray-800 rounded-lg p-3 shadow-md hover:shadow-lg transition-shadow duration-300">
+<h3 class="text-lg font-medium !mt-0 !mb-0">Eiivix</h3>
+<p class="text-gray-400 text-sm">Discord Moderator</p>
+</div>
+
+<div class="bg-gray-800 rounded-lg p-3 shadow-md hover:shadow-lg transition-shadow duration-300">
+<h3 class="text-lg font-medium !mt-0 !mb-0">ShuraBlack</h3>
+<p class="text-gray-400 text-sm">Discord Moderator</p>
+</div>
+
+<div class="bg-gray-800 rounded-lg p-3 shadow-md hover:shadow-lg transition-shadow duration-300">
+<h3 class="text-lg font-medium !mt-0 !mb-0">Exogor</h3>
+<p class="text-gray-400 text-sm">Discord Moderator</p>
+</div>
+
+<div class="bg-gray-800 rounded-lg p-3 shadow-md hover:shadow-lg transition-shadow duration-300">
+<h3 class="text-lg font-medium !mt-0 !mb-0">AdArtes</h3>
+<p class="text-gray-400 text-sm">Discord Moderator</p>
+</div>
+
 </div>
 </div>
 
@@ -252,6 +277,16 @@ Select community members chosen to alpha test the game and provide valuable feed
 
 <div class="bg-gray-800 rounded-lg p-3 shadow-md hover:shadow-lg transition-shadow duration-300">
 <h3 class="text-lg font-medium !mt-0 !mb-0">Christa</h3>
+<p class="text-gray-400 text-sm">Discord Knight</p>
+</div>
+
+<div class="bg-gray-800 rounded-lg p-3 shadow-md hover:shadow-lg transition-shadow duration-300">
+<h3 class="text-lg font-medium !mt-0 !mb-0">AdArtes</h3>
+<p class="text-gray-400 text-sm">Discord Knight</p>
+</div>
+
+<div class="bg-gray-800 rounded-lg p-3 shadow-md hover:shadow-lg transition-shadow duration-300">
+<h3 class="text-lg font-medium !mt-0 !mb-0">Exogor</h3>
 <p class="text-gray-400 text-sm">Discord Knight</p>
 </div>
 
