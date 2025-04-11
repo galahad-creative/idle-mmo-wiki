@@ -120,3 +120,21 @@ The smell of sizzling treats mix with music and laughter. Dancers twirl, artisan
 _21st October 2024_ - _4th November 2024_
 
 During the Eve of Shadows, adventurers and townsfolk wear cloaks and mystical masks, their paths lit by enchanted jack-o'-lanterns. As the moons rise, quests of candy hunts and legendary ghost tales unfold, with hidden treasures for the bravest souls to discover.
+
+----
+
+![Yule Fest](https://cdn.idle-mmo.com/cdn-cgi/image/width=124,height=124/uploaded/skins/OXBGDWcgUce8zFwEUocxz59E6uABq9-metac25vd21hbi5wbmc=-.png)
+
+### Yule Fest (2024)
+_16th December 2024_ - _4th January 2025_
+
+At Yule Fest, a joyful celebration embraces winter's heart. Amidst frosty realms, folks gather to sculpt snowmen and revel in spirited snowball fights. It's a season of warmth in cold, where sharing moments with family kindles the true spirit of togetherness.
+
+----
+
+![Springtide Fair](https://cdn.idle-mmo.com/cdn-cgi/image/width=124,height=124/uploaded/skins/01HT2CH8GYGB22Q6RJ5XK7SQ06.png)
+
+### Springtide Fair (2024)
+_14th April 2025_ - _28th April 2025_
+
+Welcome spring by participating in the Springtide fair. People from nearby and far come to play games, eat lots of food, and go on egg hunts. It's a time when everyone enjoys the warmer weather and longer days together.
