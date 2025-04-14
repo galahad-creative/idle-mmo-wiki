@@ -20,6 +20,7 @@ As it stands, the leaderboards track and display rankings across a range of cate
 - **Smelting:** The finest metallurgists.
 - **Cooking:** Culinary experts with the best recipes.
 - **Forge:** Craftsmen renowned for their smithing skills.
+- **Meditation:** The wisest practitioners of inner peace and focus.
 - **Bartering:** Expert merchants.
 - **Hunting Mastery:** The most expert of hunters.
 - **Pet Mastery:** Trainers with proficiency in training their companions.
