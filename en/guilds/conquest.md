@@ -6,7 +6,7 @@ Guilds can enhance their influence by participating in conquests. Guilds can lau
 
 >!banner Members participating in a conquest will earn **Guild Mastery** EXP.
 
-### Earning Guild Experience
+### Guild Experience
 Guild experience is calculated as a percentage of the total EXP a player earns from defeating enemies. The stronger the enemy, the more experience the guild receives.
 
 #### Example:
@@ -21,14 +21,19 @@ Guild experience is calculated as a percentage of the total EXP a player earns f
 
 >!banner EXP is calculated individually for each enemy and always rounded down. Because of this, there may be times when the Guild Mastery EXP or Conquest EXP ends up slightly less than the expected 5%.
 
+#### Negative Effects
+ The minimum amount of guild EXP you can earn from an enemy during an assault is now based directly on that enemy’s EXP value. This means guild EXP cannot drop below this base amount, even if you are affected by negative class effects, such as the Forsaken class’s -50% EXP penalty.<br/>
+ 
+For example, if you defeat an enemy that gives 50 EXP, the Forsaken class will now earn a minimum of 2 guild EXP (5% of 50 is 2.5, rounded down to 2).
+
 ### Territory Control
-Guild assaults are not just about experience – they also determine **territory control**. The guild with the most EXP in a location by the end of the season becomes its **ruler** for the following season, granting them exclusive boosts within that region*.
+Guild assaults are not just about experience – they also determine **territory control**. The guild with the most EXP in a location by the end of the season becomes its ruler for the following season, granting them exclusive boosts within that region*.
 
 #### Example:
 - If **Guild A** and **Guild B** are both competing for Bluebell Hollow, but **Guild A** secures more EXP, they will be crowned as the rules for the next season.
 - Occupying guilds receive **region-specific boosts** for the duration of their rule.
 
->!banner *As of v0.38.0-PB, the seasonal regional-specific boosts are still in development and will be introduced in a future update likely before the end of the season.
+_*As of v0.38.0-PB, the seasonal regional-specific boosts are still in development and will be introduced in a future update likely before the end of the season._
 
 ### Notes
 - Guilds can assault multiple locations but can only launch one assault at a time.
