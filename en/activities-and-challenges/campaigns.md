@@ -120,3 +120,12 @@ The smell of sizzling treats mix with music and laughter. Dancers twirl, artisan
 _21st October 2024_ - _4th November 2024_
 
 During the Eve of Shadows, adventurers and townsfolk wear cloaks and mystical masks, their paths lit by enchanted jack-o'-lanterns. As the moons rise, quests of candy hunts and legendary ghost tales unfold, with hidden treasures for the bravest souls to discover.
+
+----
+
+![Springtide Fair](https://cdn.idle-mmo.com/cdn-cgi/image/width=124,height=124/uploaded/skins/01HT2CH8GYGB22Q6RJ5XK7SQ06.png)
+
+### Springtide Fair (2025)
+_14th April 2025_ - _28th April 2025_
+
+Welcome spring by participating in the Springtide fair. People from nearby and far come to play games, eat lots of food, and go on egg hunts. It's a time when everyone enjoys the warmer weather and longer days together.

@@ -33,6 +33,8 @@ IdleMMO offers a variety of skills, each with its own unique progression. Some s
 | <div>![Pet Mastery](https://cdn.idle-mmo.com/cdn-cgi/image/width=24,height=24/uploaded/skins/ByGAnT8nNgP0noQicPXr4mhgv1Ux6f-metaZHJhZ29uIDEucG5n-.png)__Pet Mastery__</div>                 | This increases your pets overall stats and the effectiveness of patting your [pet](/wiki/items-and-pets/pets?same_window=true). You can increase your pet mastery skill by sending your pets to battle.                        |
 | <div>![Shadow Mastery](https://cdn.idle-mmo.com/cdn-cgi/image/width=24,height=24/uploaded/skins/2DKOpVK1LsY1jwOER6tfuBfPGTDXHF-metacHVtcGtpbjMucG5n-.png)__Shadow Mastery__</div>           | Only available during the [Eve of Shadows campaign](/wiki/activities-and-challenges/campaigns?same_window=true). Shadow mastery allows characters to pick pumpkins, catch ghosts and perform exorcisms.                        |
 | <div>![Yule Mastery](https://cdn.idle-mmo.com/cdn-cgi/image/width=24,height=24/uploaded/skins/OXBGDWcgUce8zFwEUocxz59E6uABq9-metac25vd21hbi5wbmc=-.png)__Yule Mastery__</div>               | Only available during the [Yule Fest campaign](/wiki/activities-and-challenges/campaigns?same_window=true). Yule mastery allows characters to gather snow, create snowballs, and build snowmen.                                |
+| <div>![Springtide Mastery](https://cdn.idle-mmo.com/cdn-cgi/image/width=24,height=24/uploaded/skins/01HT2CH8GYGB22Q6RJ5XK7SQ06.png)__Springtide Mastery__</div>               | Only available during the [Springtide Fair campaign](/wiki/activities-and-challenges/campaigns?same_window=true). Springtide Mastery allows characters to collect, decorate and glaze eggs.                                |
+
 
 ### Stats from Skills
 
