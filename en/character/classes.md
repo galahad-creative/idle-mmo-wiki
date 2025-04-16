@@ -125,6 +125,19 @@ The Chef is a culinary master, wielding spatulas and spices as their tools of ch
 
 ----------
 
+![Smelter](https://cdn.idle-mmo.com/cdn-cgi/image/height=100,width=100/uploaded/skins/01JRWSP42RZ5G3BJ0GHANYYEWQ.png "Smelter")
+## Smelter
+The Smelter is a master of metallurgy, refining raw ores into ingots through the heat of their furnaces. Their craftsmanship supplies essential materials for construction, trade, and the advancement of the realm.
+
+#### Permanent Effects
+- __+10%__ Smelting Efficiency
+- __+10%__ Smelting Experience
+
+#### Battle Talents
+- This class has no battle talents.
+
+----------
+
 ![Lumberjack](https://cdn.idle-mmo.com/cdn-cgi/image/width=100/uploaded/skins/DKC4LgMAyoUlDmo99LJOVbtUZsezIi-metad29vZGN1dHRpbmcucG5n-.png "Lumberjack")
 ## Lumberjack
 The Lumberjack is a formidable force of nature, wielding a mighty axe to harvest timber from ancient forests. With unmatched strength and skill, they provide essential resources for crafting and construction, while also defending against woodland threats lurking within the shadows.
