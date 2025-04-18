@@ -92,12 +92,10 @@ It scales from **2** pets, to **10** pets. This means, if you reach the maximum 
 ------
 #### Quick Overview
 
-- Obtain pets from [World Bosses](/wiki/activities-and-challenges/world-bosses?same_window=true) or [Campaigns](/wiki/activities-and-challenges/campaigns?same_window=true)
+- Obtain pets from [World Bosses](/wiki/activities-and-challenges/world-bosses?same_window=true), [Campaigns](/wiki/activities-and-challenges/campaigns?same_window=true) or the [Market](/wiki/economy-and-trading/market?same_window=true).
 - Keep your pet happy and fed to maintain its stat bonuses. 
 - If your pet is unhappy, unfed, or unhealthy, its performance will suffer.
 - Movement speed is a critical stat for increasing your speed when moving between locations or hunting.
 - Equipping pets will add their stats to your character's stats.
 - Pets that are equipped can gain experience from your characters battles.
-- Increase your [Pet Mastery](/wiki/character/skills?new_page=true) level to increase the chances of obtaining loot from battles.
-- The higher your [Pet Mastery](/wiki/character/skills?new_page=true) level, the more pets you can send on battles.
-- The higher your [Pet Mastery](/wiki/character/skills?new_page=true) level, the stronger your pets will be.
+- Increase your [Pet Mastery](/wiki/character/skills?new_page=true) level to boost loot chances, deploy more pets in battle, and make them stronger.
