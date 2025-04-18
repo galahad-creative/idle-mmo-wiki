@@ -100,6 +100,21 @@ Users who have contributed to the wiki via Github.
 <p class="text-gray-400 text-sm">Wiki Contributor</p>
 </div>
 
+<div class="bg-gray-800 rounded-lg p-3 shadow-md hover:shadow-lg transition-shadow duration-300">
+<h3 class="text-lg font-medium !mt-0 !mb-0">AdArtes</h3>
+<p class="text-gray-400 text-sm">Wiki Contributor</p>
+</div>
+
+<div class="bg-gray-800 rounded-lg p-3 shadow-md hover:shadow-lg transition-shadow duration-300">
+<h3 class="text-lg font-medium !mt-0 !mb-0">ShuraBlack</h3>
+<p class="text-gray-400 text-sm">Wiki Contributor</p>
+</div>
+
+<div class="bg-gray-800 rounded-lg p-3 shadow-md hover:shadow-lg transition-shadow duration-300">
+<h3 class="text-lg font-medium !mt-0 !mb-0">Rahuken</h3>
+<p class="text-gray-400 text-sm">Wiki Contributor</p>
+</div>
+
 </div>
 </div>
 
