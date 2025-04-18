@@ -98,4 +98,4 @@ It scales from **2** pets, to **10** pets. This means, if you reach the maximum 
 - Movement speed is a critical stat for increasing your speed when moving between locations or hunting.
 - Equipping pets will add their stats to your character's stats.
 - Pets that are equipped can gain experience from your characters battles.
-- Increase the [Pet Mastery](/wiki/character/skills?new_page=true) level to: Increase loot chances from battles, send more pets on battles, make your pets stronger.
+- Increase your [Pet Mastery](/wiki/character/skills?new_page=true) level to boost loot chances, deploy more pets in battle, and make them stronger.
