@@ -14,7 +14,7 @@ Valaron now stands divided, not just by sea and land, but by belief. Some adhere
 #### Solaris Isle
 ![Solaris Isle](https://cdn.idle-mmo.com/cdn-cgi/image/width=400,height=400/global/world-map.png)
 
-In the heart of Valeron lies [Solaris Isle](/wiki/lore/solaris-isle). This continent is a reflection of the worlds rich diversity, a bastion of unity where diverse biomes flourish side by side. Here, a lasting peace has been a constant presence in the lives of its people.
+In the heart of Valaron lies [Solaris Isle](/wiki/lore/solaris-isle). This continent is a reflection of the worlds rich diversity, a bastion of unity where diverse biomes flourish side by side. Here, a lasting peace has been a constant presence in the lives of its people.
 
 #### Period of Uncertainty
 Despite the countless years of peace, whispers of unease stir the air; [Astaroth](/wiki/lore/notable-characters), the underworld's dark wizard, is spinning a sinister web, threatening to unravel the serenity that has long blanketed the world. His nefarious schemes, if left unchecked, could usher in an era of chaos and darkness.
