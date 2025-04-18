@@ -134,7 +134,7 @@ At Yule Fest, a joyful celebration embraces winter's heart. Amidst frosty realms
 
 ![Springtide Fair](https://cdn.idle-mmo.com/cdn-cgi/image/width=124,height=124/uploaded/skins/01HT2CH8GYGB22Q6RJ5XK7SQ06.png)
 
-### Springtide Fair (2024)
+### Springtide Fair (2025)
 _14th April 2025_ - _28th April 2025_
 
 Welcome spring by participating in the Springtide fair. People from nearby and far come to play games, eat lots of food, and go on egg hunts. It's a time when everyone enjoys the warmer weather and longer days together.

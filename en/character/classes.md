@@ -202,4 +202,3 @@ Doomed by a dark fate, the Cursed suffer severe setbacks in their journey. Shunn
 - This class **cannot** access any market or trading systems.
 - This class is **locked** meaning you cannot change to or from this class.
 - This class is the most challenging in the game, blending elements of the `Banished` class, which restricts access to the market and trading, with the `Forsaken` class, known for its severe negative effects.
-
