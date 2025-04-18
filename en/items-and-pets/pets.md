@@ -92,7 +92,7 @@ It scales from **2** pets, to **10** pets. This means, if you reach the maximum 
 ------
 #### Quick Overview
 
-- Obtain pets from [World Bosses](/wiki/activities-and-challenges/world-bosses?same_window=true), [Campaigns](/wiki/activities-and-challenges/campaigns?same_window=true) or the [Market](https://web.idle-mmo.com/wiki/items?page=1&sort_by=id_asc&types=pet_egg).
+- Obtain pets from [World Bosses](/wiki/activities-and-challenges/world-bosses?same_window=true), [Campaigns](/wiki/activities-and-challenges/campaigns?same_window=true) or the [Market](/wiki/economy-and-trading/market?same_window=true).
 - Keep your pet happy and fed to maintain its stat bonuses. 
 - If your pet is unhappy, unfed, or unhealthy, its performance will suffer.
 - Movement speed is a critical stat for increasing your speed when moving between locations or hunting.
