@@ -138,6 +138,19 @@ The Lumberjack is a formidable force of nature, wielding a mighty axe to harvest
 
 ----------
 
+![Smelter](https://cdn.idle-mmo.com/cdn-cgi/image/width=100/uploaded/skins/01JRWSP42RZ5G3BJ0GHANYYEWQ.png "Smelter")
+## Smelter
+The Smelter is a class specialized in turning raw ores into valuable metals. They help players by providing essential materials to forge equipment and guild hall components.
+
+#### Permanent Effects
+- __+10%__ Smelting Efficiency
+- __+10%__ Smelting Experience
+
+#### Battle Talents
+- This class has no battle talents.
+
+----------
+
 ![Banished](https://cdn.idle-mmo.com/cdn-cgi/image/width=100/uploaded/skins/01J8MJ7P4MGEYANXQQW3DCEQRP.png "Banished")
 ## Banished
 The Banished are outcasts from all civilized trade. Unable to access the market or barter, they must rely on their cunning, scavenging skills, and raw combat prowess to survive. With no allies in commerce, they find strength in self-reliance and adaptability.
