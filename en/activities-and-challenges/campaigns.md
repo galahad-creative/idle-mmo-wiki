@@ -123,6 +123,15 @@ During the Eve of Shadows, adventurers and townsfolk wear cloaks and mystical ma
 
 ----
 
+![Yule Fest](https://cdn.idle-mmo.com/cdn-cgi/image/width=124,height=124/uploaded/skins/OXBGDWcgUce8zFwEUocxz59E6uABq9-metac25vd21hbi5wbmc=-.png)
+
+### Yule Fest (2024)
+_16th December 2024_ - _4th January 2025_
+
+At Yule Fest, a joyful celebration embraces winter's heart. Amidst frosty realms, folks gather to sculpt snowmen and revel in spirited snowball fights. It's a season of warmth in cold, where sharing moments with family kindles the true spirit of togetherness.
+
+----
+
 ![Springtide Fair](https://cdn.idle-mmo.com/cdn-cgi/image/width=124,height=124/uploaded/skins/01HT2CH8GYGB22Q6RJ5XK7SQ06.png)
 
 ### Springtide Fair (2025)
