@@ -24,7 +24,7 @@ Guild components decay over time, meaning they’ll require upkeep. If a compone
 >!banner **Guild components won't be accessible when they are being repaired**.<br/>For example, if a guild has a Conquest Banner component – which allows them to perform Assaults – they won’t be able to launch assaults while the component is under repair.
 
 
->!banner Guild components decay from __100%__ to __0%__ in 60 days.
+>!banner Guild components decay from __100%__ to __0%__ in 80 days.
 
 >!banner A guild component can only be repaired after its condition has dropped to 80% or below.
 
