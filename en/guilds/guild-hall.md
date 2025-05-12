@@ -45,15 +45,15 @@ Guild components decay over time, meaning they’ll require upkeep. If a compone
 The **foundation** is needed to build the guild hall.
 
 **Guild Level Required:** 10\
-**Mark Cost:** 25 Marks
+**Mark Cost:** 10 Marks
 #### Resources Needed:
-- **25,000** Oak Logs
-- **20,000** Willow Logs
-- **10,000** Mystical Logs
-- **10,000** Copper Bars
-- **10,000** Mercury Bars
-- **5,000** Uranium Bars
-- **5,000** Mystic Bars
+- **12,500** Oak Logs
+- **10,000** Willow Logs
+- **5,000** Mystical Logs
+- **5,000** Copper Bars
+- **5,000** Mercury Bars
+- **2,500** Uranium Bars
+- **2,500** Mystic Bars
 
 >!banner Unlike other components, the foundation does not need maintenance/repairs.
 
@@ -64,12 +64,12 @@ The **foundation** is needed to build the guild hall.
 The **slot** is needed to add additional guild components.
 
 **Guild Level Required:** N/A\
-**Mark Cost:** 20 Marks
+**Mark Cost:** 10 Marks
 #### Resources Needed:
-- **30,000** Mahogany Logs
-- **40,000** Mystical Logs
-- **40,000** Chromite Bars
-- **30,000** Mystic Bars
+- **15,000** Mahogany Logs
+- **20,000** Mystical Logs
+- **20,000** Chromite Bars
+- **15,000** Mystic Bars
 
 >!banner Unlike other components, slots do not need maintenance/repairs.
 
@@ -79,14 +79,14 @@ The **slot** is needed to add additional guild components.
 The **Teleportation Beacon** is a component that allows guild members to teleport to the Guild Hall’s location at a significantly reduced cost. The exact reduction depends on their Guild Mastery level – and if they’ve reached level 100, teleportation is completely free.
 
 **Guild Level Required:** 60  
-**Mark Cost:** 20 Marks
+**Mark Cost:** 10 Marks
 #### Resources Needed:
-- **30,000** Yew Logs
-- **30,000** Banyan Logs
-- **40,000** Tin Bars
-- **30,000** Lead Bars
-- **20,000** Chromite Bars
-- **20,000** Mystic Bars
+- **15,000** Yew Logs
+- **15,000** Banyan Logs
+- **20,000** Tin Bars
+- **15,000** Lead Bars
+- **10,000** Chromite Bars
+- **15,000** Mystic Bars
 
 ---
 
@@ -97,15 +97,15 @@ The **Teleportation Beacon** is a component that allows guild members to telepor
 The **Mission Table** is a quality-of-life component that streamlines the process of generating guild challenges. Instead of requiring a guild member with the necessary permissions to set them up manually, the Mission Table automatically generates challenges for the guild.
 
 **Guild Level Required:** 25  
-**Mark Cost:** 20 Marks
+**Mark Cost:** 10 Marks
 #### Resources Needed:
-- **15,000** Oak Logs
-- **15,000** Birch Logs
-- **15,000** Banyan Logs
-- **20,000** Willow Logs
-- **15,000** Mahogany Logs
-- **15,000** Lead Bars
-- **15,000** Steel Bars
+- **7,500** Oak Logs
+- **7,500** Birch Logs
+- **7,500** Banyan Logs
+- **10,000** Willow Logs
+- **7,500** Mahogany Logs
+- **7,500** Lead Bars
+- **7,500** Steel Bars
 
 ---
 
@@ -118,14 +118,14 @@ The **Raid Planner** allows guilds to schedule up to 10 raids in advance, removi
 Raids can also now be scheduled up to a month in advance.
 
 **Guild Level Required:** 40 
-**Mark Cost:** 20 Marks
+**Mark Cost:** 10 Marks
 #### Resources Needed:
-- **10,000** Oak Logs
-- **10,000** Spruce Logs
-- **20,000** Maple Logs
-- **25,000** Mystical Logs
-- **25,000** Iron Bars
-- **20,000** Chromite Bars
+- **5,000** Oak Logs
+- **5,000** Spruce Logs
+- **10,000** Maple Logs
+- **12,500** Mystical Logs
+- **12,500** Iron Bars
+- **10,000** Chromite Bars
 
 ---
 
@@ -136,14 +136,13 @@ Raids can also now be scheduled up to a month in advance.
 The **Unity Seal** allows guilds to create a custom 3-letter guild tag, displayed next to every member’s username. For those who prefer a cleaner look, this can be toggled off in the settings.
 
 **Guild Level Required:** 15  
-**Mark Cost:** 15
+**Mark Cost:** 10
 #### Resources Needed:
-- **15,000** Oak Logs
-- **15,000** Birch Logs
-- **15,000** Mahogany Logs
-- **15,000** Copper Bars
-- **15,000** Steel Bars
-- **15,000** Chromite Bars
+- **7,500** Oak Logs
+- **7,500** Birch Logs
+- **7,500** Mahogany Logs
+- **7,500** Copper Bars
+- **7,500** Steel Bars
 
 ---
 
@@ -160,14 +159,14 @@ The strength of the boosts is directly tied to the [Guild Mastery](/wiki/charact
 **Boosts**: Range from **1**% to **15**% depending on the character's [Guild Mastery](/wiki/character/skills?same_window=true) level.\
 **Cost To Activate**: 5 Marks\
 **Guild Level Required:** 70\
-**Mark Cost (To Build):** 20 Marks
+**Mark Cost (To Build):** 15 Marks
 #### Resources Needed:
-- **50,000** Spruce Logs
-- **50,000** Maple Logs
-- **30,000** Mystical Logs
-- **30,000** Iron Bars
-- **30,000** Mercury Bars
-- **20,000** Uranium Bars
+- **25,000** Spruce Logs
+- **25,000** Maple Logs
+- **15,000** Mystical Logs
+- **15,000** Iron Bars
+- **15,000** Mercury Bars
+- **15,000** Uranium Bars
 
 ---
 
@@ -178,12 +177,12 @@ The strength of the boosts is directly tied to the [Guild Mastery](/wiki/charact
 A **Conquest Banner** is required for the guild to undertake [Conquests](/wiki/guilds/conquest?same_window=true).
 
 **Guild Level Required:** 50\
-**Mark Cost:** 35 Marks
+**Mark Cost:** 10 Marks
 #### Resources Needed:
-- **20,000** Yew Logs
-- **15,000** Maple Logs
-- **25,000** Mystical Logs
-- **20,000** Copper Bars
-- **20,000** Steel Bars
-- **20,000** Uranium Bars
-- **15,000** Mystic Bars  
+- **10,000** Yew Logs
+- **7,500** Maple Logs
+- **12,500** Mystical Logs
+- **10,000** Copper Bars
+- **10,000** Steel Bars
+- **10,000** Uranium Bars
+- **7,500** Mystic Bars  
