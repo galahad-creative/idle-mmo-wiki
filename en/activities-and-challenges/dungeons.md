@@ -6,24 +6,20 @@ The game has various dungeons, each with different difficulty levels. As a dunge
 
 Participating in dungeons requires a significant investment of both time and currency to obtain the best items. As dungeon levels increase, the costs in both gold and time also go up.
 
+----
+
 #### Dungeon Difficulty
 
 - Every dungeon has a **difficulty rating**. This number tells you how strong your character needs to be (in total combat stats) to enter and survive the dungeon.
 - To enter a dungeon, your combat stats must be at least **70% of its difficulty**.  
   For example, if the dungeon **"Nexus"** has a difficulty of **1,500**, you'll need **at least 1,050 combat stats** to get in.
 - After completing a dungeon, you’ll lose some health. The amount you lose depends on how your combat stats compare to the dungeon’s difficulty.
+- If your stats are more than 30% higher than the dungeon's difficulty, you will gain a **magic find bonus**. The magic find bonuses scales upwards the further your stats are above the dungeon's difficulty.
 
 ##### In simple terms, dungeon difficulty affects:
 - **Entry** – You can’t enter if your stats are too low
 - **Health loss** – The closer your stats are to the dungeon’s difficulty, the less health you’ll lose
 - **Magic Find bonus** – If your stats are much higher than the dungeon’s difficulty, you’ll gain bonus magic find.
-
-#### Magic Find Bonus
-
-Magic Find is a stat that increases your chances of finding rare items in dungeons. If your combat stats are significantly higher than the dungeon's difficulty, you will receive a bonus to Magic Find.
-
-The bonus you receive is scales depending on how much higher your combat stats are compared to the dungeon's difficulty. The better your equipment, the higher your magic find.
-
 
 ##### Combat Stats
 
@@ -43,7 +39,15 @@ The following stats are used to determine your combat stats: [Attack Power](/wik
 | Combat stats = 130 | 100 | You lose minimal health        |
 | Combat stats > 130 | 100 | You gain a bonus to Magic Find |
 
+----
 
+#### Completing Dungeons
+
+- Dungeons can be completed by running them a set number of times. 
+- Once a dungeon is completed, you’ll earn a permanent magic find bonus - for example, **+1%** per dungeon. 
+- This bonus stacks across all completed dungeons. So if you fully complete 15 different dungeons, you’ll gain a total of **+15%** permanent magic find.
+
+----
 
 #### Chaining Dungeons
 Dungeons can be chained up until the maximum idle time that your character can handle. However, you can only chain dungeons that you are able to complete with relative ease according to your stats against the dungeons difficulty.
@@ -51,6 +55,8 @@ Dungeons can be chained up until the maximum idle time that your character can h
 For instance, if your character can successfully complete a dungeon run at the cost of 60% HP, then you will be unable to chain that dungeon because doing the dungeon twice in a row would result in your character being defeated at 120% HP.
 
 >!banner Improve your characters stats to be able to chain dungeons.
+
+----
 
 #### Dungeon Shop
 
@@ -89,13 +95,3 @@ For instance, if your character can successfully complete a dungeon run at the c
 | __Wickedroot Patch__     | Lv. 50         | YWraithwood Forest | 960 | 25m | _TBC_ |
 | __Snowbound Forest__     | Lv. 50         | Yulewood Glades | 960 | 25m | _TBC_ |
 | __Garden of Grief__      | Lv. 50         | Springtide Fair | 960 | 25m | _TBC_ |
-
-
-### Success Chance
-
-The success chance determines if you are able to receive loot at the end of the dungeon.
-
-Your chance of successfully completing a dungeon depends on your combined `Protection`, `Attack Power`, `Agility`, and `Accuracy`. 
-All of which can be increased by levelling up the corresponding stat (for example, levelling up `Strength` will increase your `Attack Power`) or by equipping items that boost these stats.
-
-Even if you fail the dungeon, you will still be rewarded with the experience points. The success chance only affects loot.
