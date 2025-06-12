@@ -46,7 +46,7 @@ Guild assaults are not just about experience – they also determine **territory
 
 The winning guilds of the zone will receive the following boosts for the duration of their rule (the length of the subsequent season):
 
-- **+5%** Primary Skill EXP
+- **+10%** Primary Skill EXP
 - **+3%** Primary Skill Efficiency
 - **+2%** Dungeon Magic Find
 - **+2%** World Boss Magic Find
