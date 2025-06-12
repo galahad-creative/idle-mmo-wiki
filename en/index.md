@@ -43,10 +43,11 @@ Welcome to our comprehensive game wiki, your ultimate guide to mastering IdleMMO
 
 <div>
 
-#### Community and Competition
+#### Community
 
 ![Leaderboards](https://cdn.idle-mmo.com/cdn-cgi/image/width=20,height=20/tasks/total_skill.png) [Leaderboards](/wiki/community-and-competition/leaderboards?same_window=true)\
-![Shrine](https://cdn.idle-mmo.com/cdn-cgi/image/width=20,height=20/uploaded/skins/01HR4PQW3PX271SS7Y02MNSQT8.png) [Shrine](/wiki/community-and-competition/shrine?same_window=true)
+![Shrine](https://cdn.idle-mmo.com/cdn-cgi/image/width=20,height=20/uploaded/skins/01HR4PQW3PX271SS7Y02MNSQT8.png) [Shrine](/wiki/community-and-competition/shrine?same_window=true)\
+![Mail](https://cdn.idle-mmo.com/cdn-cgi/image/width=20,height=20/uploaded/skins/xsEMoJTtsDFbxlYt120rt2p20MIWpc-metacmVjaXBlLnBuZw==-.png) [Mail](/wiki/community-and-competition/mail?same_window=true)
 
 </div>
 <div>
