@@ -82,7 +82,8 @@ Welcome to our comprehensive game wiki, your ultimate guide to mastering IdleMMO
 ![Campaigns](https://cdn.idle-mmo.com/cdn-cgi/image/width=20,height=20/campaigns/halloween-icon.png) [Campaigns](/wiki/activities-and-challenges/campaigns?same_window=true)\
 ![Travelling](https://cdn.idle-mmo.com/cdn-cgi/image/width=20,height=20/global/map.png) [Travelling](/wiki/activities-and-challenges/travelling?same_window=true)\
 ![World Bosses](https://cdn.idle-mmo.com/cdn-cgi/image/width=20,height=20/uploaded/skins/slGUwMeiU4U6cvDSxAXLxMHKt1qCXb-metaaXNhZG9yYS5wbmc=-.png) [World Bosses](/wiki/activities-and-challenges/world-bosses?same_window=true)\
-![Dungeons](https://cdn.idle-mmo.com/cdn-cgi/image/height=20,width=20/uploaded/skins/oBMoNPGBgzuTQvuhza2EzfHTlTk6Jx-metabWluZXMucG5n-.png) [Dungeons](/wiki/activities-and-challenges/dungeons?same_window=true)
+![Dungeons](https://cdn.idle-mmo.com/cdn-cgi/image/height=20,width=20/uploaded/skins/oBMoNPGBgzuTQvuhza2EzfHTlTk6Jx-metabWluZXMucG5n-.png) [Dungeons](/wiki/activities-and-challenges/dungeons?same_window=true)\
+![Shooting Star](https://cdn.idle-mmo.com/cdn-cgi/image/width=20,height=20/uploaded/skins/xsEMoJTtsDFbxlYt120rt2p20MIWpc-metacmVjaXBlLnBuZw==-.png) [Shooting Star](/wiki/activities-and-challenges/shooting-star?same_window=true)
 
 </div>
 <div>
