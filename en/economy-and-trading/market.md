@@ -14,6 +14,8 @@ Purchase Orders are requests by players looking to buy specific items. If you ow
 
 >!!banner When you list an item for sale, the system checks for matching Purchase Orders. This means your item could be sold instantly if it meets an existing order's criteria.
 
+>!banner As of version 0.42.0-PB, you will be unable to fulfill Purchase Orders directly. Instead, you can list your items for sale, and the system will automatically match them with existing Purchase Orders.
+
 ### Limits
 
 To ensure fair and controlled trading, the market is governed by specific limits for placing listings and orders. These limits vary based on membership status and character levels:
