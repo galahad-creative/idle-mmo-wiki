@@ -6,6 +6,8 @@ The longest you can hunt is tied to your character’s maximum idle time. For ex
 
 You can increase your `Movement Speed` with the help of [Pets](/wiki/activities-and-challenges/pets) and you can increase your `Hunting Mastery` by completing hunts.
 
+---
+
 ### Ending Hunts Early
 
 If you need to stop a hunt, just click `Cancel Hunt`. You'll still receive part of the rewards, based on how long you spent hunting.
@@ -14,6 +16,8 @@ For example, if you were hunting **200** enemies over **100** minutes and cancel
 
 You can restart a hunt at any time, and it will continue from where you left off. Any new enemies you hunt will be added to what you’ve already hunted. So, if you’ve already hunted **50** `Goblins` and start again, the new enemies will stack on top of those 50.
 
+---
+
 ### Enemy Decay
 Enemies will flee over time if you're not fast enough to engage them in battle. The rate at which they run away depends entirely on your hunting level - the higher your hunting mastery, the fewer enemies will escape.
 
@@ -21,6 +25,7 @@ The scale ranges from **10%** to **2.5%**. At Hunting Mastery level 1, **10%** o
 
 The timer starts when the enemy is first discovered, and you’ll see a countdown in the enemy's dialog box to show you exactly when they are expected to flee.
 
+---
 
 ### Power Hunting
 
@@ -31,6 +36,7 @@ Power hunting is an optional interactive twist to hunting that gives you the abi
 - Enemies spawn between **6** and **11** seconds apart.
 - After a power hunt has ended, you will have to wait **1** hour before you can start another one.
 
+---
 
 #### Notes
 
@@ -40,7 +46,7 @@ Power hunting is an optional interactive twist to hunting that gives you the abi
 
 >!banner Since `v0.23.5`, there are no limits to the number of enemies you can hunt. Instead, the slowly decay over time.
 
-
+---
 
 ### Formulas
 

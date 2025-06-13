@@ -2,11 +2,15 @@
 
 IdleMMO offers a variety of classes, each with unique effects and talents that enhance their performance in different tasks. Combat talents, which are stat boosts, are automatically granted as characters reach certain levels.
 
+---
+
 ## Purpose of classes
 
 The purpose of classes to is give players a choice in how they want to play the game. Each class has its own unique set of bonuses and talents that cater to different playstyles. For example, the `Warrior` class is focused on combat and physical strength, while the `Miner` class is focused on the `Mining` skill. Players can choose the class that best suits their preferred playstyle and goals in the game.
 
 There are certain classes that are designed to be more challenging than others, such as the `Forsaken` class. These classes are intended for players who want a more difficult and challenging experience in the game. Players can choose these classes if they want to test their skills and push themselves to their limits.
+
+---
 
 ## Changing Classes
 
@@ -18,6 +22,7 @@ However, please keep in mind that there are limits to the class changing system:
 - Some classes are `locked` and cannot be changed. These classes are the `Forsaken`, `Cursed`, and `Banished`. This means a character cannot change to these classes or from these classes.
 - The `Metamorphite` item cannot be traded between characters.
 
+---
 
 ## Class Limitations
 

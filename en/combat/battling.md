@@ -2,7 +2,9 @@
 
 Once you've located a mob, you can start a battle by selecting an enemy and clicking `Battle`. You may only select one enemy at a time to battle.
 
-#### Battle Mechanics
+---
+
+### Battle Mechanics
 
 Here’s how it works: after selecting an enemy to battle, your character will keep fighting through the entire stack of enemies until one of three things happens:
 
@@ -22,7 +24,9 @@ When a battle begins, the UI will show you the following key information, so you
 
 >!banner All of the above values are dependent on your stats, equipment, the enemies stats, and the food you brought with you.
 
-#### Food
+---
+
+### Food
 
 Before starting a battle, you can choose various food items to take with you. These items increase your overall **effective health**, allowing you to fight for longer.
 
@@ -30,7 +34,9 @@ For example, if your character has **100** HP and you bring **20** food items, e
 
 If you end a battle early, any unused food will be returned to your inventory. The system will attempt to prioritise using the weakest food items first. For example, if you have 1x **500** HP food item and 100x **100** HP food items, it will try to use the **100** HP items before the **500** HP item. However, this may not always happen exactly like this, as it depends on the battle and when you choose to stop it.
 
-#### Stance
+---
+
+### Stance
 Stance lets you choose which stat you want to focus on when earning EXP rewards after defeating an enemy.
 
 Here are the five stances you can select:
@@ -45,7 +51,9 @@ You can choose your stance when you start a battle, but you can't change it once
 
 When you defeat an enemy, both your `Combat Level` and selected stats will increase. For example, if you earn 20 EXP from defeating an enemy, `20 EXP` will be applied to the stats based on your selected stance, and another `20 EXP` will be added to your `Combat Level`.
 
-#### Enemy Scaling
+---
+
+### Enemy Scaling
 
 **IMPORTANT:** This feature is currently experimental and available only to characters with membership status for a limited time during testing.
 
@@ -62,7 +70,9 @@ This scaling approach is designed to avoid major imbalances in loot frequency. F
 
 [Magic Find](/wiki/character/effects?same_window=true#magic-find) only applies to the loot rates for each item, it does not apply to the chance of obtaining a drop. Scaling an enemy will not increase the "Chance of Loot" value.
 
-#### Notes
+---
+
+### Notes
 
 >!banner Taking a lot of food with you will increase your effective health, allowing you to battle for longer.
 

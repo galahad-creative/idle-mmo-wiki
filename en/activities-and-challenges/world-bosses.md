@@ -8,6 +8,8 @@ After a successful defeat, there is a cooldown period before the boss respawns, 
 
 Encountering World Bosses is the main way to acquire [Pet Eggs](/wiki/items-and-pets/item-types?same_window=true), which are essential for obtaining pets once the incubation period is over.
 
+---
+
 ### List of World Bosses
 
 <div class="table-container">
@@ -27,6 +29,8 @@ Encountering World Bosses is the main way to acquire [Pet Eggs](/wiki/items-and-
 | **Thal'guth**           | ![Thalguth](https://cdn.idle-mmo.com/cdn-cgi/image/width=50,height=50/uploaded/skins/SrDKZ5l5oc8JtQGJNNKL0Cb1fHrMsq-metaZmlyZSBiZWFzdC5wbmc=-.png)    | Level 95                 | 3,500 EXP | 170s          | 420m             | The Citadel                  |    ![Starmane Egg](https://cdn.idle-mmo.com/cdn-cgi/image/height=35,width=35/uploaded/skins/wWoWHXee7cJuXQEyyksbysgkyLKYpW-metaZWdnLTEwLnBuZw==-.png)  Starmane Egg <br>    ![Chest Of Upgrades](https://cdn.idle-mmo.com/cdn-cgi/image/height=35,width=35/uploaded/skins/38avw63VJGEzqigMNONsHxYmgq4Fll-metaY2hlc3QucG5n-.png)  Chest Of Upgrades  <br>   ![Sauronix Egg](https://cdn.idle-mmo.com/cdn-cgi/image/height=35,width=35/uploaded/skins/A4XSIEHMB2XXtto8ZCXo4q3rDx6maF-metaZWdnLTYucG5n-.png)  Sauronix Egg <br>   ![Wrymshadow Egg](https://cdn.idle-mmo.com/cdn-cgi/image/height=35,width=35/uploaded/skins/wWoWHXee7cJuXQEyyksbysgkyLKYpW-metaZWdnLTEwLnBuZw==-.png) Wrymshadow Egg <br> ![Dragon Soulstone](https://cdn.idle-mmo.com/cdn-cgi/image/height=35,width=35/uploaded/skins/01HXVFKQKPC4N8XM0RN3X9CSPH.png) Dragon Soulstone
 
 </div>
+
+---
 
 ### Limited Time World Bosses
 

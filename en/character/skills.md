@@ -12,6 +12,8 @@ Skills are the foundation of IdleMMO, allowing you to progress even when you're 
 
 >!!banner Explore new locations to discover different items acquired from skills by [travelling](/wiki/activities-and-challenges/travelling?same_window=true).
 
+---
+
 ### Types of Skills in IdleMMO
 
 IdleMMO offers a variety of skills, each with its own unique progression. Some skills even level up passively and are integrated with other game mechanics.
@@ -35,6 +37,7 @@ IdleMMO offers a variety of skills, each with its own unique progression. Some s
 | <div>![Yule Mastery](https://cdn.idle-mmo.com/cdn-cgi/image/width=24,height=24/uploaded/skins/OXBGDWcgUce8zFwEUocxz59E6uABq9-metac25vd21hbi5wbmc=-.png)__Yule Mastery__</div>               | Only available during the [Yule Fest campaign](/wiki/activities-and-challenges/campaigns?same_window=true). Yule mastery allows characters to gather snow, create snowballs, and build snowmen.                                |
 | <div>![Springtide Mastery](https://cdn.idle-mmo.com/cdn-cgi/image/width=24,height=24/uploaded/skins/01HT2CH8GYGB22Q6RJ5XK7SQ06.png)__Springtide Mastery__</div>               | Only available during the [Springtide Fair campaign](/wiki/activities-and-challenges/campaigns?same_window=true). Springtide Mastery allows characters to collect, decorate and glaze eggs.                                |
 
+---
 
 ### Stats from Skills
 
@@ -50,6 +53,7 @@ The table below will show you the stat increase for each skill:
 | <div>![Cooking](https://cdn.idle-mmo.com/cdn-cgi/image/width=24,height=24/uploaded/skins/wI2XxGzeSRX6AFMRUADAnKji9NgOIK-metaY29va2luZy5wbmc=-.png)__Cooking__</div>    | Dexterity         |
 | <div>![Forge](https://cdn.idle-mmo.com/cdn-cgi/image/width=24,height=24/uploaded/skins/tuVX8BVjiz53PoeSWF1KJ26OTEOoZI-metaaDkucG5n-.png)__Forge__</div>    | Strength          |
 
+---
 
 ### Ascension Levels
 

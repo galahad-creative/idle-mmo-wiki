@@ -8,6 +8,8 @@ Upon successful completion of a challenge, the guild earns experience points. Ad
 
 As the guild levels up, more challenges can be completed within 24 hours.
 
+---
+
 #### Maximum Challenges
 
 | Guild Level | Max Challenges |
@@ -18,6 +20,8 @@ As the guild levels up, more challenges can be completed within 24 hours.
 | Lv. __60__    |  __8__ Challenges             |
 | Lv. __85__    |  __9__ Challenges             |
 | Lv. __100__   | __10__ Challenges             |
+
+---
 
 #### Refreshing Challenges
 

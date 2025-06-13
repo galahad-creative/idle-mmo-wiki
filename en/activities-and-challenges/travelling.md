@@ -2,19 +2,25 @@
 
 Embark on journeys across [Solaris Isle](/wiki/lore/solaris-isle?same_window=true), where each location is brimming with unique items critical for skill development, such as ores for mining and trees for logging. Moreover, new dungeons await to be discovered in these varied locales.
 
-#### Traveling Made Easy
+---
+
+### Traveling Made Easy
 
 - Start your exploration by clicking the `Map` button. From there, navigate and select your next destination.
 
 **Pro Tip:** Boost your [Movement Speed](/wiki/character/stats?same_window=true) stat to reduce travel times between locations, making your adventures more efficient and allowing you to gather resources faster.
 
-#### Teleportation Costs
+---
+
+### Teleportation Costs
 
 The cost of teleportation is based on your character's total level across all skills, except for those that are whitelisted.
 
 The following skills are excluded from increased teleportation costs as they have minimal impact on the game's economy: `Springtide Mastery`, `Shadow Mastery`, `Lunar Mastery`, `Guild Mastery`, `Yule Mastery`, and `Meditation`. This means you can level up these skills without affecting your teleportation costs.
 
-#### Seasonal Campaign Locations
+---
+
+### Seasonal Campaign Locations
 
 Some locations are only available when their seasonal campaign is live. You can only teleport or travel to these event locations while the campaign is active - if the campaign isn’t active, the game won't let you go there.
 

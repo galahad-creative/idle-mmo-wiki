@@ -4,6 +4,8 @@ The leaderboards in IdleMMO serve as a hall of fame, highlighting the top-perfor
 
 It's a great way to see how you stack up against your friends and the competition.
 
+---
+
 #### Current Leaderboard Categories
 
 As it stands, the leaderboards track and display rankings across a range of categories:

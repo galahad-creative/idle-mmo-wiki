@@ -2,6 +2,7 @@
 
 Meditation is a unique skill in idleMMO that is entirely based on the concept of selflessness and the helping of others, rather than yourself.
 
+---
 
 #### How It Works
 
@@ -9,6 +10,8 @@ Getting started is easy:
 
 - Just press **Start** to begin meditating.
 - You’ll gain EXP at a base rate of **0.8 EXP per second**.
+
+---
 
 #### Guidance Scrolls (Unlocked at Meditation Level 35)
 
@@ -34,6 +37,8 @@ Here’s how they work:
 
 >!banner Users that are trade-locked can write scrolls, but cannot send them.
 
+---
+
 #### Enlightenment
 
 Reach **level 100** and you’ll achieve **Enlightenment** — a prestigious milestone with a cosmetic twist.
@@ -42,6 +47,7 @@ Reach **level 100** and you’ll achieve **Enlightenment** — a prestigious mil
 
 >!banner We’re planning to add even more cosmetic-only features for Enlightened players in the future.
 
+---
 
 #### Sound Effects
 
@@ -54,12 +60,15 @@ While meditating, you can listen to various sound effects to help you relax.
 
 >!banner Due to technical limitations with the web browser, the sound effects must be manually enabled.
 
+---
+
 #### Notes
 
 - The Meditation skill is **purely focused on helping others** - it’s not designed to benefit your own character directly.
 - Progression is intentionally slow - not only does it take months of dedication, but it also means you're sacrificing time that could’ve been spent on other skills.
 - Reaching **Enlightenment** is meant to be a rare and meaningful achievement that reflects **patience, dedication, and selflessness**.
 
+---
 
 #### Guidance Scroll Scaling Formula
 

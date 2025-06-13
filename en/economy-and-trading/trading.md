@@ -2,7 +2,9 @@
 
 Trading is a way for characters to directly send items and gold between each other without using the market.
 
-#### How to start a new trade
+---
+
+### How to start a new trade
 
 1. Navigate to the profile of the character you want to trade with.
 2. Press "Trades" to open the trade window. This will list any previous trades you have had with the character.
@@ -10,7 +12,10 @@ Trading is a way for characters to directly send items and gold between each oth
 4. Add items and gold by pressing on the respective buttons.
 5. Once you are satisfied with the trade offer, press "Accept". Once both parties have accepted the trade, the items and gold will be transferred.
 
-#### Fee
+
+---
+
+### Fee
 
 When trading with another character, there is a fee associated with every transaction. The fees are as follows:
 
@@ -37,8 +42,9 @@ Any recipient that has not added gold or items to the trade offer will not pay a
 
 **Note:** Members enjoy a lower fee rate (10%) compared to non-members (13%).
 
+---
 
-#### Notes
+### Notes
 
 - Trades are __final__ and __cannot be reversed__.
 - The IdleMMO administration do not reimbuse scams or trades gone wrong. While the administration will punish any offenders, it is up to the players to ensure they are trading with trusted players.

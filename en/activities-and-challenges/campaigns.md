@@ -2,14 +2,16 @@
 
 Campaigns in IdleMMO provide a completely free, no strings attached battle pass experience, letting players earn various rewards like tokens and exclusive skins. There are two main types of campaigns to engage with:
 
-#### Permanent Campaigns
+### Permanent Campaigns
 
 - These are the main campaigns of IdleMMO, accessible at any time. They do not expire.
 - Permanent campaigns offer a variety of rewards, including exclusive skins, tokens, and other in-game items.
 
 >!!banner Don't worry about missing out! you can revisit any previous permanent campaign at your leisure.
 
-#### Seasonal Campaigns
+---
+
+### Seasonal Campaigns
 
 - These campaigns are tied to seasonal events like Halloween, Winter Holidays, Easter, and Valentine's Day, and they are available only for a limited time.
 - Once a seasonal campaign ends, you cannot access it again.
@@ -23,7 +25,9 @@ Campaigns in IdleMMO provide a completely free, no strings attached battle pass 
 
 Building a **Snowman**, for instance, yields higher points compared to simple **Snowball** trading. This is by design, as activities requiring greater effort, like gathering materials for **Snowman**, are more rewarding in the campaign. Keep in mind, the extra effort pays off in a substantial points boost!
 
-#### Community Goal
+---
+
+### Community Goal
 
 In every seasonal campaign, there’s a community goal that brings everyone together. Players work together to hit a shared target, and when the goal is reached, everyone is eligible for a boost. The boost lasts for the rest of the campaign. Once it ends, the boost expires.
 
@@ -32,6 +36,8 @@ For a character to receive a boost, they must contribute at least once to the co
 For example, if the community goal reaches tier 1 and you haven’t yet received any boost, you’ll need to contribute at least one point to unlock the tier 1 boost. Later, if the community goal advances to tier 2, you’ll need to contribute again to receive the tier 2 boost. If you don’t, your character will retain the tier 1 boost until it expires.
 
 >!banner Unlike boosts provided by the shrine, the boosts from the <strong>community goal</strong> are not stackable. Any new boost from the <strong>community goal</strong> will replace the previous one, rather than adding to it.
+
+---
 
 ## Permanent Campaigns
 

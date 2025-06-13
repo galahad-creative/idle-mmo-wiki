@@ -2,14 +2,18 @@
 
 In IdleMMO, pets aren’t just loyal companions - they’re a key part of the game, offering unique advantages. With a wide variety of pets to choose from, each one shines in specific roles thanks to their differing stats.
 
-#### Stats
+---
+
+### Stats
 
 - Larger pets tend to boast a higher [Movement Speed](/wiki/character/stats?new_page=true) stat.
 - Equipping a pet boosts your own stats correspondingly. For instance, a pet's [Movement Speed](/wiki/character/stats?new_page=true) of 20 m/s will be added to your character's speed. Note that only one pet can be equipped at a time.
 - Agility may vary, with some pets naturally outperforming others.
 - Increasing your [Pet Mastery](/wiki/character/skills?new_page=true) skill also increases the stats of your pets. It scales from **0%** bonus to a **20%** bonus. This means, at level 100 [Pet Mastery](/wiki/character/skills?new_page=true), your pets will have a **20%** bonus to their stats.
 
-#### Status
+---
+
+### Status
 
 - Keep your pet content and fed to maintain its stat bonuses. If you forget about it, it will become unhappy and hungry, leading to a decrease in its stat bonuses.
 - Feed your pet to improve hunger.
@@ -17,20 +21,25 @@ In IdleMMO, pets aren’t just loyal companions - they’re a key part of the ga
 
 >!banner Pets' happiness and hunger levels deplete with time, so regular care is important.
 
+---
 
-#### Equipping Pets
+### Equipping Pets
 
 When you equip a pet, all its stats are added to your character’s. For example, if your character has 20 attack power and your pet has 15, your total effective attack power becomes 35. This is also the primary way to boost your character’s movement speed stat.
 
 Equipped pets also gain experience from your battles, allowing you to level up both your character and your pets simultaneously.
 
-#### Patting and Happiness
+---
+
+### Patting and Happiness
 
 You can keep your pet happy by giving it a pat! The happiness boost your pet gets from each pat depends on your [Pet Mastery](/wiki/character/skills?new_page=true) level—the higher your mastery, the more happiness your pet gains with just a simple tap.
 
 The happiness your pet gains from a pat ranges from **15** to **150** points, depending on your [Pet Mastery](/wiki/character/skills?new_page=true) level. At level **100** mastery, each pat grants **150** happiness points - often enough to completely fill your pet’s happiness bar with just one pat.
 
-#### Battles
+---
+
+### Battles
 
 You can engage your pets in battles against enemies, allowing them to gain experience and enhance their stats over time.
 
@@ -62,13 +71,13 @@ The table below indicates the minimum pet level required to battle in each locat
 
 A pet’s status and health play a vital role in how long battles last. If your pet is unhealthy, weak, hungry, or unhappy, its performance will suffer, leading to less-than-ideal results.
 
-##### Loot
+#### Loot
 
 Your pet can return back loot after it has finished it's battles. The chance of loot is dependent on a variety of factors - including the pets stats (which influence how long the pet can battle for and how many enemies it can battle), as well as your [Pet Mastery](/wiki/character/skills?new_page=true) level. 
 
 The [Pet Mastery](/wiki/character/skills?new_page=true) level directly influences the chance of obtaining a loot per enemy. It currently scales from 2.5% to 10% chance of obtaining loot per enemy. This means, at level 100 [Pet Mastery](/wiki/character/skills?new_page=true), you have a **10%** chance of obtaining loot per enemy.
 
-##### Length of Battles
+#### Length of Battles
 
 The duration of battles depends on your pet’s stats and health. Keeping your pet healthy and happy is crucial - it ensures peak performance during battles. If your pet’s health isn’t at its max, it won’t perform as well, and you risk missing out on valuable experience.
 
@@ -82,15 +91,16 @@ The number of pets you can send on a battle depends entirely on your [Pet Master
 
 It scales from **2** pets, to **10** pets. This means, if you reach the maximum [Pet Mastery](/wiki/character/skills?new_page=true) level (lv. **100**), then you can send **10** pets to battle at the same time.
 
+---
 
-#### The Incubation Period
+### The Incubation Period
 
 - Newly acquired pets from eggs undergo an incubation period.
 - High-quality pets typically require a longer incubation before hatching and becoming available.
 - Pets acquired from a campaign are immediately available for use.
 
 ------
-#### Quick Overview
+### Quick Overview
 
 - Obtain pets from [World Bosses](/wiki/activities-and-challenges/world-bosses?same_window=true), [Campaigns](/wiki/activities-and-challenges/campaigns?same_window=true) or the [Market](/wiki/economy-and-trading/market?same_window=true).
 - Keep your pet happy and fed to maintain its stat bonuses. 

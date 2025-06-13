@@ -6,6 +6,8 @@ This section is a simple guide on how to begin using the two main features in Id
 
 If you need more help or feel the guide isn't enough, our [Discord](https://discord.gg/nDGbr7AKkk) community is here for you. Join us to get support and advice from our friendly and knowledgeable players.
 
+---
+
 ## Skills
 
 Skills are the foundation of IdleMMO, allowing you to make progress even when you're not actively playing
@@ -18,6 +20,8 @@ Simple, isn't it?
 
 >!banner Explore new locations to discover new ores!
 
+---
+
 ## Hunting and Battling
 
 Engaging in battle in IdleMMO starts with finding enemies. This simple process sets the stage for your combat encounters.
@@ -26,6 +30,8 @@ Engaging in battle in IdleMMO starts with finding enemies. This simple process s
 - Upon completion, a selection of enemies will appear on the page. Simply press on an enemy and then **Battle** to initiate the fight. Choose your opponent wisely, taking care not to engage with enemies out of your league, as enemies significantly stronger than your character may be impossible to defeat.
 
 >!banner Enhance your gameplay by improving your <strong>Hunting Mastery</strong> level. A higher level in this skill increases the variety of enemies you encounter during hunts, giving you more options for battle.
+
+---
 
 ## Conclusion
 

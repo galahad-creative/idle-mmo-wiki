@@ -2,9 +2,13 @@
 
 The Shrine is a community-driven feature where players work together to unlock powerful boosts by contributing resources to reach specific tiers.
 
+---
+
 ### How It Works
 
 Players can contribute either **Gold** or **Tokens** to the Shrine. As the community contributes and reaches higher tiers, increasingly powerful boosts become available for activation. Each tier requires more contributions but offers better rewards.
+
+---
 
 ### How To Activate Boosts
 
@@ -15,8 +19,9 @@ To activate boosts:
 
 Once activated, the boosts will appear on your character page under the **Effects** section.
 
- If you activate boosts close to reset time, they will only last until the reset. For instance: As the Shrine resets at **12:00 PM UTC** and you activate boosts at **11:55 AM UTC**, you will only benefit for __5__ minutes.
+If you activate boosts close to reset time, they will only last until the reset. For instance: As the Shrine resets at **12:00 PM UTC** and you activate boosts at **11:55 AM UTC**, you will only benefit for __5__ minutes.
 
+---
 
 ### Token Contribution
 
@@ -27,9 +32,13 @@ For example:
 
 >!banner Only characters at a total level of **600** and above may contribute tokens to the shrine.
 
+---
+
 ### Reset Time
 
 The Shrine resets **daily at 12:00 PM UTC**.
+
+---
 
 ### Important Notes
 - You can activate multiple tiers at once, and their effects will stack.  
