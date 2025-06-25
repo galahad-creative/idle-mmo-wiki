@@ -10,6 +10,8 @@ The Tavern is a social hub where players can share their adventures, discuss the
 
 Players can create posts with titles and content, categorize them with tags, and engage with other players through comments and reactions. The Tavern serves as the main community discussion board where you can find tips, stories, trade offers, and guild recruitment posts.
 
+>!banner It costs 2,500 gold to create a post in the Tavern.
+> 
 ---
 
 ### Tags
