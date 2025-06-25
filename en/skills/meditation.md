@@ -39,7 +39,7 @@ Here’s how they work:
 
 ---
 
-#### Buufs
+#### Guidance Scrolls Bonus
 
 Guidance Scrolls give the following bonus:
 +#% World Boss Magic Find
