@@ -39,6 +39,20 @@ Here’s how they work:
 
 ---
 
+#### Buufs
+
+Guidance Scrolls give the following bonus:
++#% World Boss Magic Find
++#% Dungeon Magic Find
++#% Battle Magic Find
++#% Hunt Efficiency
++#% Guild Mastery EXP
++#% Hunt EXP
++#% Combat EXP
++#% Primary Skill EXP
+
+---
+
 #### Enlightenment
 
 Reach **level 100** and you’ll achieve **Enlightenment** — a prestigious milestone with a cosmetic twist.
