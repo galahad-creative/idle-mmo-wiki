@@ -27,11 +27,11 @@ Guild experience is calculated as a percentage of the total EXP a player earns f
 ---
 
 ### Territory Control
-Guild assaults are not just about experience – they also determine **territory control**. The guild with the most EXP in a location by the end of the season becomes its ruler for the following season, granting them exclusive boosts within that region*.
+Guild assaults are not just about experience – they also determine **territory control**. The top 5 guilds with the most EXP in a location by the end of the season become its rulers for the following season, granting them tiered boosts within that region*.
 
 #### Example:
-- If **Guild A** and **Guild B** are both competing for Bluebell Hollow, but **Guild A** secures more EXP, they will be crowned as the rules for the next season.
-- Occupying guilds receive region-specific boosts for the duration of their rule.
+- If multiple guilds are competing for Bluebell Hollow, the guilds with the top 5 highest EXP totals will be crowned as the rulers for the next season.
+- Each guild receives region-specific boosts based on their ranking (1st through 5th place) for the duration of their rule.
 
 #### Notes
 - Guilds can assault multiple locations but can only launch one assault at a time.
@@ -44,14 +44,51 @@ Guild assaults are not just about experience – they also determine **territory
 
 #### Boosts
 
-The winning guilds of the zone will receive the following boosts for the duration of their rule (the length of the subsequent season):
+The top 5 guilds of each zone will receive the following boosts for the duration of their rule (the length of the subsequent season):
 
+**1st Place:**
 - **+10%** Primary Skill EXP
 - **+3%** Primary Skill Efficiency
+- **+10%** Dungeon Magic Find
+- **+10%** World Boss Magic Find
+- **+10%** Dungeon EXP
+- **+10%** World Boss EXP
+- **+10%** Hunting EXP
+
+**2nd Place:**
+- **+8%** Primary Skill EXP
+- **+3%** Primary Skill Efficiency
+- **+8%** Dungeon Magic Find
+- **+8%** World Boss Magic Find
+- **+8%** Dungeon EXP
+- **+8%** World Boss EXP
+- **+8%** Hunting EXP
+
+**3rd Place:**
+- **+6%** Primary Skill EXP
+- **+2%** Primary Skill Efficiency
+- **+6%** Dungeon Magic Find
+- **+6%** World Boss Magic Find
+- **+6%** Dungeon EXP
+- **+6%** World Boss EXP
+- **+6%** Hunting EXP
+
+**4th Place:**
+- **+4%** Primary Skill EXP
+- **+2%** Primary Skill Efficiency
+- **+4%** Dungeon Magic Find
+- **+4%** World Boss Magic Find
+- **+4%** Dungeon EXP
+- **+4%** World Boss EXP
+- **+4%** Hunting EXP
+
+**5th Place:**
+- **+2%** Primary Skill EXP
+- **+1%** Primary Skill Efficiency
 - **+2%** Dungeon Magic Find
 - **+2%** World Boss Magic Find
-- **+4%** Dungeon EXP
-- **+5%** World Boss EXP
-- **+5%** Hunting EXP
+- **+2%** Dungeon EXP
+- **+2%** World Boss EXP
+- **+2%** Hunting EXP
 
 >!!banner There are currently technical limitations preventing the game from applying these boosts.  Our goal is to have it ready before Season 4 begins. If that happens, the winners of each zone from Season 3 will enjoy the full benefit of buffs throughout Season 4.<br/><br/> However, if the feature isn’t ready in time for the start of Season 4, we’ll release it during the season. In that case, the Season 3 winners will start getting the buffs from the moment the update goes live, and those buffs will last until the end of Season 4.
