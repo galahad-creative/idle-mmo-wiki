@@ -2,7 +2,7 @@
 
 A shooting star is a special event that occurs randomly in the game. When a shooting star appears, active players in the game will be notified.
 
-The goal is to search for the shooting star so that you can claim the timited-limited it offers. The boosts last for as long as the shooting star is active, which is typically around 30 to 60 minutes.
+The goal is to search for the shooting star so that you can claim the limited time boost it offers. The boosts last for as long as the shooting star is active, which is typically around 30 to 60 minutes.
 
 
 >!banner The shooting star is random. It may only appear once or twice a day, or it may not appear at all.
