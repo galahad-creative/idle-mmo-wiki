@@ -82,3 +82,4 @@ Ascension levels are only applicable to the following skills:
 - Forge
 - Hunting Mastery
 - Combat
+- Dungeoneering
