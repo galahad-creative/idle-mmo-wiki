@@ -57,16 +57,31 @@ When you defeat an enemy, both your `Combat Level` and selected stats will incre
 
 **IMPORTANT:** This feature is currently experimental and available only to characters with membership status for a limited time during testing.
 
-Once a character reaches Combat Level **80**, they unlock the option to scale enemies to match their level.
+Once a character reaches Combat Level **80**, they unlock the option to scale enemies to their level or higher.
+
+#### Scaling Tiers
+
+- **Level 80-99**: Characters can scale enemies up to their current level using a simple toggle switch
+- **Level 100+**: Characters unlock advanced scaling with a slider, allowing them to scale enemies from their current level up to Level **150**
+
+#### Benefits
 
 Scaling enemies offers several benefits:
 
-- **Improved loot** - loot increases based on how much the enemy is scaled. This boost is applied through a [Magic Find](/wiki/character/effects?same_window=true#magic-find) bonus to the character’s battle session.
-- **More EXP gains** - experience points are scaled to the character’s level rather than the enemy’s base level.
+- **Improved loot** - loot increases based on how much the enemy is scaled. This boost is applied through a [Magic Find](/wiki/character/effects?same_window=true#magic-find) bonus to the character's battle session.
+- **More EXP gains** - experience points are scaled to the selected level rather than the enemy's base level.
+- **Greater challenge** - Level 100+ characters can scale enemies above their own level for additional difficulty and rewards.
 
-The difference between the enemy's original level and the character's level determines the loot boost amount - the greater the level gap, the larger the loot increase. Currently, the bonus magic find scales from **+0% to +40%**, depending on this distance. For example, a Level 100 character scaling a Level 1 enemy receives the full **40%** magic find boost.
+#### Magic Find Calculation
 
-This scaling approach is designed to avoid major imbalances in loot frequency. For instance, if a Level 100 character scales a Level 99 enemy (increasing its level by just one), it would be unbalanced to grant the full 40% magic find boost, as loot drop rates were explicitly set to match each enemy’s quality and scarcity.
+The difference between the enemy's original level and the scaled level determines the loot boost amount - the greater the level gap, the larger the loot increase. Currently, the bonus magic find scales from **+0% to +40%**, depending on this distance. 
+
+Examples:
+- A Level 100 character scaling a Level 1 enemy to Level 100 receives a significant magic find boost
+- A Level 100 character scaling that same Level 1 enemy to Level 150 receives the maximum **40%** magic find boost
+- A Level 100 character scaling a Level 99 enemy to Level 100 receives minimal magic find boost (due to small level difference)
+
+This scaling approach is designed to avoid major imbalances in loot frequency. The magic find bonus is proportional to the level difference between the enemy's base level and the scaled level, not the character's level.
 
 [Magic Find](/wiki/character/effects?same_window=true#magic-find) only applies to the loot rates for each item, it does not apply to the chance of obtaining a drop. Scaling an enemy will not increase the "Chance of Loot" value.
 
