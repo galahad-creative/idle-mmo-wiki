@@ -48,6 +48,27 @@ Increased from 10 to **25** for maximum listings.
 #### Order Limits
 Increased from 10 to **25** for maximum orders.
 
+# More tasks
+Complete more daily, weekly, and monthly tasks for the campaign.
+
+# More Equipped Badges
+Equip 3 badges on your profile instead of 1.
+
+# Lower Trade Fee
+Reduce the fee on any trades from **13%** to **10%**.
+
+#### More Ascension Points
+Get 10 ascension points instead of 8.
+
+#### Quicker Ascension Point Regeneration
+Get an ascension point every 6 hours instead of every 10 hours.
+
+#### Cheaper Mail
+Get a 30% reduction in cost when sending mail to other characters.
+
+#### Larger Bio
+Increase your bio character limit from 1,000 to 2,500.
+
 
 ## Monetization Strategy
 
