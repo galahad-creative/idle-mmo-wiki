@@ -68,30 +68,31 @@ For instance, if your character can successfully complete a dungeon run at the c
 
 #### List of Dungeons
 
-| Dungeon                  | Level Required | Location | Cost  | Time To Complete | Difficulty |
-|--------------------------|----------------| -------- | ----- | ---------------- | ----------- |
-| __Millstone Mines__      | Lv. 3          | Bluebell Hollow | 300 | 15m | _TBC_ |
-| __Vineyard Labyrinth__   | Lv. 10         | Bluebell Hollow | 1,200 | 15m | _TBC_ |
-| __Verdant Veil__         | Lv. 25         | Whispering Woods | 2,400 | 15m | _TBC_ |
-| __Sylvan Sanctum__       | Lv. 40         | Whispering Woods | 3,600| 15m | _TBC_ |
-| __Whispering Catacombs__ | Lv. 60         | Whispering Woods | 4,800 | 15m | _TBC_ |
-| __Cursed Asylum__        | Lv. 62         | Eldoria | 6,000 | 22m | _TBC_ |
-| __Forgotten Archives__   | Lv. 65         | Eldoria | 9,000 | 30m | _TBC_ |
-| __Crystal Forge__        | Lv. 70         | Crystal Caverns | 15,000 | 39m | _TBC_ |
-| __Frostbite Spire__      | Lv. 74         | Skyreach Peak | 18,000 | 48m | _TBC_ |
-| __Zenith's Sanctum__     | Lv. 76         | Skyreach Peak | 21,000 | 59m | _TBC_ |
-| __Mirage Citadel__       | Lv. 78         | Enchanted Oasis | 24,000 | 70m | _TBC_ |
-| __Eden's Embrace__       | Lv. 82         | Floating Gardens of Aetheria | 27,000 | 83m | _TBC_ |
-| __Arboreal Labyrinth__   | Lv. 84         | Floating Gardens of Aetheria | 30,000 | 96m | _TBC_ |
-| __Bloodmoon Manor__      | Lv. 86         | Celestial Observatory | 33,000 | 111m | _TBC_ |
-| __Ruins of Old Ranhor__  | Lv. 88         | Isle of Whispers | 36,000 | 126m | _TBC_ |
-| __Volcanic Depths__      | Lv. 90         | Isle of Whispers | 39,000 | 142m | _TBC_ |
-| __Celestial Enclave__    | Lv. 92         | The Citadel | 42,000 | 160m | _TBC_ |
-| __The Nexus__            | Lv. 95         | The Citadel | 45,000 | 179m | _TBC_ |
-| __Winter Wonderland__    | Lv. 25         | Yulewood Glades | 960 | 25m | _TBC_ |
-| __Springtide Keep__      | Lv. 25         | Springtide Fair  | 960 | 25m | _TBC_ |
-| __Silverleaf Enclave__   | Lv. 25         | Moonlit Valley | 960 | 25m | _TBC_ |
-| __Pumpkin Hollow__       | Lv. 25         | Wraithwood Forest | 960 | 25m | _TBC_ |
-| __Wickedroot Patch__     | Lv. 50         | YWraithwood Forest | 960 | 25m | _TBC_ |
-| __Snowbound Forest__     | Lv. 50         | Yulewood Glades | 960 | 25m | _TBC_ |
-| __Garden of Grief__      | Lv. 50         | Springtide Fair | 960 | 25m | _TBC_ |
+| Dungeon                  | Level Required | Location | Cost   | Time To Complete |
+|--------------------------|----------------| -------- |--------|------------------| 
+| __Millstone Mines__      | Lv. 3          | Bluebell Hollow | 300    | 2h               | 
+| __Vineyard Labyrinth__   | Lv. 10         | Bluebell Hollow | 1,200  | 2h 3m 20s        |
+| __Verdant Veil__         | Lv. 25         | Whispering Woods | 2,400  | 2h 6m 40s        | 
+| __Sylvan Sanctum__       | Lv. 40         | Whispering Woods | 3,600  | 2h 10m           |
+| __Whispering Catacombs__ | Lv. 60         | Whispering Woods | 4,800  | 2h 13m 20s       |
+| __Cursed Asylum__        | Lv. 62         | Eldoria | 6,000  | 2hr 15m 20s      |
+| __Forgotten Archives__   | Lv. 65         | Eldoria | 9,000  | 2h 20m           |
+| __Crystal Forge__        | Lv. 70         | Crystal Caverns | 15,000 | 2h 23m 20s       |
+| __Frostbite Spire__      | Lv. 74         | Skyreach Peak | 18,000 | 2h 26m 40s       |
+| __Zenith's Sanctum__     | Lv. 76         | Skyreach Peak | 21,000 | 2h 30m           |
+| __Mirage Citadel__       | Lv. 78         | Enchanted Oasis | 24,000 | 2h 33m 20s       |
+| __Eden's Embrace__       | Lv. 82         | Floating Gardens of Aetheria | 27,000 | 2h 36m 40s       |
+| __Arboreal Labyrinth__   | Lv. 84         | Floating Gardens of Aetheria | 30,000 | 2h 40m           |
+| __Bloodmoon Manor__      | Lv. 86         | Celestial Observatory | 33,000 | 2h 43m 20s       |
+| __Ruins of Old Ranhor__  | Lv. 88         | Isle of Whispers | 36,000 | 2h 46m 40s       |
+| __Volcanic Depths__      | Lv. 90         | Isle of Whispers | 39,000 | 2h 50m           |
+| __Celestial Enclave__    | Lv. 92         | The Citadel | 42,000 | 3h               |
+| __The Nexus__            | Lv. 95         | The Citadel | 45,000 | 1h               |
+| __Winter Wonderland__    | Lv. 25         | Yulewood Glades | 1,500  | 1h               |
+| __Springtide Keep__      | Lv. 25         | Springtide Fair  | 1,500  | 1h               |
+| __Silverleaf Enclave__   | Lv. 25         | Moonlit Valley | 1,500  | 1h               |
+| __Pumpkin Hollow__       | Lv. 25         | Wraithwood Forest | 1,500  | 1h               |
+| __Wickedroot Patch__     | Lv. 50         | YWraithwood Forest | 4,000  | 1h               |
+| __Snowbound Forest__     | Lv. 50         | Yulewood Glades | 4,000  | 1h               |
+| __Garden of Grief__      | Lv. 50         | Springtide Fair | 4,000  | 1h               |
+| __Stone Hollow__         | Lv. 50         | Moonlit Valley | 4,000  | 1h               |
