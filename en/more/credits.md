@@ -120,6 +120,16 @@ Users who have contributed to the wiki via Github.
 <p class="text-gray-400 text-sm">Wiki Contributor</p>
 </div>
 
+<div class="bg-gray-800 rounded-lg p-3 shadow-md hover:shadow-lg transition-shadow duration-300">
+<h3 class="text-lg font-medium !mt-0 !mb-0">Lost-Fire</h3>
+<p class="text-gray-400 text-sm">Wiki Contributor</p>
+</div>
+
+<div class="bg-gray-800 rounded-lg p-3 shadow-md hover:shadow-lg transition-shadow duration-300">
+<h3 class="text-lg font-medium !mt-0 !mb-0">AimForNuts</h3>
+<p class="text-gray-400 text-sm">Wiki Contributor</p>
+</div>
+
 </div>
 </div>
 
@@ -307,6 +317,11 @@ Select community members chosen to alpha test the game and provide valuable feed
 
 <div class="bg-gray-800 rounded-lg p-3 shadow-md hover:shadow-lg transition-shadow duration-300">
 <h3 class="text-lg font-medium !mt-0 !mb-0">Exogor</h3>
+<p class="text-gray-400 text-sm">Discord Knight</p>
+</div>
+
+<div class="bg-gray-800 rounded-lg p-3 shadow-md hover:shadow-lg transition-shadow duration-300">
+<h3 class="text-lg font-medium !mt-0 !mb-0">Gh0st</h3>
 <p class="text-gray-400 text-sm">Discord Knight</p>
 </div>
 
