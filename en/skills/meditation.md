@@ -39,6 +39,22 @@ Here’s how they work:
 
 ---
 
+#### Guidance Scrolls Bonus
+
+Guidance Scrolls give the following bonus:
++1% -> +10% World Boss Magic Find
++1% -> +10% Dungeon Magic Find
++1% -> +10% Battle Magic Find
++1% -> +15% Hunt Efficiency
++1% -> +15% Guild Mastery EXP
++1% -> +15% Hunt EXP
++1% -> +15% Combat EXP
++1% -> +15% Primary Skill EXP
+
+>!banner The bonus changes according to the characters Meditation level.
+
+---
+
 #### Enlightenment
 
 Reach **level 100** and you’ll achieve **Enlightenment** — a prestigious milestone with a cosmetic twist.
