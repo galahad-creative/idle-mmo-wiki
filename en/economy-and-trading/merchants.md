@@ -1,6 +1,6 @@
-# Vendor
+# Merchants
 
-The vendor in IdleMMO is where players can trade tokens and gold for a variety of skins, items, and account enhancements.
+Merchants allow characters to tokens and gold for a variety of skins, items, and account enhancements.
 
 ----
 
@@ -34,7 +34,7 @@ Time limited skins are skins that are only purchable for a limited time. Once pu
 - **Potion Materials:** Used in potion concocting.
 - **Empty Crystals:** For crafting essence crystals.
   
-The vendor also provides basic skill items such as [Pickaxes](/wiki/items-and-pets/item-types), [Felling Axes](/wiki/items-and-pets/item-types), and [Fishing Rods](/wiki/items-and-pets/item-types) to support the start of your adventure.
+Merchants also provides basic skill items such as [Pickaxes](/wiki/items-and-pets/item-types), [Felling Axes](/wiki/items-and-pets/item-types), and [Fishing Rods](/wiki/items-and-pets/item-types) to support the start of your adventure.
 
 ---- 
 
