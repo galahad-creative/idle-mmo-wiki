@@ -85,6 +85,20 @@ You **must** respect the rate limits imposed on your API key. Rate limits are en
 
 >!!banner Excessive API calls that consistently hit rate limits will be investigated and may result in immediate suspension of API privileges.
 
+### Authorized Endpoints Only
+
+**You may only access endpoints that are publicly documented and begin with `/v1/`.**
+
+- Only use endpoints listed in the official API documentation
+- All authorized endpoints begin with `/v1/` (e.g., `/v1/auth/check`)
+- **Accessing any other API endpoints is strictly forbidden**
+- Attempting to access internal or undocumented endpoints will result in:
+  - Immediate suspension of API access
+  - Potential account suspension
+  - IP address blocking
+
+>!!banner Any attempt to access non-public API endpoints is considered a breach of service and will be dealt with severely.
+
 ### Account Restrictions
 
 **Creating multiple accounts to bypass API limitations is strictly prohibited.**
