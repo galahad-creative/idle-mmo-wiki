@@ -101,7 +101,8 @@ Welcome to our comprehensive game wiki, your ultimate guide to mastering IdleMMO
 ![Patch Notes](https://cdn.idle-mmo.com/cdn-cgi/image/width=26,height=20/uploaded/skins/xsEMoJTtsDFbxlYt120rt2p20MIWpc-metacmVjaXBlLnBuZw==-.png) [Patch Notes](/wiki/more/patch-notes?same_window=true)\
 ![FAQs](https://cdn.idle-mmo.com/cdn-cgi/image/width=26,height=20/uploaded/skins/xsEMoJTtsDFbxlYt120rt2p20MIWpc-metacmVjaXBlLnBuZw==-.png) [FAQs](/wiki/more/faqs?same_window=true)\
 ![Road Map](https://cdn.idle-mmo.com/cdn-cgi/image/width=26,height=20/uploaded/skins/xsEMoJTtsDFbxlYt120rt2p20MIWpc-metacmVjaXBlLnBuZw==-.png) [Road Map](https://trello.com/b/CxIn7i5B/idlemmo-public-roadmap)\
-![Credits](https://cdn.idle-mmo.com/cdn-cgi/image/width=26,height=20/uploaded/skins/xsEMoJTtsDFbxlYt120rt2p20MIWpc-metacmVjaXBlLnBuZw==-.png) [Credits](/wiki/more/credits?same_window=true)
+![Credits](https://cdn.idle-mmo.com/cdn-cgi/image/width=26,height=20/uploaded/skins/xsEMoJTtsDFbxlYt120rt2p20MIWpc-metacmVjaXBlLnBuZw==-.png) [Credits](/wiki/more/credits?same_window=true)\
+![API](https://cdn.idle-mmo.com/cdn-cgi/image/width=26,height=20/uploaded/skins/xsEMoJTtsDFbxlYt120rt2p20MIWpc-metacmVjaXBlLnBuZw==-.png) [API](/wiki/more/api?same_window=true)
 
 </div>
 <div>
