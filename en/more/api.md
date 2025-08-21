@@ -12,14 +12,23 @@ API keys can be generated from your [account settings](/settings/api). Each key 
 
 ## Using API Keys in Third-Party Software
 
->!!banner <strong>Note:</strong> If you are creating a software that will be used by other players by yourself, this is a requirement. Failure to follow this will result in account suspension.
+>!!banner <strong>Important:</strong> This section ONLY applies to applications where users input their own API keys. If you're using your own API key to serve data (e.g., from a database or website you control), these disclosure requirements do not apply.
 
-If you're developing software that will be used by other players, you **must** do the following:
+### When These Requirements Apply
 
-- Disclose to the user how their data is being handled.
-- Send all requests to the API using a custom user agent.
+These requirements apply when:
+- Users enter their own API keys into your application
+- Your application makes API calls on behalf of other users using their credentials
 
-### Required Disclosures
+These requirements **DO NOT** apply when:
+- You use only your own API key to fetch data
+- You serve processed data from your own API key to users
+- Users never provide their API keys to your application
+- **Examples:** Guild websites showing member stats, leaderboard sites, data analysis tools using data you obtained from your own API key
+
+>!banner If users provide their API keys to your application, you MUST follow all requirements below. Failure to do so will result in account suspension.
+
+### Required Disclosures for User API Key Applications
 
 Any application that accepts IdleMMO API keys from users must clearly display the following information before requesting access:
 
