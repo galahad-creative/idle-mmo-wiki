@@ -62,6 +62,7 @@ The guild member limit is dependent on the guilds total level.
 | __Start Conquests__          | ✗      | ✗      | ✔   | ✔      |
 | __Update Guild Tag__         | ✗      | ✗      | ✔   | ✔      |
 | __Banish Guild__             | ✗       | ✗       | ✗    | ✔      |
+| __Rename Guild__             | ✗       | ✗       | ✗    | ✔      |
 
 
 -------
