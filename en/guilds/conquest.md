@@ -91,8 +91,6 @@ The top 5 guilds of each zone will receive the following boosts for the duration
 - **+2%** World Boss EXP
 - **+2%** Hunting EXP
 
->!!banner There are currently technical limitations preventing the game from applying these boosts.  Our goal is to have it ready before Season 4 begins. If that happens, the winners of each zone from Season 3 will enjoy the full benefit of buffs throughout Season 4.<br/><br/> However, if the feature isn’t ready in time for the start of Season 4, we’ll release it during the season. In that case, the Season 3 winners will start getting the buffs from the moment the update goes live, and those buffs will last until the end of Season 4.
-
 #### Individual Rewards
 
 Characters who join assaults will receive a Shard reward based on their position in the zone leaderboard, regardless of whether their guild wins.
