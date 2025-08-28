@@ -99,15 +99,16 @@ Each zone has its own leaderboard, and characters can appear on multiple leaderb
 
 A character’s position is determined by the total EXP they contribute to their guild’s conquest in that zone.
 
-| Position | Reward        |
-|----------|---------------|
-| **1st**      | 20,000 Shards |
-| **2nd**      | 15,000 Shards |
-| **3rd**      | 10,000 Shards |
-| **4th**      | 5,000 Shards  |
-| **5th**      | 4,800 Shards  |
-| **6th**      | 4,500 Shards  |
-| **7th**      | 4,000 Shards  |
-| **8th**      | 3,500 Shards  |
-| **9th**      | 3,000 Shards  |
-| **10th**     | 2,000 Shards  |
+| Position      | Reward        |
+|---------------|---------------|
+| **1st**       | 20,000 Shards |
+| **2nd**       | 15,000 Shards |
+| **3rd**       | 10,000 Shards |
+| **4th**       | 5,000 Shards  |
+| **5th**       | 4,800 Shards  |
+| **6th**       | 4,500 Shards  |
+| **7th**       | 4,000 Shards  |
+| **8th**       | 3,500 Shards  |
+| **9th**       | 3,000 Shards  |
+| **10th**      | 2,000 Shards  |
+| **11th-25th** | 1,000 Shards  |
