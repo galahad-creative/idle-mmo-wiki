@@ -35,8 +35,8 @@ Guild assaults are not just about experience – they also determine **territory
 
 #### Notes
 - Guilds can assault multiple locations but can only launch one assault at a time.
-- Assaults are performed in waves. Each wave takes **6 hours**. 
-- Each assault costs **10 marks** to initiate.
+- Assaults are performed in waves. Each wave takes **3 hours**. 
+- Each wave of an assault costs **4 marks** to initiate.
 - Poor planning, such as spreading forces too thin or wasting marks, could leave a guild unable to initiate future assaults.
 - Only battles that start _after_ the assault is launched will count towards the guild's conquest.
 
@@ -92,3 +92,24 @@ The top 5 guilds of each zone will receive the following boosts for the duration
 - **+2%** Hunting EXP
 
 >!!banner There are currently technical limitations preventing the game from applying these boosts.  Our goal is to have it ready before Season 4 begins. If that happens, the winners of each zone from Season 3 will enjoy the full benefit of buffs throughout Season 4.<br/><br/> However, if the feature isn’t ready in time for the start of Season 4, we’ll release it during the season. In that case, the Season 3 winners will start getting the buffs from the moment the update goes live, and those buffs will last until the end of Season 4.
+
+#### Individual Rewards
+
+Characters who join assaults will receive a Shard reward based on their position in the zone leaderboard, regardless of whether their guild wins.
+
+Each zone has its own leaderboard, and characters can appear on multiple leaderboards if they participate in assaults in different zones.
+
+A character’s position is determined by the total EXP they contribute to their guild’s conquest in that zone.
+
+| Position | Reward        |
+|----------|---------------|
+| **1st**      | 20,000 Shards |
+| **2nd**      | 15,000 Shards |
+| **3rd**      | 10,000 Shards |
+| **4th**      | 5,000 Shards  |
+| **5th**      | 4,800 Shards  |
+| **6th**      | 4,500 Shards  |
+| **7th**      | 4,000 Shards  |
+| **8th**      | 3,500 Shards  |
+| **9th**      | 3,000 Shards  |
+| **10th**     | 2,000 Shards  |
