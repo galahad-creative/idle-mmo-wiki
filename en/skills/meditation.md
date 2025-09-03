@@ -20,7 +20,7 @@ At level 35, you unlock the ability to create **Guidance Scrolls** - powerful it
 Here’s how they work:
 
 - You’ll earn **0.1 EXP/s** while writing guidance scrolls.
-- You need a **Blank Scroll** to write one. You can buy these from the vendor.
+- You need a **Blank Scroll** to write one. You can buy these from the [Merchants](/wiki/economy-and-trading/merchants?same_window=true) under General Goods.
 - You **can’t** use a guidance scroll on yourself or your alts - this skill is all about helping *others*.
 - The higher your Meditation level, the **stronger the boost** in the scroll.
 - Once given, the scroll’s effect is applied **instantly** and lasts for **2 hours**.

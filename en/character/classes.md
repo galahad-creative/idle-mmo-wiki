@@ -14,7 +14,7 @@ There are certain classes that are designed to be more challenging than others, 
 
 ## Changing Classes
 
-Players can change their class  by purchasing the `Metamorphite` item from the vendor. Once this item has been obtained, it can be used in the inventory.
+Players can change their class  by purchasing the `Metamorphite` item from the [Merchants](/wiki/economy-and-trading/merchants?same_window=true) under General Goods. Once this item has been obtained, it can be used in the inventory.
 
 However, please keep in mind that there are limits to the class changing system:
 - The `Metamorphite` is a consumable item. A new item must be purchased every time a character wishes to change a class.
