@@ -58,10 +58,11 @@ For instance, if your character can successfully complete a dungeon run at the c
 
 ----
 
-#### Dungeon Shop
+#### Dungeon shards
 
 - Every dungeon beyond level 70 gets dungeon shards.
-- Dungeon shards can be exchanged in the vendor for: Dragon Soul Stones, Essence Crystals, and Potions.
+- Dungeon shards can be exchanged in the [Celestial Exchange](/wiki/economy-and-trading/merchants?same_window=true) for: Dragon Soul Stones, Essence Crystals, Potions and even Tokens. 
+- Shards also can be exchanged in the [Legacy Vault](/wiki/economy-and-trading/merchants?same_window=true) to buy rewards from previous campaigns.
 - Dungeon shards are obtained every time you complete a dungeon.
 
 ---- 

@@ -92,7 +92,7 @@ Welcome to our comprehensive game wiki, your ultimate guide to mastering IdleMMO
 
 #### Economy and Trading
 ![Market](https://cdn.idle-mmo.com/cdn-cgi/image/width=20,height=20/global/gold_coin.png) [Market](/wiki/economy-and-trading/market?same_window=true)\
-![Vendor](https://cdn.idle-mmo.com/cdn-cgi/image/width=20,height=20/global/token.png) [Vendor](/wiki/economy-and-trading/vendor?same_window=true)\
+![Merchants](https://cdn.idle-mmo.com/cdn-cgi/image/width=20,height=20/global/token.png) [Merchants](/wiki/economy-and-trading/merchants?same_window=true)\
 ![Trading](https://cdn.idle-mmo.com/cdn-cgi/image/width=20,height=20/global/gold_coin.png) [Trading](/wiki/economy-and-trading/trading?same_window=true)
 
 </div>
